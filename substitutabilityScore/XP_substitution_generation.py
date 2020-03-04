@@ -15,7 +15,7 @@ import os
 import pickle
 import datetime
 import logging
-
+import numpy as np
 
 
 date = datetime.datetime.now().strftime('%y_%m_%d_%H_%M')
