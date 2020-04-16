@@ -1,0 +1,220 @@
+libname library "C:\Users\deGavelle\Documents\Thèse\Base de donnée AA\SAS\";
+libname inca2 "C:\Users\deGavelle\Documents\Thèse\Etat des lieux protéines\INCA2\";
+libname modeles "C:\Users\deGavelle\Documents\Thèse\Modélisation\SAS";
+libname macros "C:\Users\deGavelle\Documents\Thèse\Base de donnée AA\SAS\macros\";
+OPTION FMTSEARCH=(work library Inca2) NOFMTERR SASMSTORE=macros MSTORED;
+
+/************************************************************************************************************** 01/02/17
+/*************************************************************************************************************************/
+/***************** 																					     *****************/
+/*****************                     Calcul PANDiet 3.1(INCA2, population générale)                     ****************/
+/*****************                                                                                       *****************/
+/***************** 																					     *****************/
+/*************************************************************************************************************************/
+/*************************************************************************************************************************/
+
+
+/*************************************************************************************************************************/
+/*****************      			      Calcul des consommations nutritionnelles	   			         *****************/
+/*************************************************************************************************************************/
+
+/*Calcul nutriments en kg poids corporel*/
+proc sort data=individu;by nomen;run;
+data conso;
+merge conso (in=a) individu (in=b);
+by nomen;
+if nomen=. then delete;
+Arginine_kg=arginine_d/poids ; Isoleucine_kg=isoleucine_d/poids ; Leucine_kg=leucine_d/poids ; Lysine_kg=lysine_d/poids; Methionine_kg=Methionine_d/poids; Cystine_kg=Cystine_d/poids;Phenylalanine_kg=Phenylalanine_d/poids; Tyrosine_kg=Tyrosine_d/poids; Threonine_kg=Threonine_d/poids;
+Tryptophane_kg=Tryptophane_d/poids; Valine_kg=Valine_d/poids; Histidine_kg=Histidine_d/poids; Alanine_kg= Alanine_d/poids; Acide_aspartique_kg=Acide_aspartique_d/poids; Acide_glutamique_kg=Acide_glutamique_d/poids; Glycine_kg=Glycine_d/poids; Proline_kg=Proline_d/poids; Serine_kg=Serine_d/poids; 
+Phe_Tyr_kg=phenylalanine_kg + tyrosine_kg; AAS_kg=methionine_kg + cystine_kg; proteines_kg=proteines_d/poids;proteines_N_kg=proteines_N_d/poids;mgkg=mg/poids;
+keep nomen nojour tyrep codal FoodDescription qte_nette Histidine_kg Lysine_kg Leucine_kg Isoleucine_kg Valine_kg Threonine_kg phe_tyr_kg Tryptophane_kg AAS_kg proteines_kg proteines_N_kg proteines_d proteines_N_d energie energie_d qte_d fibres eau lipides glucides glus alcool chol agp LAom6 ALAom3 om3epa om3dha epadha ags glus_slac sa ca mn cu fe fer_nonhem fer_hem eq_thenoir MFP iode mg mg_dis mgkg p k na se zn phytates ret bcar vita vitb1 vitb2 vitb3_en vitb5 vitb6 vitb9 vitb12 vitc vitd vite 
+pond3 sousest1 sexe_ps v2_age poids taille nbjcc pal agglo5 up reg clage situprof t_men menopause fumeur AR_energie z animal vegetal vegetal_d muscle prod_lait oeuf  cereales legumineuses noix f_leg_pdt autre_vegetal viande_rouge volaille gibier abats charcuterie poisson lait yaourt fromage autres_lait epices pdt fruits legumes;
+z=0;
+if a & b;
+run;
+
+
+/*somme des apports quotidiens*/
+proc sort data=conso;by nomen nojour pond3;run;
+proc means data=conso noprint;
+var Histidine_kg Lysine_kg Leucine_kg Isoleucine_kg Valine_kg Threonine_kg phe_tyr_kg Tryptophane_kg AAS_kg proteines_kg proteines_N_kg fibres energie energie_d qte_d lipides glucides glus_slac alcool chol agp LAom6 ALAom3 om3epa om3dha epadha ags ca mn cu fe fer_nonhem fer_hem eq_thenoir MFP iode mg mg_dis mgkg p k na se zn phytates ret bcar vita vitb1 vitb2 vitb3_en vitb5 vitb6 vitb9 vitb12 vitc vitd vite animal vegetal muscle prod_lait oeuf cereales f_leg_pdt noix legumineuses autre_vegetal viande_rouge volaille gibier abats charcuterie poisson lait yaourt fromage autres_lait epices pdt fruits legumes;
+by nomen nojour pond3 sexe_ps v2_age poids menopause fumeur situprof AR_energie;
+output out=conso_jour sum= Histidine_kg Lysine_kg Leucine_kg Isoleucine_kg Valine_kg Threonine_kg phe_tyr_kg Tryptophane_kg AAS_kg proteines_kg proteines_N_kg fibres energie energie_d qte_d lipides glucides glus_slac alcool chol agp LAom6 ALAom3 om3epa om3dha epadha ags ca mn cu fe fer_nonhem fer_hem eq_thenoir MFP iode mg mg_dis mgkg p k na se zn phytates ret bcar vita vitb1 vitb2 vitb3_en vitb5 vitb6 vitb9 vitb12 vitc vitd vite animal vegetal muscle prod_lait oeuf cereales f_leg_pdt noix legumineuses autre_vegetal viande_rouge volaille gibier abats charcuterie poisson lait yaourt fromage autres_lait epices pdt fruits legumes;
+run;
+
+/*conversion de quelques variables nutri pour les avoir dans les mêmes unités que le besoin*/
+data conso_jour;
+set conso_jour;
+energie_woa=energie - alcool *7;
+glut_ei = glucides * 400 / energie_woa;
+sa_ei = sa * 400 / energie_woa;
+lip_ei = lipides * 900 / energie_woa;_woa
+LAom6_ei=LAom6*900/energie_woa;
+ALAom3_ei=ALAom3*900/energie_woa; 
+ags_ei=ags*900/energie_woa; 
+agp_ei=agp*900/energie_woa;
+vitb1_ei = vitb1/energie_woa*1000;
+vitb2_ei = vitb2/energie_woa*1000;
+vitb3_ei = vitb3_en/energie_woa*1000;
+
+/*Prise en compte de la biodisponibilité du zinc et du fer (cf Armah et al 2013 et Miller et al 2007)*/
+/*Zinc*/
+zn_mol=zn/65.38;
+phytates_mol=phytates/660.04;
+zn_biodis= 0.5 * (0.13 + zn_mol + 0.10*(1+phytates_mol/1.2)-sqrt((0.13+zn_mol+0.10*(1+phytates_mol/1.2))**2 - 4*0.13*zn_mol));
+zn_biodis=zn_biodis*65.38;
+Zn_abs=zn_biodis/zn*100;
+/*Fer*/
+
+if fer_nonhem ^=0 & ca ^=0 & phytates ^=0 & vitc ^=0 
+then log_absorb_nh = 6.294 - 0.709 * log(15) + 0.119 * log(vitc) + 0.006 * log (MFP + 0.1) - 0.055 * log (eq_thenoir + 0.1) - 0.247 * log (phytates) - 0.137 * log(ca) - 0.083 * log (fer_nonhem) ;
+
+if fer_nonhem ^=0 & ca ^=0 & phytates ^=0 & vitc ^=0  
+then absorb_nh = exp(log_absorb_nh);
+else absorb_nh = 0;
+
+log10_absorb_h = 1.9897 - 0.3092 * log10(15);
+absorb_h = 10**(log10_absorb_h);
+fe_biodis=absorb_nh/100*fer_nonhem + absorb_h/100*fer_hem;
+fe_abs=fe_biodis/fe*100;
+if fe_biodis ^=0 then log_fe_biodis=log(fe_biodis);else log_fe_biodis=0;
+	
+K_mol=k/39.1;Na_mol=Na/23;P_mol=P/30.97;Ca_mol=Ca/40.08;
+
+/*Calcul de la densité énergétique*/
+densite=energie_d/qte_d;
+
+/*Rapport LA/ALA*/
+if ALAom3 ^= 0 then LA_ALA=LAom6/ALAom3; else LA_ALA=0;
+
+drop log_absorb_nh absorb_nh log10_absorb_h absorb_h energie_d qte_d;
+run;
+
+/*Moyenne /j*/
+proc means data=conso_jour noprint;
+by nomen sexe_ps v2_age poids menopause fumeur pond3 situprof AR_energie;
+var energie_woa densite Histidine_kg Lysine_kg Leucine_kg Isoleucine_kg Valine_kg Threonine_kg phe_tyr_kg Tryptophane_kg AAS_kg
+proteines_kg proteines_N_kg glut_ei glus_slac lip_ei LA_ALA LAom6_ei ALAom3_ei ags_ei agp_ei fibres chol om3dha  epadha ca ca_mol 
+mn cu fe fe_biodis log_fe_biodis fe_abs eq_thenoir MFP iode mg mg_dis mgkg p p_mol k k_mol na na_mol se zn zn_biodis phytates ret 
+bcar vita vitb1_ei vitb2_ei vitb2 vitb3_en vitb3_ei vitb5 vitb6 vitb9 vitb12 vitc vitd vite animal vegetal;
+output out=apport_moyen mean = Yenergie_woa Ydensite YHistidine_kg YLysine_kg YLeucine_kg YIsoleucine_kg YValine_kg YThreonine_kg Yphe_tyr_kg YTryptophane_kg YAAS_kg Yproteines_kg Yproteines_N_kg Yglut_ei Yglus_slac Ylip_ei YLA_ALA YLAom6_ei YALAom3_ei Yags_ei Yagp_ei Yfib Ychol Yom3dha Yepadha Yca Yca_mol YMn YCu Yfe Yfe_biodis Ylog_fe_biodis Yfe_abs Yeq_thenoir YMFP Yiode Ymg Ymg_dis Ymgkg Yp Yp_mol Yk Yk_mol Yna Yna_mol Yse Yzn Yzn_biodis Yphytates Yret Ybcar Yvita Yvitb1_ei Yvitb2_ei Yvitb2 Yvitb3_en Yvitb3_ei Yvitb5 Yvitb6 Yvitb9 Yvitb12 Yvitc Yvitd Yvite animal vegetal
+std = SDenergie_woa SDdensite SDHistidine_kg SDLysine_kg SDLeucine_kg SDIsoleucine_kg SDValine_kg SDThreonine_kg SDphe_tyr_kg SDTryptophane_kg SDAAS_kg SDproteines_kg SDproteines_N_kg SDglut_ei SDglus_slac SDlip_ei SDLA_ALA SDLAom6_ei SDALAom3_ei SDags_ei SDagp_ei SDfib SDchol SDom3dha SDepadha SDca SDca_mol SDMn SDCu SDfe SDfe_biodis SDlog_fe_biodis SDfe_abs SDeq_thenoir SDMFP SDiode SDmg SDmg_dis SDmgkg SDp SDp_mol SDk SDk_mol SDna SDna_mol SDse SDzn SDzn_biodis SDphytates SDret SDbcar SDvita SDvitb1_ei SDvitb2_ei SDvitb2 SDvitb3_en SDvitb3_ei SDvitb5 SDvitb6 SDvitb9 SDvitb12 SDvitc SDvitd SDvite sdanimal sdvegetal;
+run;
+
+/*Calcul du PANDiet*/
+data PANDiet; set apport_moyen (rename=(_FREQ_=nbjcc));
+
+/*** Adequacy subscore for unchanged nutrients***/
+
+PA1protkg=probnorm((Yproteines_N_kg-0.66)/sqrt((0.66*0.125)**2+SDproteines_N_kg**2/nbjcc));
+
+/*PA1gluc_ei=probnorm((Yglut_ei-36.4)/sqrt((0.05*36.4)**2+SDglut_ei**2/nbjcc));
+
+PA1lip_ei=probnorm((Ylip_ei-31.8)/sqrt((0.05*31.8)**2+SDlip_ei**2/nbjcc));*/
+
+PALAom6_ei=probnorm((YLAom6_ei-3.08)/sqrt((3.08*0.15)**2+SDLAom6_ei**2/nbjcc));
+pr
+PAALAom3_ei=probnorm((YALAom3_ei-0.769)/sqrt((0.769*0.15)**2+SDALAom3_ei**2/nbjcc));
+
+PAom3dha=probnorm((Yom3dha-0.192)/sqrt((0.192*0.15)**2+SDom3dha**2/nbjcc));
+
+PAepadha=probnorm((Yepadha-0.385)/sqrt((0.385*0.15)**2+SDepadha**2/nbjcc));
+
+PAfib=probnorm((Yfib-23)/sqrt((23*0.15)**2+SDfib**2/nbjcc));
+
+PAvitb1=probnorm((Yvitb1_ei-0.3)/sqrt((0.3*0.2)**2+SDvitb1_ei**2/nbjcc));
+
+PAvitb2=probnorm((Yvitb2-1.3)/sqrt((1.3*0.15)**2+SDvitb2**2/nbjcc));
+
+PAvitb3=probnorm((Yvitb3_ei-5.44)/sqrt((5.44*0.1)**2+SDvitb3_ei**2/nbjcc));
+
+PAvitb9=probnorm((Yvitb9-250)/sqrt((250*0.15)**2+SDvitb9**2/nbjcc)); 
+
+PAvitb12=probnorm((Yvitb12-3.33)/sqrt((3.33*0.1)**2+SDvitb12**2/nbjcc));
+
+PAvitc=probnorm((Yvitc-90)/sqrt((90*0.10)**2+SDvitc**2/nbjcc)); 
+
+PAvitd=probnorm((Yvitd-10)/sqrt((10*0.25)**2+SDvitd**2/nbjcc));
+
+PAiode=probnorm((Yiode-107)/sqrt((107*0.2)**2+SDiode**2/nbjcc));
+
+PAmgkg=probnorm((Ymgkg-5)/sqrt((5*0.15)**2+SDmgkg**2/nbjcc));
+
+
+PA1p=probnorm((Yp_mol-(Yca_mol/1.65))/sqrt((0.075*Yca_mol/1.65)**2+SDca_mol**2/nbjcc+SDp_mol**2/nbjcc)); /*Le BNM théorique est la borne basse de l'intervalle du rapport molaire 1.9:1-1.4:1 (EFSA) tel que si 1.9*Ypmol=Ycamol, PA=50%, le CV = 17.5% tel que pour 1.4*Ypmol=Ycamol, 97.5% de la pop est ok*/
+
+PAk=probnorm((Yk-2692)/sqrt((0.15*2692)**2+SDk**2/nbjcc));
+
+PAse=probnorm((Yse-54)/sqrt((0.15*54)**2+SDse**2/nbjcc));/*Le BNM est obtenu en considérant l'AI comme un ANC et un CV=15 par défaut*/
+
+PAzn=probnorm((Yzn_biodis-(0.642+0.038*poids))/sqrt(((0.642+0.038*poids)*0.10)**2+SDzn_biodis**2/nbjcc));
+
+
+
+/*** Adequacy subscore for nutrients with differents requirements by sex***/
+
+if sexe_ps=1 then PAvita=probnorm((Yvita-570)/sqrt((570*0.15)**2+SDvita**2/nbjcc)); 
+else PAvita=probnorm((Yvita-490)/sqrt((490*0.15)**2+SDvita**2/nbjcc));
+
+if sexe_ps=1 then PAvitb5=probnorm((Yvitb5-3.62)/sqrt((3.62*0.3)**2+SDvitb5**2/nbjcc));
+else PAvitb5=probnorm((Yvitb5-2.94)/sqrt((2.94*0.3)**2+SDvitb5**2/nbjcc));
+
+if sexe_ps=1 then PAvitb6=probnorm((Yvitb6-1.5)/sqrt((1.5*0.1)**2+SDvitb6**2/nbjcc)); 
+else PAvitb6=probnorm((Yvitb6-1.3)/sqrt((1.3*0.1)**2+SDvitb6**2/nbjcc));
+
+if sexe_ps=1 then PAvite=probnorm((Yvite-5.8)/sqrt((5.8*0.40)**2+SDvite**2/nbjcc));
+else PAvite=probnorm((Yvite-5.5)/sqrt((5.5*0.40)**2+SDvite**2/nbjcc));
+
+if sexe_ps=1 then PAcu=probnorm((Ycu-1)/sqrt((1*0.15)**2+SDcu**2/nbjcc));
+else PAcu=probnorm((Ycu-0.8)/sqrt((0.8*0.15)**2+SDcu**2/nbjcc));
+
+if sexe_ps=1 then PAmn=probnorm((Ymn-1.56)/sqrt((1.56*0.4)**2+SDmn**2/nbjcc));
+else PAmn=probnorm((Ymn-1.39)/sqrt((1.39*0.4)**2+SDmn**2/nbjcc));
+
+
+/*** Adequacy subscore for calcium***/
+if v2_age <=24 then PAca=probnorm((Yca-860)/sqrt((860*0.15)**2+SDca**2/nbjcc)); 
+else PAca=probnorm((Yca-750)/sqrt((750*0.13)**2+SDca**2/nbjcc)); 
+
+/*** Adequacy subscore for iron***/
+
+/* Premenopausal women*/
+if sexe_ps=2 & menopause = 2 then PAfe = probnorm((Ylog_fe_biodis - 0.18)/sqrt((0.34)**2 + SDlog_fe_biodis**2/nbjcc));
+/*Les paramètres de la loi (log)normale proviennent de la somme de la distribution des pertes basales (normale, µ=0.014 * (62 +/- 13 (kg)), CV=15% ) avec les pertes menstruelles (exponentielle, paramètre ln(2)/0.28).*/
+
+/*Men and postmenopausal women*/
+if sexe_ps=1 | (sexe_ps=2 & menopause = 1) then PAfe=probnorm((Yfe_biodis - 0.95)/sqrt((0.95*0.4)**2+SDfe_biodis**2/nbjcc));
+/*Paramètres estimés par l'EFSA (annexes), dont les résultats sont repris par l'Anses*/
+
+
+AS=(PA1protkg+PALAom6_ei+PAALAom3_ei+0.5*PAom3dha+0.5*PAepadha+PAfib+PAvita+PAvitb1+PAvitb2+PAvitb3+PAvitb5+PAvitb6+PAvitb9+PAvitb12+PAvitc+PAvitd+PAvite+PAca+PAcu+PAfe+PAiode+PAmgkg+PAmn+PA1p+PAk+PAse+PAzn)/26*100;
+
+/*** Moderation subscore ***/
+PA2protkg=1-probnorm((Yproteines_N_kg-2.2)/sqrt((0.125*2.2)**2+SDproteines_N_kg**2/nbjcc));
+PA2gluc_ei=1-probnorm((Yglut_ei-60.5)/sqrt((0.05*60.5)**2+SDglut_ei**2/nbjcc));
+PA2lip_ei=1-probnorm((Ylip_ei-44)/sqrt((0.05*44)**2+SDlip_ei**2/nbjcc));
+PAags_ei=1-probnorm((Yags_ei-12)/sqrt((0.15*12)**2+SDags_ei**2/nbjcc));
+PAsucres_slac=1-probnorm((Yglus_slac-100)/sqrt((100*0.15)**2+SDglus_slac**2/nbjcc));
+
+if sexe_ps=1 then PAna=1-probnorm((Yna-3312/1.6)/sqrt((3312/1.6*0.30)**2+SDna**2/nbjcc)); 
+else PAna=1-probnorm((Yna-2483/1.6)/sqrt((2483/1.6*0.30)**2+SDna**2/nbjcc)); /*Les valeurs 3312mg/j et 2483 sont les médianes de consommation dans l'échantillon, et le CV=30% celui de la population*/
+
+Penalty=0; 
+if Yret>3000 then Penalty=Penalty+1; 
+if Yvitb3_en>900 then Penalty=Penalty+1; 
+if Yvitb6>25 then Penalty=Penalty+1; 
+if Yvitb9>1170 then Penalty=Penalty+1; /*La LSS pour la VitB9 est 1000 (Anses) + 170 (P5 des apports en folates) car les apports en folates minimaux ne sont pas de l'acides folique*/
+if Yvitd>100 then Penalty=Penalty+1; 
+if Yvite>300 then Penalty=Penalty+1; 
+if Yca>2500 then Penalty=Penalty+1;
+if YCu>10 then Penalty=Penalty+1; 
+if Yiode>600 then Penalty=Penalty+1; 
+if Ymg_dis>250 then Penalty=Penalty+1; 
+if Yzn>25 then Penalty=Penalty+1;
+if Yse>300 then Penalty=Penalty+1;
+
+MS=(PA2protkg+PA2lip_ei+PA2gluc_ei+PAags_ei+PAna+PAsucres_slac)/(Penalty+6)*100;
+
+/*** Final score ***/
+PANDiet=(MS+AS)/2; Y=PANDiet; run;
+

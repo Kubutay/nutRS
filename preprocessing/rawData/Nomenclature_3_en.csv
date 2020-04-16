@@ -1,0 +1,1344 @@
+codgr	libgr	sougr	libsougr	codal	libal	libgren	libsougren	codsougr
+1	pain et panification sèche	1	pain	7001	pain baguette	breads	bread	11
+1	pain et panification sèche	1	pain	7004	pain grillé maison	breads	bread	11
+1	pain et panification sèche	1	pain	7012	pain courant français boule à la levure	breads	bread	11
+1	pain et panification sèche	1	pain	7100	pain de campagne ou bis	breads	bread	11
+1	pain et panification sèche	1	pain	7110	pain complet ou intégral artisanal	breads	bread	11
+1	pain et panification sèche	1	pain	7125	pain de seigle et froment	breads	bread	11
+1	pain et panification sèche	1	pain	7126	pain de seigle aux raisins	breads	bread	11
+1	pain et panification sèche	1	pain	7160	pain baguette sans sel	breads	bread	11
+1	pain et panification sèche	1	pain	7200	pain de mie	breads	bread	11
+1	pain et panification sèche	1	pain	7225	pain brioché ou viennois	breads	bread	11
+1	pain et panification sèche	1	pain	7255	pain aux céréales artisanal	breads	bread	11
+1	pain et panification sèche	1	pain	90003	pain type poilâne	breads	bread	11
+1	pain et panification sèche	1	pain	91123	pain sans précision	breads	bread	11
+1	pain et panification sèche	1	pain	92031	autre pain	breads	bread	11
+1	pain et panification sèche	2	biscottes et panification sèche	7300	biscotte classique type heudebert lu	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	7310	biscotte sans adjonction de sel	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	7330	biscotte multicéréales type heudebert aux six céréales	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	7340	biscotte complète ou riche en fibres	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	7400	pain grillé au froment type tranches pain grillé pelletier lu braisotte jacquet	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	7411	tartine extrudée fourrée au chocolat ou aux fruits type craquinette de lu	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	7425	pain grillé multicéréales type pain grillé multicéréales heudebert lu	breads	rusk	12
+1	pain et panification sèche	2	biscottes et panification sèche	92030	autre biscotte	breads	rusk	12
+1	pain et panification sèche	3	autres produits de panification	7430	croûtons	breads	other product of panification	13
+1	pain et panification sèche	3	autres produits de panification	7500	chapelure ou panure	breads	other product of panification	13
+1	pain et panification sèche	3	autres produits de panification	7812	fougasse garnie	breads	other product of panification	13
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32000	grains de blé soufflés au miel ou au caramel enrichis en vitamines et minéraux t	breakfast cereals	cereal breakfast	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32002	céréales riches en fibres enrichies en vitamines et minéraux type all-bran	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32003	céréales sucrées sans précision	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32005	pétales de maïs ou corn-flakes nature sucrés enrichis en vitamines et minéraux t	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32006	riz soufflé nature sucré enrichi en vitamines et minéraux type rice krispies kel	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32021	céréales nature enrichies en vitamines et minéraux type kellogg's spécial k ou n	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32121	pétales de maïs glacés au sucre enrichis en vitamines et minéraux type kellogg's	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	1	céréales sucrées, glacées ou au miel	32133	boules de maïs soufflé au miel enrichies en vitamines et minéraux type miel pops	breakfast cereals	sweetened cereals	21
+2	céréales pour petit déjeuner	2	céréales chocolatées	32001	céréales chocolatées sucrées non fourrées enrichies en vitamines et minéraux	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32009	pétales de blé chocolatés enrichis en vitamines et minéraux type chocos kellogg'	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32016	céréales fourrées au chocolat ou chocolat-noisette enrichies en vitamines et min	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32022	céréales chocolatées enrichies en vitamines et minéraux type spécial k au chocol	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32112	muesli croustillant au chocolat enrichi en vitamines et minéraux	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32115	grains de blé soufflés chocolatés enrichis en vitamines et minéraux	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32131	riz soufflé chocolaté enrichi en vitamines et minéraux type choco pops kellogg's	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	2	céréales chocolatées	32135	multi-céréales au chocolat soufflées ou extrudées enrichies en vitamines et miné	breakfast cereals	chocolate cereals	22
+2	céréales pour petit déjeuner	3	céréales aux fruits frais ou secs	32023	céréales aux fruits enrichies en vitamines et minéraux type fitness & fruits de	breakfast cereals	cereals with fruit	23
+2	céréales pour petit déjeuner	3	céréales aux fruits frais ou secs	32110	muesli floconneux aux fruits ou aux fruits secs enrichi en vitamines et minéraux	breakfast cereals	cereals with fruit	23
+2	céréales pour petit déjeuner	3	céréales aux fruits frais ou secs	32111	muesli croustillant aux fruits ou aux fruits secs enrichi en vitamines et minéra	breakfast cereals	cereals with fruit	23
+2	céréales pour petit déjeuner	3	céréales aux fruits frais ou secs	32113	muesli floconneux aux fruits ou aux fruits secs sans sucre ajouté type alpen	breakfast cereals	cereals with fruit	23
+2	céréales pour petit déjeuner	3	céréales aux fruits frais ou secs	32123	pétales de blé avec noix, noisettes ou amandes enrichis en vitamines et minéraux	breakfast cereals	cereals with fruit	23
+2	céréales pour petit déjeuner	4	autres céréales pour petit déjeuner	32004	muesli sans précision	breakfast cereals	other breakfast cereals	24
+2	céréales pour petit déjeuner	4	autres céréales pour petit déjeuner	32018	céréales fourrées fourrage autre que chocolat enrichies en vitamines b1 b2 b6 b9	breakfast cereals	other breakfast cereals	24
+2	céréales pour petit déjeuner	4	autres céréales pour petit déjeuner	90032	autres céréales sucrées pour petit déjeuner	breakfast cereals	other breakfast cereals	24
+3	pâtes	1	pâtes alimentaires	9811	pâtes alimentaires cuites	pasta	pasta	31
+3	pâtes	1	pâtes alimentaires	9822	pâtes alimentaires aux oeufs cuites	pasta	pasta	31
+3	pâtes	1	pâtes alimentaires	9871	pâtes alimentaires au blé complet cuites	pasta	pasta	31
+3	pâtes	2	pâtes pour pâtisserie prêtes à l'emploi	23412	pâte brisée cuite	pasta	tart dough	32
+3	pâtes	2	pâtes pour pâtisserie prêtes à l'emploi	23422	pâte feuilletée cuite	pasta	tart dough	32
+4	riz et blé dur ou concassé	1	blé	9081	blé dur précuit nature type ebly	rice or wheat	wheat	41
+4	riz et blé dur ou concassé	1	blé	9683	couscous (graine seule) semoule cuite	rice or wheat	wheat	41
+4	riz et blé dur ou concassé	2	riz	9103	riz complet cuit	rice or wheat	rice	42
+4	riz et blé dur ou concassé	2	riz	9104	riz blanc cuit	rice or wheat	rice	42
+4	riz et blé dur ou concassé	2	riz	9105	riz blanc étuvé cuit	rice or wheat	rice	42
+5	autres céréales	99	sans	9230	pop corn ou maïs éclaté à l'huile salé	other cereals	other cereals	599
+5	autres céréales	99	sans	9313	flocons d'avoine cuits à l'eau	other cereals	other cereals	599
+5	autres céréales	99	sans	9615	polenta ou semoule de maïs cuite	other cereals	other cereals	599
+5	autres céréales	99	sans	9660	germes de blé	other cereals	other cereals	599
+6	viennoiserie	99	sans	7601	croissant sans précision	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7615	croissant ordinaire artisanal	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7620	croissant au beurre artisanal	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7650	croissant aux amandes artisanal	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7710	pain au lait artisanal	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7720	pain aux raisins	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7730	pain au chocolat feuilleté artisanal	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7740	brioche industrielle préemballée	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	7741	brioche sans précision	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	23480	chausson aux pommes	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	24660	palmier artisanal	viennoiserie	viennoiserie	699
+6	viennoiserie	99	sans	92510	autre viennoiserie	viennoiserie	viennoiserie	699
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24000	biscuit sec sans précision	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24002	biscuit diététique à teneur garantie en vitamines	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24003	biscuit diététique à teneur garantie en vitamines et minéraux	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24015	biscuit sec petit beurre	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24016	biscuit sec petit beurre + tablette de chocolat type lu petit écolier	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24031	biscuit sec corquant genre tuile sans chocolat allégé en matière grasse	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24034	biscuit sec pour petit déjeuner type lu ou prince	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24036	biscuit sec au chocolat sans précision	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24037	biscuit sec fourré à la pâte de fruit type figolu à la figue	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24038	biscuit sec nappé de chocolat type pépito ou mikado lu	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24049	galette ou sablé ou palet type galette du mont saint michel	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24231	goûter sec fourré au chocolat type prince ou bn au chocolat	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24310	gaufrette fourrée fourrage autre qu'aux fruits (chocolat vanille noisette…)	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24320	gaufrette fourrée aux fruits type paille d'or aux framboises	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24430	biscuit sec aux œufs à la cuillère ou boudoir	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24441	langue de chat	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24615	tuile aux amandes	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24659	biscuit sec feuilleté type petits cœurs nature ou palmito	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24678	barquette à la pulpe de fruit fabrication industrielle	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	24684	cookie	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	1	biscuits sucrés	92033	autre biscuit sucré	biscuits	sweet biscuits	71
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	4004	chips de pomme de terre salées	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	38105	chips de maïs ou tortilla chips type nacho cheese ou dippas nature doritos	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	38106	biscuit apéritif soufflé à base de pomme de terre type chipster lu	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	38400	biscuit apéritif soufflé à base de maïs sans cacahuète	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	38401	biscuit apéritif type cracker garni ou fourré au fromage type monaco lu	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	38402	biscuit apéritif type cracker nature type tuc ou triangolini	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	2	biscuits salés pour apéritif	38403	biscuit apéritif type cracker allégé en matière grasse	biscuits	crackers	72
+7	biscuits sucrés ou salés et barres	3	barres céréalières	31100	barre céréalière à base de céréales et de lait pour petit déjeuner avec ou sans	biscuits	cereal bars	73
+7	biscuits sucrés ou salés et barres	3	barres céréalières	31101	barre céréalière aux fruits enrichie en vitamines et minéraux	biscuits	cereal bars	73
+7	biscuits sucrés ou salés et barres	3	barres céréalières	31102	barre céréalière chocolatée enrichie en vitamines et minéraux	biscuits	cereal bars	73
+7	biscuits sucrés ou salés et barres	3	barres céréalières	31106	barre chocolatée céréalière type grany céréales chocolat	biscuits	cereal bars	73
+7	biscuits sucrés ou salés et barres	3	barres céréalières	31113	barre céréalière aux fruits	biscuits	cereal bars	73
+7	biscuits sucrés ou salés et barres	3	barres céréalières	31114	barre céréalière aux amandes ou noisettes	biscuits	cereal bars	73
+8	pâtisseries et gâteaux	1	gâteaux	23000	gâteau sans précision	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23007	gâteau mousse aux fruits sur génoise type miroir aux fruits rouges de picard	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23021	baba au rhum	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23032	brownie au chocolat	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23050	gâteau de savoie	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23081	quatre-quarts fabrication industrielle	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23121	gâteau breton ou far aux pruneau	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23200	pain d'épices	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23531	charlotte aux fruits artisanale	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23585	gâteau au chocolat	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23589	gâteau au fromage blanc	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23684	galette des rois feuilletée fourrée à la frangipane	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23909	cake aux fruits	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23939	gâteau moelleux fourré au chocolat ou aux pépites de chocolat noir ou au lait	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23940	gâteau moelleux fourré au chocolat multicouches type napolitain lu ou kinder dél	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23941	gâteau moelleux fourré aux fruits type mini roulé fraise captain choc	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	23950	muffin	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	24630	madeleine	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	24680	gâteau moelleux génoise fourrée à l'orange type chamonix	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	24686	gâteau moelleux génoise fourrée à l'orange enrobée de chocolat type pim's	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	90024	madeleine fourrée aux fruits type coqueline à la fraise	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	90031	gâteau à la crème	cake and pastry	cake	81
+8	pâtisseries et gâteaux	1	gâteaux	92034	autre gâteau	cake and pastry	cake	81
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23024	macaron moelleux fourré à la confiture ou à la crème artisanal	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23300	pâtisserie orientale aux amandes et au sirop	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23455	chou à la crème chantilly ou pâtissière	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23467	chouquette artisanale	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23477	éclair	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23490	tarte ou tartelette aux pommes	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23493	crumble aux pommes	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23499	tarte ou tartelette aux fruits	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23501	tarte à la crème	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	23900	pâtisserie sans précision	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	24666	millefeuille	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	2	pâtisseries et tartes	92035	autre pâtisserie	cake and pastry	pastry	82
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23800	crêpe au froment nature	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23801	crêpe ou galette bretonne au blé noir ou sarrasin	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23805	blinis	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23815	crêpe au froment sucrée non fourrée	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23820	crêpe au froment fourrée à la confiture	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23821	crêpe au froment fourrée au chocolat ou ou à la pâte à tartiner chocolat et nois	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23855	gaufre bruxelloise ou liégeoise avec ou sans chocolat préemballée	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23880	beignet sucré nature	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23881	beignet fourré à la confiture	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	23883	beignet fourré aux fruits	cake and pastry	doughnut crepe waffle	83
+8	pâtisseries et gâteaux	3	beignets, crêpes et gaufres	39236	pain perdu	cake and pastry	doughnut crepe waffle	83
+9	lait	1	lait en bouteille ou en brique	19011	lait de croissance infantile	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19023	lait entier uht	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19024	lait entier pasteurisé	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19041	lait demi-écrémé uht	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19042	lait demi-écrémé pasteurisé	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19044	lait demi-écrémé en poudre	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19045	lait demi-écrémé uht à teneur garantie en vitamines	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19046	lait demi-écrémé uht à teneur garantie en protéines et vitamines enrichi en miné	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19050	lait écrémé uht	milk	bottled milk	91
+9	lait	1	lait en bouteille ou en brique	19055	lait écrémé uht à teneur garantie en vitamines	milk	bottled milk	91
+9	lait	2	lait aromatisé	19110	lait demi-écrémé aromatisé	milk	flavoured milk	92
+9	lait	2	lait aromatisé	19122	lait demi-écrémé aromatisé au chocolat	milk	flavoured milk	92
+9	lait	2	lait aromatisé	19127	lait demi-écrémé aromatisé à la fraise	milk	flavoured milk	92
+9	lait	2	lait aromatisé	39000	milk-shake sans précision	milk	flavoured milk	92
+9	lait	3	lait concentré ou en poudre	19021	lait entier en poudre	milk	condensed milk	93
+9	lait	3	lait concentré ou en poudre	19026	lait entier concentré non sucré	milk	condensed milk	93
+9	lait	3	lait concentré ou en poudre	19027	lait entier concentré sucré	milk	condensed milk	93
+9	lait	3	lait concentré ou en poudre	19054	lait écrémé en poudre	milk	condensed milk	93
+9	lait	4	autre lait	19200	lait de chèvre entier uht	milk	other milk	94
+9	lait	4	autre lait	39400	lait de poule sans alcool	milk	other milk	94
+9	lait	4	autre lait	92511	autre lait	milk	other milk	94
+10	ultra-frais laitier	1	crème fraîche	19401	crème fraîche ou crème de lait fluide au moins 30% m.g. rayon frais	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19402	crème fraîche ou crème de lait sans précision	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19410	crème fraîche ou crème de lait épaisse au moins 30% m.g. rayon frais	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19415	crème fraîche ou crème de lait fluide au moins 30% m.g. uht	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19420	crème chantilly sucrée sous pression uht	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19430	crème fraîche ou crème de lait fluide allégée 15 à 20% m.g. uht	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19431	crème fraîche ou crème de lait épaisse allégée 15 à 20% m.g. rayon frais	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	19433	spécialité à base de crème légère 8% m.g. type crème fluide ou épaisse	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	81000	crème fraîche allégée ajoutée au service	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	81001	crème fraîche allégée ajoutée à la cuisson	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	81002	crème fraîche non allégée ajoutée au service	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	1	crème fraîche	81003	crème fraîche non allégée ajoutée à la cuisson	ultra fresh dairy	fresh cream	101
+10	ultra-frais laitier	2	yaourts et assimilés	19600	yaourt ou spécialité laitière nature	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19601	yaourt nature au lait entier	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19602	yaourt brassé nature au lait entier type danone velouté nature	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19605	yaourt nature au lait demi-écrémé	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19606	yaourt nature 0% m.g. type taillefine nature 0% danone yoplait silhouette	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19609	yaourt nature au lait demi-écrémé sucré	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19611	yaourt aromatisé au lait entier sucré	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19615	spécialité laitière type yaourt au bifidus aromatisé au lait entier sucrée type	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19617	yaourt nature au lait entier sucré	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19619	lait fermenté à boire au lait demi-écrémé nature type actimel	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19621	yaourt aux céréales ou au muesli au lait entier	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19624	yaourt ou spécialité laitière sans précision	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19628	yaourt ou spécialité laitière aux fruits sans précision	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19630	spécialité laitière au lait entier enrichie en crème au chocolat type stracciate	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19640	yaourt aromatisé au lait demi-écrémé sucré	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19670	spécialité laitière type yaourt 0% aromatisée sucrée type weight watcher	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19700	yaourt aux fruits au lait entier sucré type danone recette crémeuse aux fruits o	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19730	yaourt aux fruits au lait demi-écrémé sucré type panier de yoplait	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19740	spécialité laitière type yaourt au lait entier au bifidus et aux fruits sucrée	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19760	spécialité laitière type yaourt 0% aux fruits sucrée type sveltesse aux fruits p	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19765	spécialité laitière type yaourt 0% aux fruits aux édulcorants type panier de yop	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19771	yaourt à boire aromatisé au lait demi-écrémé sucré type yopi	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19772	yaourt à boire au lait demi-écrémé aux édulcorants	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19773	yaourt à boire aux fruits au lait demi-écrémé sucré type danone velouté ou fruix	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19780	lait fermenté à boire au bifidus et aux fruits genre yaourt à boire	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19800	lait fermenté au bifidus nature au lait entier type danone activa	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19801	lait fermenté à boire maigre nature type lait ribot ou lactéor l'ben	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19850	spécialité laitière nature à base de fromage blanc enrichie en crème type fjord	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19851	spécialité laitière aux fruits à base de fromage blanc enrichie en crème type ge	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19855	spécialité laitière type yaourt 0% aux céréales aux édulcorants type panier mues	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	19880	yaourt nature au lait de chèvre demi-écrémé	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	81071	yaourt ajouté au service	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	90057	yaourt bulgare ou velouté à la pulpe de fruits au lait entier	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	2	yaourts et assimilés	92036	autre yaourt ou spécialité laitière nature ou aux fruit	ultra fresh dairy	yoghurt	102
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19501	fromage blanc sans précision	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19502	fromage blanc sucré aromatisé ou aux fruits sans précision	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19505	fromage blanc battu nature 0% m.g.	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19506	fromage blanc de campagne nature 0% m.g.	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19510	fromage blanc battu 20% m.g. nature	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19515	fromage blanc battu nature 30% m.g.	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19518	fromage blanc battu aux fruits 0% m.g. aux édulcorants type yoplait câlin 0% sur	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19521	fromage blanc de campagne nature 40% m.g. type senoble fromage frais 43% campagn	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19522	fromage blanc battu nature 40% m.g. type danone jockey 40% ou yoplait calin 40%	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19562	petit-suisse nature 20% m.g. type gervais petit vitalité	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19565	petit-suisse nature 40% m.g.	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19566	fromage blanc aux fruits sucré 30-40% m.g.	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19569	petit suisse aux fruits au lait demi-écrémé type petits filous	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	19572	fromage blanc type petit suisse 20% mg/ms, aromatisé vanille ou chocolat	ultra fresh dairy	fromage blanc	103
+10	ultra-frais laitier	3	fromage blanc et petits suisses	92039	autre fromage blanc	ultra fresh dairy	fromage blanc	103
+11	fromages	1	fromages affinés	12001	camembert fromage à pâte molle à croûte fleurie 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12002	camembert et apparentés 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12009	fromage à pâte molle à croûte fleurie genre camembert allégé 20-30% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12010	coulommiers fromage à pâte molle à croûte fleurie 40-45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12020	brie fromage à pâte molle à croûte fleurie 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12025	carré de l'est fromage à pâte molle à croûte fleurie 45-50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12028	chaource fromage à pâte molle à croûte fleurie 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12031	neufchâtel fromage à pâte molle à croûte fleurie 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12033	fromage triple crème plus de 75% m.g. type brillat savarin	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12034	autre fromage à pâte molle à croûte lavée	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12036	maroilles fromage à pâte molle à croûte lavée 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12037	livarot fromage à pâte molle à croûte lavée 40% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12039	munster fromage à pâte molle à croûte lavée 45-50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12040	langres fromage à pâte molle à croûte lavée 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12042	pont l'évêque fromage à pâte molle à croûte lavée 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12045	reblochon fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12048	rouy fromage à pâte molle à croûte lavée 40% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12049	saint-marcellin fromage à pâte molle à croûte naturelle 40-50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12051	vacherin mont d'or fromage à pâte molle à croûte lavée au moins 45% m.g	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12100	autre fromage à pâte pressée cuite	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12105	beaufort fromage à pâte pressée cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12110	comté fromage à pâte pressée cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12114	gruyère fromage à pâte pressée cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12115	emmental fromage à pâte pressée cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12116	emmental allégé	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12120	parmesan fromage à pâte pressée cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12500	roquefort fromage de brebis à pâte persillée 52% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12520	bleu au lait de vache fromage à pâte persillée sans précision	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12521	bleu d'auvergne fromage à pâte persillée 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12522	fourme d'ambert fromage à pâte persillée 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12523	bleu des causses fromage à pâte persillée 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12524	gorgonzola fromage à pâte molle persillée 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12527	bleu et mini bleu de bresse fromage à pâte persillée 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12705	fromage à pâte pressée non cuite allégé 20-30% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12708	fromage à pâte pressée non cuite 40-50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12720	fromage et mini fromage type bonbel-babybel	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12723	cantal salers ou laguiole fromages à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12726	cheddar fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12729	édam fromage à pâte pressée non cuite 40-45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12736	gouda fromage à pâte pressée non cuite 30-40% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12740	mimolette fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12743	morbier fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12746	fromage des pyrénées au lait de vache	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12747	fromage des pyrénées au lait de brebis	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12749	raclette fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12752	saint-nectaire fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12754	port salut fromage à pâte pressée non cuite à croûte lavée 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12755	saint-paulin fromage à pâte pressée non cuite 45-50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12758	tome ou tomme fromage à pâte pressée non cuite 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12759	tomme de montagne ou tomme de savoie	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12801	fromage de chèvre affiné au lait cru	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12803	fromage de chèvre affiné au lait pasteurisé ou cru	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12820	fromage de chèvre pâte molle	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	12999	fromage sans précision	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	25545	fromage à cuire pané nature type crousti'cho de président	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	25546	fromage à cuire pané au jambon type menu fromage	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	81005	gruyère râpé ajouté au service	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90068	camembert sans précision	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90069	caprice des dieux fromage à pâte molle 60% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90071	chamois d'or fromage à pâte molle 60% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90072	chaumes fromage à pâte molle à croûte lavée 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90075	époisses fromage à pâte molle à croûte lavée 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90076	fol épi fromage à pâte pressée cuite à trous 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90083	hollande fromage à pâte pressée non cuite 30-40% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90086	leerdammer fromage à pâte pressée demi-cuite à trous 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90095	pavé d'affinois fromage à pâte molle 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90102	saint albray fromage à pâte molle 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	90112	vieux pané fromage à pâte molle 50% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92018	saint-félicien fromage à pâte molle 60% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92019	boursault fromage à pâte molle double crème	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92020	maasdam fromage à pâte pressée non cuite à trous 45% m.g.	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92021	pouligny saint-pierre fromage de chèvre	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92022	selles-sur-cher fromage de chèvre	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92023	chabichou fromage de chèvre	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92024	fromage de chèvre mi-sec	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92025	fromage de chèvre sec	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92026	crottin fromage de chèvre	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92027	picodon fromage de chèvre	cheese	ripe cheese	111
+11	fromages	1	fromages affinés	92028	sainte-maure fromage de chèvre	cheese	ripe cheese	111
+11	fromages	2	fromages fondus	12305	fromage fondu 25% m.g. type sylphide ou vache qui rit équilibre et ligne	cheese	processed cheese	112
+11	fromages	2	fromages fondus	12310	fromage fondu en portions ou en cubes 45-50% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	12315	fromage fondu 60-65% m.g. type six de savoie	cheese	processed cheese	112
+11	fromages	2	fromages fondus	12325	cancoillotte spécialité fromagère fondue 40% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	12355	fromage fondu aux noix type rambol	cheese	processed cheese	112
+11	fromages	2	fromages fondus	12356	snack pour enfants à base de fromage fondu et gressins type pik et croq ou kiri	cheese	processed cheese	112
+11	fromages	2	fromages fondus	12819	fromage de chèvre fondu à tartiner nature type cabrette ou chavroux	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90061	apéricube fromage fondu 50% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90084	kiri crème fromage fondu double crème 70% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90098	p'tit louis fromage fondu 65% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90103	saint-moret fromage fondu demi-sel 30% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90104	saint-moret allégé fromage fondu demi-sel 20% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90106	samos 99 fromage fondu double crème 70% m.g.	cheese	processed cheese	112
+11	fromages	2	fromages fondus	90110	vache qui rit fromage fondu 50% m.g.	cheese	processed cheese	112
+11	fromages	3	fromages frais non affinés	12061	féta de brebis	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	12320	spécialité fromagère non affinée double crème 70% m.g.	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	12805	fromage de chèvre frais	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	19524	fromage frais à tartiner 40-60% m.g	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	19525	fromage frais à tartiner nature à plus de 60% m.g.	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	19530	fromage frais à tartiner à plus de 60% m.g.	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	19585	ricotta	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	19590	mozzarella	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	90067	boursin fromage frais salé aromatisé 70% m.g.	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	90070	carré frais fromage à tartiner 40% m.g.	cheese	fresh cheese	113
+11	fromages	3	fromages frais non affinés	90109	tartare fromage frais aromatisé salé 70% m.g.	cheese	fresh cheese	113
+11	fromages	4	autres fromages ou fromage sans précision	92037	autre fromage	cheese	other cheese	114
+12	oeufs et dérivés	99	sans	22000	oeuf entier cru	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22008	blanc d'œuf dur	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22009	jaune d'œuf cuit	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22010	oeuf dur	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22011	oeuf poché	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22014	oeuf à la coque	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22500	omelette nature cuite au beurre	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22501	oeuf au plat salé	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22502	oeufs brouillés au beurre	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22506	omelette au fromage	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22507	omelette aux lardons	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22508	omelette aux champignons	egg 	egg	1299
+12	oeufs et dérivés	99	sans	22509	omelette aux fines herbes	egg 	egg	1299
+13	beurre	99	sans	16400	beurre doux	butter	butter	1399
+13	beurre	99	sans	16402	beurre demi-sel sel maxi 3%	butter	butter	1399
+13	beurre	99	sans	16403	beurre salé sel > 3%	butter	butter	1399
+13	beurre	99	sans	16410	beurre allégé 60-62 % m.g.	butter	butter	1399
+13	beurre	99	sans	16411	beurre allégé 60-62 % m.g. demi-sel	butter	butter	1399
+13	beurre	99	sans	16412	beurre allégé sans précision	butter	butter	1399
+13	beurre	99	sans	16415	beurre doux léger 39-41% m.g.	butter	butter	1399
+13	beurre	99	sans	16416	beurre léger 39-41% m.g. demi-sel	butter	butter	1399
+13	beurre	99	sans	16712	matière grasse laitière légère 25% m.g. à tartiner type bridelight	butter	butter	1399
+13	beurre	99	sans	81006	beurre allégé ajouté au service	butter	butter	1399
+13	beurre	99	sans	81007	beurre allégé ajouté à la cuisson	butter	butter	1399
+13	beurre	99	sans	81008	beurre doux non allégé ajouté à la cuisson	butter	butter	1399
+13	beurre	99	sans	81009	beurre doux non allégé ajoutée au service	butter	butter	1399
+13	beurre	99	sans	81010	beurre salé non allégé ajoutée au service	butter	butter	1399
+13	beurre	99	sans	81011	beurre salé non allégé ajouté à la cuisson	butter	butter	1399
+14	huile	99	sans	17001	huile végétale sans précision	oil	oil	1499
+14	huile	99	sans	17040	huile d'arachide	oil	oil	1499
+14	huile	99	sans	17130	huile de colza	oil	oil	1499
+14	huile	99	sans	17190	huile de maïs	oil	oil	1499
+14	huile	99	sans	17220	huile de noix	oil	oil	1499
+14	huile	99	sans	17270	huile d'olive vierge	oil	oil	1499
+14	huile	99	sans	17350	huile de pépins de raisin	oil	oil	1499
+14	huile	99	sans	17420	huile de soja	oil	oil	1499
+14	huile	99	sans	17440	huile de tournesol	oil	oil	1499
+14	huile	99	sans	17700	huile mélangée équilibrée type isio 4	oil	oil	1499
+14	huile	99	sans	81012	huile d'arachide ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81013	huile d'arachide ajoutée au service	oil	oil	1499
+14	huile	99	sans	81014	huile de colza ajoutée au service	oil	oil	1499
+14	huile	99	sans	81015	huile de colza ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81016	huile de maïs ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81017	huile de maïs ajoutée au service	oil	oil	1499
+14	huile	99	sans	81018	huile de palme ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81020	huile de pépin de raisins ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81021	huile de pépin de raisins ajoutée au service	oil	oil	1499
+14	huile	99	sans	81022	huile de tournesol ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81023	huile de tournesol ajoutée au service	oil	oil	1499
+14	huile	99	sans	81024	huile d'olive ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81025	huile d'olive ajoutée au service	oil	oil	1499
+14	huile	99	sans	81028	huile mélangée (type isio 4) ajoutée au service	oil	oil	1499
+14	huile	99	sans	81029	huile mélangée (type isio 4) ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81075	huile de noix ajoutée au service	oil	oil	1499
+14	huile	99	sans	81081	huile de carthame ajoutée au service	oil	oil	1499
+14	huile	99	sans	81086	huile de soja ajoutée au service	oil	oil	1499
+14	huile	99	sans	81087	huile primevère oméga 3 ajoutée à la cuisson	oil	oil	1499
+14	huile	99	sans	81088	huile primevère oméga 3 ajoutée au service	oil	oil	1499
+14	huile	99	sans	92038	autre huile végétale	oil	oil	1499
+15	margarine	99	sans	16615	margarine de cuisine 80% m.g.	margarine	margarine	1599
+15	margarine	99	sans	16616	matière grasse 70% m.g. en pain type astra	margarine	margarine	1599
+15	margarine	99	sans	16632	matière grasse allégée 60% m.g.	margarine	margarine	1599
+15	margarine	99	sans	16655	margarine au tournesol en barquette 80% m.g. type fruit d'or	margarine	margarine	1599
+15	margarine	99	sans	16701	matière grasse composée allégée 60% m.g. type le fleurier ou tartine et cuisine	margarine	margarine	1599
+15	margarine	99	sans	16727	matière grasse allégée 55-60% m.g. riche en oméga 3 et 6	margarine	margarine	1599
+15	margarine	99	sans	16728	matière grasse légère 35% m.g. enrichie en stérols/stanols type proactive tartin	margarine	margarine	1599
+15	margarine	99	sans	16729	matière grasse légère 38-41% m.g. demi-sel tartiner	margarine	margarine	1599
+15	margarine	99	sans	16730	matière grasse légère 38-41% m.g. à tartiner	margarine	margarine	1599
+15	margarine	99	sans	81030	margarine à l'huile d'olive 60% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81031	margarine à l'huile d'olive  60% m.g. ajoutéee à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81032	margarine allégée demi-sel 40% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81033	margarine allégée demi-sel  40% m.g. ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81034	margarine allégée 40% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81035	margarine allégée  40% m.g. ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81036	margarine au tournesol 60% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81037	margarine au tournesol  60% m.g. ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81038	margarine au tournesol  70% ou 80% m.g. ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81039	margarine au tournesol 70% ou 80% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81040	margarine ordinaire  60% m.g. ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81041	margarine ordinaire 60% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81042	margarine ordinaire  70% ou 80% m.g. ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81043	margarine ordinaire 70% ou 80% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81044	margarine proactiv de fruit d'or ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81045	margarine proactiv de fruit d'or ajoutée à la cuisson	margarine	margarine	1599
+15	margarine	99	sans	81046	margarine type primevère 60% m.g. ajoutée au service	margarine	margarine	1599
+15	margarine	99	sans	81047	margarine type primevère 60% m.g. ajoutée à la cuisson	margarine	margarine	1599
+16	autres graisses	99	sans	15202	pâte d'arachide ou beurre de cacahuète	other fat	other fat	1699
+16	autres graisses	99	sans	16080	corps gras pour friture 100% m.g. type végétaline	other fat	other fat	1699
+16	autres graisses	99	sans	16520	saindoux	other fat	other fat	1699
+16	autres graisses	99	sans	16550	graisse de canard	other fat	other fat	1699
+16	autres graisses	99	sans	16560	graisse d'oie	other fat	other fat	1699
+16	autres graisses	99	sans	81051	gras de bœuf  saindoux ou autre graisse animale ajoutés à la cuisson	other fat	other fat	1699
+17	viande	1	agneau	21501	agneau côtelette grillée	meat	lamb	171
+17	viande	1	agneau	21503	agneau gigot rôti	meat	lamb	171
+17	viande	1	agneau	21506	agneau épaule rôtie	meat	lamb	171
+17	viande	1	agneau	25541	brochette d'agneau	meat	lamb	171
+17	viande	2	bœuf en pièces ou haché	6100	bœuf entrecôte grillée	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6101	bœuf braisé	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6110	bœuf faux-filet grillé	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6200	boeuf bifteck grillé	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6210	bœuf rosbif rôti	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6220	bœuf à bourguignon cuit	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6230	bœuf à pot-au-feu cuit	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6250	steak haché 5% m.g. cru	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6251	steak haché 5% m.g. cuit	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6253	steak haché 10% m.g. cuit	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6255	steak haché 15% m.g. cuit	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	6257	steak haché 20% m.g. cuit	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	25163	bœuf boulettes cuites	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	25505	brochette de bœuf	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	25538	carpaccio de boeuf	meat	beef	172
+17	viande	2	bœuf en pièces ou haché	90205	fondue bourguignonne	meat	beef	172
+17	viande	3	porc	28101	porc côtelette grillée	meat	pork	173
+17	viande	3	porc	28202	porc filet rôti maigre cuit	meat	pork	173
+17	viande	3	porc	28301	porc rôti cuit	meat	pork	173
+17	viande	3	porc	28401	porc travers braisé	meat	pork	173
+17	viande	3	porc	28451	porc échine rôtie	meat	pork	173
+17	viande	4	veau	6511	veau côte cuite	meat	veal	174
+17	viande	4	veau	6520	veau escalope cuite	meat	veal	174
+17	viande	4	veau	6531	veau filet rôti	meat	veal	174
+17	viande	4	veau	6550	veau rôti	meat	veal	174
+17	viande	4	veau	6570	veau mijoté	meat	veal	174
+17	viande	4	veau	25173	veau escalope panée	meat	veal	174
+17	viande	5	autre viande	6902	cheval viande rôtie	meat	other meat	175
+17	viande	5	autre viande	6999	viande cuite sans précision	meat	other meat	175
+17	viande	5	autre viande	25506	brochette mixte de viande	meat	other meat	175
+17	viande	5	autre viande	92040	autre viande	meat	other meat	175
+18	volaille et gibier	1	volailles et lapins	8110	confit de canard	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	25504	brochette de volaille	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	34000	lapin en ragoût	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	34002	lapin viande cuite	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36004	poulet cuisse rôtie viande et peau	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36005	poulet rôti viande et peau	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36010	poule bouillie viande et peau	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36011	poule viande bouillie	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36018	blanc de poulet cuit	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36102	caille cuite viande et peau	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36202	canard viande rôtie	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36205	canard magret cuit à la poêle	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36302	dinde viande rôtie	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36306	dinde ou autre volaille escalope sautée	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36502	oie viande rôtie	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36602	pigeon viande rôtie	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	36900	volaille cuite sans précision	poultry and game	poultry rabbit	181
+18	volaille et gibier	1	volailles et lapins	92509	autre volaille cuite	poultry and game	poultry rabbit	181
+18	volaille et gibier	2	gibier	14000	chevreuil rôti	poultry and game	game	182
+18	volaille et gibier	2	gibier	14001	lièvre en ragoût	poultry and game	game	182
+18	volaille et gibier	2	gibier	14003	sanglier rôti	poultry and game	game	182
+18	volaille et gibier	2	gibier	36402	faisan viande rôtie	poultry and game	game	182
+18	volaille et gibier	2	gibier	92047	autre gibier	poultry and game	game	182
+19	abats	99	sans	40003	cervelle d'agneau cuite	offal	offal	1999
+19	abats	99	sans	40004	cervelle de porc braisée	offal	offal	1999
+19	abats	99	sans	40053	cœur de bœuf cuit	offal	offal	1999
+19	abats	99	sans	40103	foie d'agneau cuit	offal	offal	1999
+19	abats	99	sans	40105	foie de génisse cuit	offal	offal	1999
+19	abats	99	sans	40107	foie de veau cuit	offal	offal	1999
+19	abats	99	sans	40109	foie de volaille cuit	offal	offal	1999
+19	abats	99	sans	40116	foie poulet cuit	offal	offal	1999
+19	abats	99	sans	40201	langue de veau cuite	offal	offal	1999
+19	abats	99	sans	40203	langue de bœuf cuite	offal	offal	1999
+19	abats	99	sans	40305	ris de veau braisé ou poêlé	offal	offal	1999
+19	abats	99	sans	40401	rognon cuit sans précision	offal	offal	1999
+19	abats	99	sans	40403	rognon de bœuf cuit	offal	offal	1999
+19	abats	99	sans	40405	rognon de porc cuit	offal	offal	1999
+19	abats	99	sans	40406	rognon d'agneau braisé	offal	offal	1999
+19	abats	99	sans	40701	canard gésier confit égoutté et réchauffé	offal	offal	1999
+19	abats	99	sans	92003	autre abat	offal	offal	1999
+20	charcuterie	1	jambons et charcuteries en pièces	28501	lardon nature cru	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28504	lardon nature cuit	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28720	poitrine de porc fumée	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28725	lardon ou bacon fumé cuit	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28727	bacon filet cuit	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28800	jambon cru	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28801	jambon cru fumé	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28802	jambon sec dd (découenné dégraissé)	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28803	jambon cuit fumé	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28850	coppa	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28858	pancetta ou poitrine roulée sèche	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28900	jambon cuit supérieur	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28906	jambon cuit supérieur dd (découenné dégraissé)	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28916	jambon cuit	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28925	jambon cuit dd (découenné dégraissé)	charcuterie	ham	201
+20	charcuterie	1	jambons et charcuteries en pièces	28960	jambonneau cuit	charcuterie	ham	201
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	8504	andouille réchauffée	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	8551	andouillette réchauffée	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	8704	boudin noir cuit	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	8800	boudin blanc cuit	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30005	chipolata cuite	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30011	saucisse de toulouse cuite	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30105	saucisse de montbéliard	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30108	saucisse de morteau cuite	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30125	saucisse alsacienne fumée ou gendarme	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30134	saucisse de francfort	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30155	merguez de bœuf et de mouton cuite	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30300	saucisson sec	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30301	saucisson sec pur porc	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30304	rosette ou fuseau	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30315	chorizo sec	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30350	salami	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30700	saucisson à l'ail	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30730	cervelas	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30742	saucisse de strasbourg	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30746	saucisse cocktail	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30780	saucisse sans précision	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	30789	mortadelle	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	90119	saucisse sèche	charcuterie	sausage saucisson	202
+20	charcuterie	2	saucisses, saucissons, andouilles et boudins	91038	chair à saucisse	charcuterie	sausage saucisson	202
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8001	rillettes pur porc	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8055	rillettes	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8211	pâté de campagne	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8232	terrine de canard	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8240	pâté de lapin	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8305	pâté de foie de porc	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8313	mousse de foie	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8316	pâté de foie de volaille	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8320	foie gras en conserve	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8322	foie gras de canard entier en conserve	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8350	galantine	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8391	pâté en croûte	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	3	pâtés, terrines, rillettes et foie gras	8400	pâté de tête ou fromage de tête	charcuterie	pate terrine rillette foie gras	203
+20	charcuterie	4	autre charcuterie ou charcuterie  sans précision	30900	charcuterie sans précision	charcuterie	other charcuterie	204
+20	charcuterie	4	autre charcuterie ou charcuterie  sans précision	92508	autre charcuterie	charcuterie	other charcuterie	204
+21	poissons	1	poissons de mer	25537	carpaccio de saumon	fish	sea fish	211
+21	poissons	1	poissons de mer	26000	anchois filets à l'huile semi-conserve	fish	sea fish	211
+21	poissons	1	poissons de mer	26003	carrelet ou plie cuit à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26008	églefin cuit à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26009	flétan cru	fish	sea fish	211
+21	poissons	1	poissons de mer	26010	hareng mariné	fish	sea fish	211
+21	poissons	1	poissons de mer	26012	hareng frit	fish	sea fish	211
+21	poissons	1	poissons de mer	26013	hareng fumé	fish	sea fish	211
+21	poissons	1	poissons de mer	26014	hareng grillé	fish	sea fish	211
+21	poissons	1	poissons de mer	26015	lieu ou colin noir cuit	fish	sea fish	211
+21	poissons	1	poissons de mer	26016	limande-sole panée frite	fish	sea fish	211
+21	poissons	1	poissons de mer	26017	limande-sole cuite à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26019	maquereau cuit au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26020	maquereau frit	fish	sea fish	211
+21	poissons	1	poissons de mer	26021	merlan frit	fish	sea fish	211
+21	poissons	1	poissons de mer	26022	merlan cuit à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26023	cabillaud cuit au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26024	morue salée pochée	fish	sea fish	211
+21	poissons	1	poissons de mer	26025	cabillaud cuit à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26026	mulet cuit au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26027	pilchard à la sauce tomate en conserve	fish	sea fish	211
+21	poissons	1	poissons de mer	26031	raie cuite au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26033	roussette ou saumonette braisée	fish	sea fish	211
+21	poissons	1	poissons de mer	26034	sardine à l'huile en conserve égouttée	fish	sea fish	211
+21	poissons	1	poissons de mer	26035	sardine à la sauce tomate en conserve	fish	sea fish	211
+21	poissons	1	poissons de mer	26036	saumon cru d'élevage	fish	sea fish	211
+21	poissons	1	poissons de mer	26037	saumon fumé cru	fish	sea fish	211
+21	poissons	1	poissons de mer	26038	saumon cuit à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26039	thon au naturel en conserve égoutté	fish	sea fish	211
+21	poissons	1	poissons de mer	26041	thon cuit au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26053	thon cru	fish	sea fish	211
+21	poissons	1	poissons de mer	26059	sole cuite à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26060	sole cuite au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26071	thon à l'huile en conserve égoutté	fish	sea fish	211
+21	poissons	1	poissons de mer	26072	bar ou loup commun cru	fish	sea fish	211
+21	poissons	1	poissons de mer	26073	raie au court-bouillon	fish	sea fish	211
+21	poissons	1	poissons de mer	26077	thon germon ou thon blanc cuit à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	26079	anchois cru	fish	sea fish	211
+21	poissons	1	poissons de mer	26081	lotte ou baudroie grillée	fish	sea fish	211
+21	poissons	1	poissons de mer	26086	maquereau filet à la sauce tomate en conserve	fish	sea fish	211
+21	poissons	1	poissons de mer	26087	maquereau fumé	fish	sea fish	211
+21	poissons	1	poissons de mer	26090	haddock ou églefin fumé	fish	sea fish	211
+21	poissons	1	poissons de mer	26093	espadon cuit au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26094	turbot cuit au four	fish	sea fish	211
+21	poissons	1	poissons de mer	26096	maquereau filet à la sauce moutarde en conserve	fish	sea fish	211
+21	poissons	1	poissons de mer	26097	maquereau filet au vin blanc en conserve	fish	sea fish	211
+21	poissons	1	poissons de mer	26099	dorade ou daurade grise crue	fish	sea fish	211
+21	poissons	1	poissons de mer	26120	merlu cuit à l'étouffée	fish	sea fish	211
+21	poissons	1	poissons de mer	26130	julienne ou lingue crue	fish	sea fish	211
+21	poissons	1	poissons de mer	26136	sardine grillée	fish	sea fish	211
+21	poissons	1	poissons de mer	26187	anchois mariné	fish	sea fish	211
+21	poissons	1	poissons de mer	27005	perche cuite au four	fish	sea fish	211
+21	poissons	1	poissons de mer	27014	truite arc-en-ciel d'élevage cuite au four	fish	sea fish	211
+21	poissons	1	poissons de mer	27015	truite arc-en-ciel d'élevage cuite à la vapeur	fish	sea fish	211
+21	poissons	1	poissons de mer	27029	truite fumée	fish	sea fish	211
+21	poissons	1	poissons de mer	91047	rouget cuit à l'étouffée	fish	sea fish	211
+21	poissons	1	poissons de mer	91049	rascasse crue	fish	sea fish	211
+21	poissons	2	poissons d'eau douce	27000	anguille cuite au four	fish	freshwater fish	212
+21	poissons	2	poissons d'eau douce	27002	brochet cuit au four	fish	freshwater fish	212
+21	poissons	2	poissons d'eau douce	27004	carpe cuite au four	fish	freshwater fish	212
+21	poissons	2	poissons d'eau douce	34500	cuisse de grenouille crue	fish	freshwater fish	212
+21	poissons	3	produits dérivés des poissons	8081	rillettes de saumon	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	8082	rillettes de thon	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	8291	terrine de poisson	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	8292	pâté à base de poisson ou de crustacé	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	8293	tarama industriel	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	8295	mousse de poisson	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	26004	oeufs de lump ou lompe semi-conserve	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	26005	caviar semi-conserve	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	26028	croquette ou nugget de poisson frit	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	26030	poisson pané frit	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	26046	surimi en bâtonnets	fish	fish product	213
+21	poissons	3	produits dérivés des poissons	26142	foie de morue en conserve	fish	fish product	213
+21	poissons	4	autres poissons ou poissons sans précision	25539	brochette de poisson	fish	other fish	214
+21	poissons	4	autres poissons ou poissons sans précision	26140	poisson sans précision	fish	other fish	214
+21	poissons	4	autres poissons ou poissons sans précision	92042	autre poisson	fish	other fish	214
+22	crustacés et mollusques	1	mollusques et coquillage	10000	bigorneau cuit	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10002	calmar ou calamar frit	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10003	coquille saint-jacques noix et corail crue	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10004	coquille saint-jacques noix et corail cuite	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10008	escargot cru	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10013	moule cuite à l'eau	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10016	seiche crue	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10020	bulot ou buccin cuit	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10027	clam praire ou palourde cuits à l'eau	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	1	mollusques et coquillage	10035	huître creuse crue	shellfish and molluscs	molluscs	221
+22	crustacés et mollusques	2	crustacés	10005	crabe ou tourteau en conserve	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	2	crustacés	10007	crevette cuite	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	2	crustacés	10009	homard cuit à l'eau	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	2	crustacés	10022	langouste cuite à l'eau	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	2	crustacés	10025	crabe ou tourteau cuit à l'eau	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	2	crustacés	10030	écrevisse crue	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	2	crustacés	25540	brochette de crevettes	shellfish and molluscs	shellfish	222
+22	crustacés et mollusques	3	autres fruits de mer ou fruits de mer sans précision	172	plateau de fruits de mer	shellfish and molluscs	other shellfish	223
+22	crustacés et mollusques	3	autres fruits de mer ou fruits de mer sans précision	10043	fruits de mer sans précision	shellfish and molluscs	other shellfish	223
+22	crustacés et mollusques	3	autres fruits de mer ou fruits de mer sans précision	92043	autre fruit de mer	shellfish and molluscs	other shellfish	223
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20003	betterave rouge cuite	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20007	carotte en conserve	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20008	carotte cuite	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20009	carotte crue	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20025	céleri-rave cuit	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20033	navet cuit	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20034	oignon cru	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20035	oignon cuit	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20045	radis rouge cru	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20046	salsifis cuit	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20050	topinambour cuit	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20055	céleri-rave cru	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20064	navet pelé cru	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20081	salsifis en conserve	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20089	radis noir cru	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	1	légumes racines, tubercules ou bulbes	20097	échalote crue	vegetable	root vegetable	231
+23	légumes (hors pommes de terre)	2	légumes feuilles	20005	bette ou blette cuite	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20012	chicorée frisée crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20022	cresson	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20026	endive crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20027	épinard cuit	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20031	laitue crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20032	laitue cuite	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20038	pissenlit cru	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20059	épinard cru	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20090	scarole crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20098	endive cuite	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20099	mâche crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20111	oseille crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20112	oseille cuite à l'eau	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20127	pourpier feuille cru	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	20171	laitue romaine crue	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	25604	salade verte sans assaisonnement sans précision	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	2	légumes feuilles	92044	autre salade sans assaisonnement	vegetable	leaf vegetable	232
+23	légumes (hors pommes de terre)	3	légumes fruits	13004	avocat frais	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20002	aubergine cuite	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20020	courgette crue	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20021	courgette cuite	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20041	poivron vert jaune ou rouge cru	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20042	poivron vert jaune ou rouge cuit	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20047	tomate crue	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20048	tomate pelée en conserve	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20049	maïs doux en épis cuit	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20066	maïs doux en conserve	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20085	poivron vert cru	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20086	poivron vert cuit	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20087	poivron rouge cru	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20088	poivron rouge cuit	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20096	potiron cuit	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20172	tomate cerise crue	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	3	légumes fruits	20210	concombre cru pulpe	vegetable	fruit vegetable	233
+23	légumes (hors pommes de terre)	4	légumes tiges	20000	artichaut cuit	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20001	asperge cuite	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20018	cœur de palmier en conserve	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20023	céleri branche cru	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20024	céleri branche cuit	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20028	fenouil cru	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20029	germe ou pousse de soja en conserve	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20039	poireau cru	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20040	poireau cuit	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20052	artichaut cru	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20054	cardon cru	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20076	asperge en conserve	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20078	céleri branche en conserve	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20118	fenouil cuit à l'eau	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	4	légumes tiges	20183	germe ou pousse de soja cru	vegetable	stem vegetable	234
+23	légumes (hors pommes de terre)	5	choux	20006	brocoli cuit	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20013	chou de bruxelles cuit	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20014	chou rouge cru	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20015	chou vert cuit	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20016	chou-fleur cru	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20017	chou-fleur cuit	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20077	chou de bruxelles en conserve	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20095	chou rouge cuit à l'eau	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	5	choux	20116	chou blanc cru	vegetable	cabbage	235
+23	légumes (hors pommes de terre)	6	champignons	20010	champignon tout type cru sans précision	vegetable	mushroom	236
+23	légumes (hors pommes de terre)	6	champignons	20011	champignon tout type en conserve	vegetable	mushroom	236
+23	légumes (hors pommes de terre)	6	champignons	20079	champignon de paris en conserve	vegetable	mushroom	236
+23	légumes (hors pommes de terre)	6	champignons	20125	champignon de paris sauté	vegetable	mushroom	236
+23	légumes (hors pommes de terre)	7	haricots verts et petits pois (légumes potagers)	20030	haricot vert cuit	vegetable	beans	237
+23	légumes (hors pommes de terre)	7	haricots verts et petits pois (légumes potagers)	20036	petit pois en conserve	vegetable	beans	237
+23	légumes (hors pommes de terre)	7	haricots verts et petits pois (légumes potagers)	20037	petit pois cuit	vegetable	beans	237
+23	légumes (hors pommes de terre)	7	haricots verts et petits pois (légumes potagers)	20062	haricot vert en conserve égoutté	vegetable	beans	237
+23	légumes (hors pommes de terre)	7	haricots verts et petits pois (légumes potagers)	20063	haricot beurre en conserve	vegetable	beans	237
+23	légumes (hors pommes de terre)	7	haricots verts et petits pois (légumes potagers)	20071	haricot vert surgelé cuit	vegetable	beans	237
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	8296	terrine ou mousse de légumes	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20051	macédoine de légumes en conserve	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20093	petits pois et carottes en conserve	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20101	légumes mélangés surgelés	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20169	pulpe de tomate en conserve	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20170	purée de tomate	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20495	légume en purée hors pomme de terre non salé	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	20499	légumes cuits sans précision	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25004	choucroute sans garniture	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25018	ratatouille niçoise	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25600	céleri rémoulade	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25605	champignons à la grecque	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25616	autre légume frais ou crudité, sans assaisonnement	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25617	crudités vinaigrette sans précision	vegetable	vegetable mix	238
+23	légumes (hors pommes de terre)	8	mélanges de légumes, légumes préparés et autres légumes	25620	guacamole industriel	vegetable	vegetable mix	238
+24	pommes de terre et apparentés	99	sans	4002	pomme de terre cuite au four	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4003	pomme de terre cuite à l'eau	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4005	pomme de terre frite non salée	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4006	pomme de terre cuite à la vapeur	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4010	pomme de terre frite surgelée cuite	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4013	pomme noisette précuite surgelée	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4018	purée de pomme de terre avec lait et beurre non salée	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4019	purée de pomme de terre à base de flocons reconstituée au lait demi-écrémé	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4021	pomme de terre dauphine cuite	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4027	pomme de terre rissolée surgelée	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	4102	patate douce cuite	potatoes	potatoes	2499
+24	pommes de terre et apparentés	99	sans	25510	gnocchis de pommes de terre	potatoes	potatoes	2499
+25	légumes secs	1	légumes secs	20500	fève cuite	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20502	haricot blanc cuit	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20503	haricot rouge cuit	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20505	lentille cuite	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20506	pois cassé cuit	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20507	pois chiche cuit	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20508	haricot flageolet en conserve	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20511	haricot blanc en conserve	dried vegetables	dried vegetables	251
+25	légumes secs	1	légumes secs	20700	autre légume sec cuit	dried vegetables	dried vegetables	251
+25	légumes secs	2	légumes secs préparés	20510	lentille cuisinée en conserve	dried vegetables	processed dried vegetables	252
+25	légumes secs	2	légumes secs préparés	25621	houmous	dried vegetables	processed dried vegetables	252
+26	fruits	99	sans	13000	abricot frais	fruits	fruits	2699
+26	fruits	99	sans	13002	ananas frais	fruits	fruits	2699
+26	fruits	99	sans	13005	banane fraîche	fruits	fruits	2699
+26	fruits	99	sans	13008	cerise fraîche	fruits	fruits	2699
+26	fruits	99	sans	13009	citron frais	fruits	fruits	2699
+26	fruits	99	sans	13010	coing frais	fruits	fruits	2699
+26	fruits	99	sans	13012	figue fraîche	fruits	fruits	2699
+26	fruits	99	sans	13014	fraise fraîche	fruits	fruits	2699
+26	fruits	99	sans	13015	framboise fraîche	fruits	fruits	2699
+26	fruits	99	sans	13016	fruit de la passion frais	fruits	fruits	2699
+26	fruits	99	sans	13018	grenade fraîche	fruits	fruits	2699
+26	fruits	99	sans	13019	groseille fraîche	fruits	fruits	2699
+26	fruits	99	sans	13020	groseille à maquereau fraîche	fruits	fruits	2699
+26	fruits	99	sans	13021	kiwi frais	fruits	fruits	2699
+26	fruits	99	sans	13023	litchi frais	fruits	fruits	2699
+26	fruits	99	sans	13024	clémentine ou mandarine fraîche	fruits	fruits	2699
+26	fruits	99	sans	13025	mangue fraîche	fruits	fruits	2699
+26	fruits	99	sans	13026	melon frais	fruits	fruits	2699
+26	fruits	99	sans	13027	mirabelle fraîche	fruits	fruits	2699
+26	fruits	99	sans	13028	myrtille fraîche	fruits	fruits	2699
+26	fruits	99	sans	13029	mûre de ronce fraîche	fruits	fruits	2699
+26	fruits	99	sans	13030	nectarine non pelée fraîche	fruits	fruits	2699
+26	fruits	99	sans	13034	orange fraîche	fruits	fruits	2699
+26	fruits	99	sans	13035	papaye fraîche	fruits	fruits	2699
+26	fruits	99	sans	13036	pastèque fraîche	fruits	fruits	2699
+26	fruits	99	sans	13037	poire non pelée fraîche	fruits	fruits	2699
+26	fruits	99	sans	13039	pomme non pelée fraîche	fruits	fruits	2699
+26	fruits	99	sans	13040	pamplemousse frais	fruits	fruits	2699
+26	fruits	99	sans	13041	prune reine-claude fraîche	fruits	fruits	2699
+26	fruits	99	sans	13043	pêche non pelée fraîche	fruits	fruits	2699
+26	fruits	99	sans	13044	raisin blanc frais	fruits	fruits	2699
+26	fruits	99	sans	13045	raisin noir frais	fruits	fruits	2699
+26	fruits	99	sans	13063	figue de barbarie	fruits	fruits	2699
+26	fruits	99	sans	13066	kaki frais	fruits	fruits	2699
+26	fruits	99	sans	13067	lime dit citron vert pulpe	fruits	fruits	2699
+26	fruits	99	sans	13071	mûre noire de mûrier fraîche	fruits	fruits	2699
+26	fruits	99	sans	13084	pêche pelée fraîche	fruits	fruits	2699
+26	fruits	99	sans	13134	salade de fruits frais	fruits	fruits	2699
+26	fruits	99	sans	13564	nèfle du japon fraîche	fruits	fruits	2699
+26	fruits	99	sans	13997	fruits rouges frais (framboises, fraises, groseilles, cassis)	fruits	fruits	2699
+26	fruits	99	sans	13999	fruit sans précision	fruits	fruits	2699
+26	fruits	99	sans	90130	litchi sans précision	fruits	fruits	2699
+26	fruits	99	sans	92049	autre fruit	fruits	fruits	2699
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13001	abricot sec	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13006	banane mi-sèche	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13011	datte sèche	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13013	figue sèche	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13042	pruneau sec	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13046	raisin sec	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	13051	mélange pour apéritif de fruits exotiques séchés	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	15015	purée de marrons en conserve	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	15020	châtaigne cuite à l'eau	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	1	fruits secs et châtaignes	15021	châtaigne grillée	dried fruits and oleaginous seeds	dried fruits	271
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15000	amande	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15001	cacahuète ou arachide	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15002	cacahuète grillée salée	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15004	noisette	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15005	noix	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15006	noix de coco amande mûre fraîche	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15007	noix de coco amande sèche	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15008	noix du brésil	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15009	pistache rôtie salée	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15010	graine de sésame et autres	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15011	graine de tournesol	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15019	noix de cajou salée	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	2	oléagineux et graines	15025	pignon de pin	dried fruits and oleaginous seeds	oleaginous fruits	272
+27	fruits secs et graines oléagineuses	3	mélanges	15018	mélange pour apéritif de graines salées et raisin sec		dried fruit mix	273
+27	fruits secs et graines oléagineuses	3	mélanges	15040	fruits secs ou séchés et graines oléagineuses sans précision		dried fruit mix	273
+28	glaces et desserts glacés	1	glaces	39500	glace crème glacée sorbet ou glace à l'eau parfums divers	ice cream and frozen desserts	ice cream	281
+28	glaces et desserts glacés	1	glaces	39503	glace enrobée de chocolat type esquimau	ice cream and frozen desserts	ice cream	281
+28	glaces et desserts glacés	1	glaces	39507	crème glacée au chocolat type carte d'or chocolat	ice cream and frozen desserts	ice cream	281
+28	glaces et desserts glacés	1	glaces	39508	glace en cornet	ice cream and frozen desserts	ice cream	281
+28	glaces et desserts glacés	1	glaces	39600	crème glacée à la vanille type carte d'or vanille	ice cream and frozen desserts	ice cream	281
+28	glaces et desserts glacés	2	desserts glacés	23472	profiteroles glace vanille et sauce chocolat	ice cream and frozen desserts	frozen dessert	282
+28	glaces et desserts glacés	2	desserts glacés	31035	barre chocolatée glacée type mars twix snickers	ice cream and frozen desserts	frozen dessert	282
+28	glaces et desserts glacés	2	desserts glacés	39401	pêche melba	ice cream and frozen desserts	frozen dessert	282
+28	glaces et desserts glacés	2	desserts glacés	39518	omelette norvégienne	ice cream and frozen desserts	frozen dessert	282
+28	glaces et desserts glacés	2	desserts glacés	39519	poire belle hélène	ice cream and frozen desserts	frozen dessert	282
+28	glaces et desserts glacés	3	sorbets	31025	sorbet tout type	ice cream and frozen desserts	sorbet	283
+29	chocolat	1	chocolat en tablettes	673	chocolat au lait fourré au praliné en tablette	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	677	chocolat noir fourré au praliné en tablette	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31004	chocolat au lait en tablette ou en barre type kinder maxi	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31005	chocolat noir 40% de cacao minimum en tablette à pâtisser ou à croquer	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31009	chocolat au lait et aux céréales croustillantes en tablette type crunch	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31010	chocolat blanc en tablette type galak	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31018	chocolat au lait aux fruits secs (amande noisette raisin sec) en tablette ou en	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31030	chocolat extra noir dégustation 70% de cacao sans sucres ajoutés avec édulcorant	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31070	chocolat noir aux fruits secs (amande noisette raisin sec praliné) en tablette	chocolate	chocolate	291
+29	chocolat	1	chocolat en tablettes	31074	chocolat noir 70% de cacao minimum en tablette	chocolate	chocolate	291
+29	chocolat	2	barres chocolatées	31000	barre chocolatée biscuitée type kit-kat lion ou twix	chocolate	chocolate bars	292
+29	chocolat	2	barres chocolatées	31001	barre chocolatée non biscuitée enrobée type mars	chocolate	chocolate bars	292
+29	chocolat	2	barres chocolatées	31002	barre à la noix de coco enrobée de chocolat type bounty	chocolate	chocolate bars	292
+29	chocolat	2	barres chocolatées	31071	barre chocolatée aux fruits secs type nuts ou snickers	chocolate	chocolate bars	292
+29	chocolat	2	barres chocolatées	31073	barre pour enfant au lait et au cacao type pingui	chocolate	chocolate bars	292
+29	chocolat	3	pâte chocolatée à tartiner	31032	pâte à tartiner au chocolat et aux noisettes type nutella	chocolate	chocolate spread	293
+30	sucres et dérivés	1	sucre et assimilés	31016	sucre blanc	sugar and byproducts	sugar	301
+30	sucres et dérivés	1	sucre et assimilés	31017	sucre roux	sugar and byproducts	sugar	301
+30	sucres et dérivés	1	sucre et assimilés	31076	sucre allégé type tutti free	sugar and byproducts	sugar	301
+30	sucres et dérivés	1	sucre et assimilés	31077	fructose	sugar and byproducts	sugar	301
+30	sucres et dérivés	1	sucre et assimilés	81052	sucre blanc ajouté au service	sugar and byproducts	sugar	301
+30	sucres et dérivés	2	confiserie	15201	pâte d'amande fabrication industrielle	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	24520	meringue	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31003	bonbons tout type sauf gélifiés	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31007	chewing-gum sucré	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31014	pâte de fruits	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31033	nougat ou touron	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31041	confiserie dragéifiée au chocolat type smarties	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31042	confiserie à base de cacahuètes dragéifiées enrobées de chocolat type m&ms cacah	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31054	chewing-gum sans sucre	sugar and byproducts	sweets	302
+30	sucres et dérivés	2	confiserie	31060	bonbons gélifiés	sugar and byproducts	sweets	302
+30	sucres et dérivés	3	confiture et miel	31006	confiture ou marmelade tout type	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	31008	miel	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	31024	confiture de fraise	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	31037	confiture d'abricot	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	31038	confiture de cerise	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	31039	confiture d'orange	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	31110	confiture allégée	sugar and byproducts	jam honey	303
+30	sucres et dérivés	3	confiture et miel	81067	confiture ajoutée au service	sugar and byproducts	jam honey	303
+31	eaux	1	eau minérale plate	18045	eau minérale plate sans précision	water	still mineral water	311
+31	eaux	1	eau minérale plate	76000	abatilles eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76001	aix les bains eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76003	alet eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76004	amanda eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76010	celtic eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76011	chambon eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76016	contrex eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76017	dax eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76020	évian eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76022	hépar eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76025	luchon eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76027	mont roucous eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76029	orée du bois eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76032	plancoët eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76043	saint amand vauban eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76044	saint antonin noble val eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76050	thonon eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76056	vittel eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76057	volvic eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76059	wattwiller eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76063	beckerich eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76065	chaudfontaine eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76067	courmayeur eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76073	san benedetto eau plate	water	still mineral water	311
+31	eaux	1	eau minérale plate	76078	valvert eau plate	water	still mineral water	311
+31	eaux	2	eau minérale gazeuse	18046	eau gazeuse sans précision	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76006	arcens eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76007	arvie eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76008	auvergne eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76013	châteauneuf eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76021	fonfort eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76024	la vernière eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76028	ogeu eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76031	parot eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76034	puits saint georges eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76035	quézac eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76037	rozana eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76039	salvetat eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76041	saint alban antonin eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76046	saint diéry eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76047	sainte marguerite eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76049	saint yorre eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76051	vals saint jean eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76052	vals vivaraise eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76054	vernet eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76055	vichy célestins eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76060	perrier eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76061	badoit eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76075	san pellegrino eau gazeuse	water	sparkling mineral water	312
+31	eaux	2	eau minérale gazeuse	76079	apollinaris eau gazeuse	water	sparkling mineral water	312
+31	eaux	3	eau du robinet	18066	eau du robinet	water	tap water	313
+31	eaux	4	eau de source	18008	eau de source	water	spring water	314
+31	eaux	5	autre eau	18009	eau minérale ou non faiblement minéralisée	water	other water	315
+31	eaux	5	autre eau	18044	eau minérale sans précision	water	other water	315
+31	eaux	5	autre eau	92053	autre eau minérale	water	other water	315
+32	boissons fraîches sans alcool	1	jus de fruits	2000	jus d'ananas à base de concentré pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2002	cocktail de purs jus de fruits multivitaminé pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2004	jus de fruits sans précision	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2006	pur jus de carottes pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2007	jus de citron pressé maison	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2012	jus d'orange à base de concentré pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2013	jus d'orange pressé maison	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2014	jus de pomme à base de concentré pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2015	jus de pamplemousse à base de concentré pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2016	pur jus de raisin pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2021	pur jus de tomate pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2023	pur jus de mangue frais	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2025	pur jus de pamplemousse frais	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2027	pur jus de pamplemousse pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2031	pur jus de lime (citron vert) pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2034	pur jus de mandarine ou de clémentine pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2035	cocktail de purs jus de fruits pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2069	cocktail de jus de fruits à base de concentré pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2070	pur jus d'orange pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2073	pur jus d'ananas pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2074	pur jus de pomme pasteurisé	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	2075	jus de légumes	fresh drinks	juice	321
+32	boissons fraîches sans alcool	1	jus de fruits	92052	autre jus de fruits	fresh drinks	juice	321
+32	boissons fraîches sans alcool	2	nectars	2043	nectar d'abricot pasteurisé	fresh drinks	nectar	322
+32	boissons fraîches sans alcool	2	nectars	2054	nectar de poire pasteurisé	fresh drinks	nectar	322
+32	boissons fraîches sans alcool	2	nectars	2060	nectar de cocktail de fruits multivitaminé pasteurisé	fresh drinks	nectar	322
+32	boissons fraîches sans alcool	2	nectars	2061	nectar de cocktail de fruits pasteurisé	fresh drinks	nectar	322
+32	boissons fraîches sans alcool	2	nectars	2365	nectar de fruit de la passion pasteurisé	fresh drinks	nectar	322
+32	boissons fraîches sans alcool	2	nectars	2375	nectar d'orange pasteurisé	fresh drinks	nectar	322
+32	boissons fraîches sans alcool	3	boissons aux fruits	18304	boisson plate aux fruits 10 à 50% de jus à teneur réduite en sucre type minute m	fresh drinks	fruit drinks	323
+32	boissons fraîches sans alcool	3	boissons aux fruits	18330	boisson plate aux fruits exotiques 10 à 50% de jus sucrée type banga exotique ou	fresh drinks	fruit drinks	323
+32	boissons fraîches sans alcool	3	boissons aux fruits	18342	boisson plate à l'orange 10 à 50% de jus sucrée type oasis orange	fresh drinks	fruit drinks	323
+32	boissons fraîches sans alcool	3	boissons aux fruits	18350	boisson diététique pour le sport type sunny delight powerade orange dunk isotoni	fresh drinks	fruit drinks	323
+32	boissons fraîches sans alcool	4	sodas et colas	18001	soda sans jus de fruit light	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18010	limonade ou clear lime sucrée type seven'up ou sprite	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18018	soda au cola type coca-cola ou pepsi-cola	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18019	boisson gazeuse aux fruits 10 à 50% de jus sucrée type fanta orange	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18037	soda au cola à teneur réduite en sucre édulcorants + sucre type coca-cola blak	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18049	boisson gazeuse sucrée aux fruits moins de 10% de fruits type gini ou schweppes	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18060	soda au cola light type coca-cola light ou pepsi-cola light	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18301	boisson gazeuse au jus d'orange avec pulpe environ 14% de fruit sucrée type oran	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18340	boisson gazeuse aux fruits et aux édulcorants type fanta light orange ou orangin	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	4	sodas et colas	18344	tonic type schweppes indian tonic	fresh drinks	sodas colas	324
+32	boissons fraîches sans alcool	5	autres boissons fraîches	1011	boisson ou apéritif anisé sans alcool	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	2008	cocktail sans alcool à base de jus de fruits et de sirop	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	5030	bière sans alcool type tourtel	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18011	eau de noix de coco	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18017	sirop aux extraits de fruits à diluer type menthe ou fraise	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18027	eau minérale ou de source aromatisée sans précision	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18029	boisson rafraîchissante sans alcool sans précision	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18041	lait de noix de coco	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18047	eau minérale ou de source aromatisée aux agrumes	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18058	sirop aux extraits de fruits dilué	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18065	boisson au thé aromatisée aux édulcorants type nestea pêche blanche light	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18075	boisson au thé aromatisée sucrée type nestea pêche blanche	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18220	citron ou lime préparation à diluer	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18341	boisson gazeuse à la pomme type brut de pomme ou champomy	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18343	boisson au jus de fruits et au lait type danao	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	18900	boisson au soja ou tonyu ou lait de soja nature	fresh drinks	other fresh drinks	325
+32	boissons fraîches sans alcool	5	autres boissons fraîches	92054	autre boisson rafraîchissante sans alcool	fresh drinks	other fresh drinks	325
+33	boissons alcoolisées	1	vin	5200	vin blanc 11°	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5201	vin blanc mousseux	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5203	vin rouge 10°	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5204	vin rouge 11°	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5205	vin rouge 12°	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5206	vin rosé 11°	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5207	champagne	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5208	vin rouge 13° et plus	alcohol	wine	331
+33	boissons alcoolisées	1	vin	5210	vin sans précision	alcohol	wine	331
+33	boissons alcoolisées	2	bière	5000	bière brune	alcohol	beer	332
+33	boissons alcoolisées	2	bière	5001	bière cœur de marché à 4-5° d'alcool type kronenbourg ou 33 export	alcohol	beer	332
+33	boissons alcoolisées	2	bière	5002	bière forte à plus de 8° d'alcool type duvel bavaria 8.6 ou leffe triple	alcohol	beer	332
+33	boissons alcoolisées	2	bière	5010	bière spéciale à 5-6° d'alcool type 1664 pelforth ambrée ou fischer heineken	alcohol	beer	332
+33	boissons alcoolisées	2	bière	5011	bière de spécialités ou d'abbaye régionales ou de brasserie degré d'alcool varia	alcohol	beer	332
+33	boissons alcoolisées	3	cidre	5003	cidre	alcohol	cider	333
+33	boissons alcoolisées	3	cidre	5006	cidre brut	alcohol	cider	333
+33	boissons alcoolisées	3	cidre	5007	cidre doux	alcohol	cider	333
+33	boissons alcoolisées	3	cidre	5020	cidre traditionnel	alcohol	cider	333
+33	boissons alcoolisées	4	spiritueux et vins cuits	1000	pastis	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1001	eau-de-vie	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1002	gin	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1003	liqueurs	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1004	rhum	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1005	whisky	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1006	vin doux naturel ou vin muté autre que porto type muscat banyuls ou maury	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1007	apéritif à base de vin ou vermouth type martini	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1008	vodka	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	1009	apéritif à la gentiane	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	90150	cognac armagnac	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	4	spiritueux et vins cuits	90152	porto	alcohol	spirits fortified wine	334
+33	boissons alcoolisées	5	cocktails et mélanges	42	cocktail type punch planteur	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	43	cocktail alcoolisé	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	1010	pastis prêt à boire (1+5)	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	1017	sangria	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	1018	kir	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	1019	kir royal	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	5004	panaché	alcohol	cocktails	335
+33	boissons alcoolisées	5	cocktails et mélanges	5100	pétillant de fruits	alcohol	cocktails	335
+34	café	99	sans	18004	café noir prêt à boire non sucré	coffee	coffee	3499
+34	café	99	sans	18005	café soluble en poudre	coffee	coffee	3499
+34	café	99	sans	18070	café décaféiné prêt à boire non sucré	coffee	coffee	3499
+34	café	99	sans	18071	café expresso non sucré	coffee	coffee	3499
+34	café	99	sans	18072	café soluble décaféiné reconstitué prêt à boire non sucré	coffee	coffee	3499
+34	café	99	sans	18073	café soluble reconstitué prêt à boire non sucré	coffee	coffee	3499
+34	café	99	sans	18151	café au lait ou café crème ou cappuccino non sucré	coffee	coffee	3499
+35	autres boissons chaudes	1	cacao, poudres et boissons cacaotées	18002	boisson cacaotée sucrée au lait type cacolac	other hot drinks	cocoa	351
+35	autres boissons chaudes	1	cacao, poudres et boissons cacaotées	18100	cacao en poudre non sucré type van houten	other hot drinks	cocoa	351
+35	autres boissons chaudes	1	cacao, poudres et boissons cacaotées	18101	poudre cacaotée et sucrée pour boisson au chocolat	other hot drinks	cocoa	351
+35	autres boissons chaudes	1	cacao, poudres et boissons cacaotées	18104	boisson instantanée cacaotée sucrée reconstituée	other hot drinks	cocoa	351
+35	autres boissons chaudes	1	cacao, poudres et boissons cacaotées	18105	poudre cacaotée sucrée enrichie pour boisson	other hot drinks	cocoa	351
+35	autres boissons chaudes	1	cacao, poudres et boissons cacaotées	18106	boisson instantanée cacaotée enrichie en vitamines reconstituée	other hot drinks	cocoa	351
+35	autres boissons chaudes	2	chicorée et poudre maltée	18102	poudre maltée et sucrée pour boisson	other hot drinks	chicory	352
+35	autres boissons chaudes	2	chicorée et poudre maltée	18150	poudre soluble à base de chicorée et de café type ricoré	other hot drinks	chicory	352
+35	autres boissons chaudes	2	chicorée et poudre maltée	18152	chicorée en poudre soluble type leroux	other hot drinks	chicory	352
+35	autres boissons chaudes	3	thé et infusions	18020	thé infusé non sucré	other hot drinks	tea infusion	353
+35	autres boissons chaudes	3	thé et infusions	18022	tisane infusée non sucrée	other hot drinks	tea infusion	353
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25404	pizza au fromage	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25435	pizza jambon fromage	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25472	pizza 4 saisons	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25478	pizza 4 fromages	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25515	pizza spéciale	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25516	pizza sans précision	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	25548	pizza royale (jambon fromage champignon)	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	1	pizzas	92051	autre pizza	pizzas savoury tarts and pastry	pizza	361
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	7814	cake salé avec garniture (viande poisson volaille fromage légumes …)	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25405	quiche lorraine	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25417	tarte aux légumes	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25444	tarte au fromage ou quiche au fromage	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25550	flamenkueche (tarte salée aux lardons)	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25553	tarte aux poireaux	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25554	tarte provençale à la tomate	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	2	quiches et tartes salées	25555	tarte au saumon et à l'oseille	pizzas savoury tarts and pastry	savoury tart	362
+36	pizzas, quiches et pâtisseries salées	3	feuilletés et friands	25151	feuilleté au saumon	pizzas savoury tarts and pastry	puff pastry	363
+36	pizzas, quiches et pâtisseries salées	3	feuilletés et friands	25401	friand au fromage artisanal	pizzas savoury tarts and pastry	puff pastry	363
+36	pizzas, quiches et pâtisseries salées	3	feuilletés et friands	25402	friand à la viande artisanal	pizzas savoury tarts and pastry	puff pastry	363
+36	pizzas, quiches et pâtisseries salées	3	feuilletés et friands	25418	croissant au jambon	pizzas savoury tarts and pastry	puff pastry	363
+36	pizzas, quiches et pâtisseries salées	3	feuilletés et friands	25508	feuilleté fourré béchamel jambon fromage	pizzas savoury tarts and pastry	puff pastry	363
+37	sandwichs, casse-croûte	1	sandwichs baguette	25431	sandwich baguette thon crudités	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25475	sandwich baguette jambon œuf dur crudités	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25476	sandwich baguette poulet crudités	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25488	sandwich baguette saumon fumé beurre	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25517	sandwich baguette jambon beurre	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25518	sandwich baguette camembert ou autre fromage et beurre	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25519	sandwich baguette pâté cornichons	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25520	sandwich baguette saucisson sec beurre	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25521	sandwich baguette jambon emmental beurre	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25522	sandwich sans précision	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25530	sandwich baguette crudités diverses mayonnaise	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25531	sandwich baguette dinde crudités	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25532	sandwich baguette œuf crudités	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25533	sandwich baguette porc crudités	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25535	sandwich baguette merguez ketchup moutarde	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25536	sandwich baguette salami beurre	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	1	sandwichs baguette	25543	sandwich baguette sans précision	sandwich	sandwich baguette	371
+37	sandwichs, casse-croûte	2	hamburgers et hot-dog	25403	hot-dog	sandwich	hamburger hotdog	372
+37	sandwichs, casse-croûte	2	hamburgers et hot-dog	25413	hamburger	sandwich	hamburger hotdog	372
+37	sandwichs, casse-croûte	2	hamburgers et hot-dog	25414	cheeseburger	sandwich	hamburger hotdog	372
+37	sandwichs, casse-croûte	2	hamburgers et hot-dog	25415	cheeseburger double	sandwich	hamburger hotdog	372
+37	sandwichs, casse-croûte	3	autres sandwichs	25400	croque-monsieur	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	25428	sandwich grec ou kebab pita et crudités	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	25434	sandwich panini jambon cru mozzarella et tomates	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	25513	pan bagna	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	25523	canapés ou toasts salés aux garnitures variées	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	25542	croque-madame (à l'œuf)	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	25544	sandwich pain de mie garnitures diverses sans précision	sandwich	other sandwiche	373
+37	sandwichs, casse-croûte	3	autres sandwichs	92055	autre sandwich	sandwich	other sandwiche	373
+38	soupes et bouillons	1	potages et soupes	25900	soupe aux lentilles	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25902	soupe aux légumes type fait maison	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25903	soupe aux légumes préemballée à réchauffer	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25904	soupe de poissons et/ou de crustacés préemballée à réchauffer	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25905	soupe aux légumes déshydratée reconstituée	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25906	soupe poireau pomme de terre type fait maison	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25907	soupe poireau pomme de terre préemballée à réchauffer	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25908	soupe à la volaille et aux vermicelles préemballée à réchauffer ou déshydratée r	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25910	soupe à l'oignon	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25912	soupe aux champignons	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25914	soupe à la tomate préemballée à réchauffer ou déshydratée reconstituée	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25916	minestrone préemballée à réchauffer ou déshydratée reconstituée	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25917	soupe au pistou préemballée à réchauffer ou déshydratée reconstituée	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25922	soupe chinoise	soups and broths	soup	381
+38	soupes et bouillons	1	potages et soupes	25945	soupe au potiron	soups and broths	soup	381
+38	soupes et bouillons	2	bouillons	25909	bouillon de viande et de légumes	soups and broths	broth	382
+38	soupes et bouillons	2	bouillons	25946	bouillon de viande déshydraté reconstitué type bouillon de bœuf knorr	soups and broths	broth	382
+38	soupes et bouillons	2	bouillons	25947	bouillon de volaille déshydraté reconstitué type bouillon de poule knorr	soups and broths	broth	382
+38	soupes et bouillons	2	bouillons	25948	bouillon végétal	soups and broths	broth	382
+39	plats composés	1	plats garnis à base de viande	25001	blanquette de veau	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25002	cassoulet en conserve	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25003	choucroute garnie en conserve	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25010	petit salé aux lentilles ou saucisse aux lentilles	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25013	pot-au-feu	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25029	couscous de mouton garni	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25031	paella	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25033	bœuf bourguignon	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25065	bœuf carottes	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25067	osso buco à la milanaise	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25071	potée auvergnate	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25092	poulet basquaise au riz	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25093	poulet basquaise aux pâtes	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25111	chili con carne	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25116	poulet au curry avec riz ou semoule préemballé	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25124	navarin d'agneau	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25127	couscous royal à la viande	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25138	couscous au poulet	mixed dishes	meat dish	391
+39	plats composés	1	plats garnis à base de viande	25159	tajine de mouton	mixed dishes	meat dish	391
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25009	hachis parmentier	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25019	raviolis à la viande à la sauce tomate en conserve	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25056	gratin dauphinois	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25080	cannellonis à la viande	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25081	lasagnes à la bolognaise	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25085	pâtes à la bolognaise	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25109	spaghettis à la sauce tomate	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25122	gratin de pâtes	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25135	pâtes à la carbonara	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25137	tartiflette	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25156	ravioles ou raviolis au fromage	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25606	salade de pommes de terre	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25615	salade de pâtes végétarienne	mixed dishes	pasta or potatoe dish	392
+39	plats composés	2	plats à base de pâtes ou de pommes de terre	25619	salade de pâtes au légumes, avec thon ou viande	mixed dishes	pasta or potatoe dish	392
+39	plats composés	3	beignets, crêpes et bouchées à la reine	10023	beignet de crevette industriel	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25108	samossas	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25409	crêpe fourrée béchamel jambon	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25410	crêpe fourrée béchamel jambon fromage	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25412	bouchée à la reine au poulet	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25419	rouleau de printemps	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25420	nem ou pâté impérial	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25433	acra de morue	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25438	brick garni (garniture : crevettes légumes volaille viande poisson…)	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25503	bouchée à la reine au poisson et fruits de mer	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25512	nugget de volaille	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25549	crêpe fourrée béchamel fromage	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25551	beignet salé fourré de viande volaille ou poisson	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25552	crêpe fourrée béchamel jambon fromage champignon	mixed dishes	crepe fritter	393
+39	plats composés	3	beignets, crêpes et bouchées à la reine	25556	beignet de légumes	mixed dishes	crepe fritter	393
+39	plats composés	4	plats sans garniture	577	brandade de morue recette traditionnelle	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	8395	jambon en croûte	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	8601	tripes à la mode de caen artisanales	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	8913	quenelle de volaille en conserve	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	8934	quenelle de poisson cuite	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	8935	quenelle au naturel en conserve	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	8936	quenelle en sauce en conserve	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	20914	escalopes végétales à base de soja	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25089	cordon bleu de volaille type père dodu ou le gaulois	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25121	coq au vin	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25125	paupiette de veau	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25126	paupiette de volaille	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25146	poisson sauce oseille type cabillaud à l'oseille marie	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25172	viande en sauce sans précision	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	25174	poulet au curry	mixed dishes	plain dish	394
+39	plats composés	4	plats sans garniture	26054	poisson en sauce surgelé	mixed dishes	plain dish	394
+39	plats composés	5	plats à base de fromage	25020	soufflé au fromage	mixed dishes	cheese dish	395
+39	plats composés	5	plats à base de fromage	25437	gougère	mixed dishes	cheese dish	395
+39	plats composés	5	plats à base de fromage	25509	fondue savoyarde (fondue au fromage)	mixed dishes	cheese dish	395
+39	plats composés	6	plats à base de légumes	25103	tomate farcie	mixed dishes	vegetable dish	396
+39	plats composés	6	plats à base de légumes	25123	moussaka	mixed dishes	vegetable dish	396
+39	plats composés	6	plats à base de légumes	25130	gratin endives jambon	mixed dishes	vegetable dish	396
+39	plats composés	6	plats à base de légumes	25162	gratin de légumes	mixed dishes	vegetable dish	396
+39	plats composés	6	plats à base de légumes	25511	légumes divers farcis sauf tomate	mixed dishes	vegetable dish	396
+39	plats composés	6	plats à base de légumes	25524	tomate à la provençale	mixed dishes	vegetable dish	396
+39	plats composés	7	garnitures composées	25088	riz cantonais	mixed dishes	mixed garniture	397
+39	plats composés	7	garnitures composées	25601	salade de thon et légumes en conserve	mixed dishes	mixed garniture	397
+39	plats composés	7	garnitures composées	25602	salade composée avec viande ou poisson en conserve	mixed dishes	mixed garniture	397
+39	plats composés	7	garnitures composées	25608	taboulé ou salade de couscous	mixed dishes	mixed garniture	397
+39	plats composés	7	garnitures composées	25614	salade de riz	mixed dishes	mixed garniture	397
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	15016	crème de marrons vanillée en conserve	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	20905	crème dessert au soja nature rayon frais type sojasun nature	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	20909	crème dessert au soja aux fruits rayon frais type sojadélice aux pruneaux	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	20911	crème dessert au soja aromatisée rayon frais type sojasun chocolat	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39132	dessert au lait gélifié aromatisé au chocolat type dany	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39200	crème dessert au chocolat industrielle type danette ou petits filous	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39208	chocolat viennois ou liégeois	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39214	crème dessert à la vanille en conserve type mont-blanc ou yabon	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39221	dessert au lait gélifié aromatisé nappé de caramel type flanby	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39224	crème dessert allégée en matière grasse rayon frais type taillefine chocolat ou	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39229	crème dessert à la vanille enrichie en crème rayon frais type la laitière de nes	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39230	crème dessert rayon frais type danette	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39505	crème dessert appertisée type mont blanc ou yabon	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39506	crème dessert au chocolat en conserve	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	1	crème dessert et lait gélifié	39511	crème dessert rayon frais ou appertisée sans précision	milky desserts	cream dessert	411
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	23525	flan pâtissier aux œufs ou à la parisienne	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	23535	gâteau de semoule en conserve type yabon ou mont-blanc	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	23536	gâteau de riz nappé de caramel rayon frais	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	24999	entremet sans précision	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	25445	tiramisu	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39206	mousse au chocolat industrielle rayon frais	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39209	crème caramel type charles gervais	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39211	crème dessert aux œufs ou crème renversée type senoble crème aux œufs saveur van	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39212	riz au lait rayon frais	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39213	crème brûlée	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39215	île flottante ou œufs à la neige	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39216	clafoutis aux fruits	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39218	gâteau de semoule au lait rayon frais	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39228	mousse aux fruits	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39700	crème anglaise	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	39710	crème pâtissière	milky desserts	dessert	412
+41	entremets, crèmes desserts et laits gélifiés	2	entremets	92056	autre dessert type entremet	milky desserts	dessert	412
+42	compotes et fruits cuits	1	compotes	13038	compote de pomme en conserve	compotes and cooked fruits	compote	421
+42	compotes et fruits cuits	1	compotes	13108	compote de fruits divers en conserve	compotes and cooked fruits	compote	421
+42	compotes et fruits cuits	1	compotes	13109	compote de fruits divers allégée en conserve	compotes and cooked fruits	compote	421
+42	compotes et fruits cuits	1	compotes	13998	coulis de fruits rouges framboises fraises groseilles cassis	compotes and cooked fruits	compote	421
+42	compotes et fruits cuits	2	fruits au sirop	13003	ananas au sirop en conserve	compotes and cooked fruits	fruit in syrup	422
+42	compotes et fruits cuits	2	fruits au sirop	13022	litchi en conserve	compotes and cooked fruits	fruit in syrup	422
+42	compotes et fruits cuits	2	fruits au sirop	13049	macédoine de fruits au sirop en conserve	compotes and cooked fruits	fruit in syrup	422
+42	compotes et fruits cuits	2	fruits au sirop	13068	cerise au sirop en conserve	compotes and cooked fruits	fruit in syrup	422
+42	compotes et fruits cuits	2	fruits au sirop	13096	abricot au sirop en conserve	compotes and cooked fruits	fruit in syrup	422
+42	compotes et fruits cuits	2	fruits au sirop	13097	pêche au sirop en conserve	compotes and cooked fruits	fruit in syrup	422
+42	compotes et fruits cuits	2	fruits au sirop	13098	poire au sirop en conserve	compotes and cooked fruits	fruit in syrup	422
+43	condiments et sauces	1	sauces	11012	mayonnaise allégée	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11031	mayonnaise à l'huile de tournesol	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11054	mayonnaise	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11100	sauce barbecue	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11102	sauce béarnaise	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11105	sauce hollandaise	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11106	sauce mornay	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11107	sauce tomate sans viande	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11108	vinaigrette à l'huile d'olive	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11109	vinaigrette allégée	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11110	vinaigrette sans précision	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11113	sauce béchamel en brique	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11114	sauce tomate à la viande ou bolognaise type panzani ou buitoni	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11132	sauce au curry	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11157	sauce moutarde	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11158	sauce au beurre	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11159	sauce à la crème	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11160	sauce aux champignons	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11161	sauce à la crème aux épices	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11162	sauce à la crème aux herbes	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11163	sauce aigre-douce	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11164	sauce au vin rouge	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11165	sauce au fromage	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11166	sauce au yaourt	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11179	sauce pesto	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	11184	sauce sans précision	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81055	mayonnaise ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81057	sauce blanche ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81059	sauce moutarde ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81061	vinaigrette ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81063	vinaigrette allégée ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81066	sauce au fromage blanc ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	81069	sauce au poivre ajoutée au service	condiment and sauces	sauces	431
+43	condiments et sauces	1	sauces	92507	autre sauce	condiment and sauces	sauces	431
+43	condiments et sauces	2	herbes aromatiques	11002	cerfeuil frais	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	2	herbes aromatiques	11003	ciboule ou ciboulette fraîche	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	2	herbes aromatiques	11014	persil frais	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	2	herbes aromatiques	11027	menthe fraîche	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	2	herbes aromatiques	11033	basilic frais	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	2	herbes aromatiques	11038	thym sec	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	2	herbes aromatiques	11080	herbes aromatiques fraîches	condiment and sauces	aromatic herbs	432
+43	condiments et sauces	3	sel et épices	11005	curry en poudre	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11006	gingembre moulu	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11015	poivre noir moulu	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11017	sel fin ou gros	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11025	cannelle	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11026	coriandre en graines	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11030	sel de mer	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11042	cumin en graines	condiment and sauces	salt and spices	433
+43	condiments et sauces	3	sel et épices	11081	épices sans précision	condiment and sauces	salt and spices	433
+43	condiments et sauces	4	condiments d'accompagnement	11004	cornichon au vinaigre	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	11008	ketchup	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	11013	moutarde	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	11016	raifort cru	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	11040	câpres	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	11043	tapenade d'olives	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	13032	olive noire en saumure	condiment and sauces	complement condiment	434
+43	condiments et sauces	4	condiments d'accompagnement	13033	olive verte en saumure	condiment and sauces	complement condiment	434
+43	condiments et sauces	5	condiments d'assaisonnement	11000	ail frais	condiment and sauces	seasoning condiment	435
+43	condiments et sauces	5	condiments d'assaisonnement	11001	cube pour bouillon de bœuf	condiment and sauces	seasoning condiment	435
+43	condiments et sauces	5	condiments d'assaisonnement	11018	vinaigre	condiment and sauces	seasoning condiment	435
+43	condiments et sauces	5	condiments d'assaisonnement	11104	sauce de soja	condiment and sauces	seasoning condiment	435
+43	condiments et sauces	5	condiments d'assaisonnement	20068	concentré de tomate	condiment and sauces	seasoning condiment	435
+44	aliments destinés à une alimentation particulière	99	sans	11007	gélatine	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	11009	levure alimentaire	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	17610	huile de poisson	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	17999	huile de paraffine	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	18351	boisson énergisante type drak dog burn energy drink	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	20904	tofu	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	31019	édulcorant à l'aspartame	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	31104	barre céréalière diététique hypocalorique type gerlinéa nesvital nutrition & san	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	42000	substitut de repas hypocalorique genre crème dessert ultrafrais en pot tout arôm	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	42003	substitut de repas hypocalorique liquide à boire type gerlinéa tout arôme	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	42004	substitut de repas hypocalorique à boire poudre reconstituée avec lait écrémé to	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	42005	substitut de repas hypocalorique genre milk-shake poudre reconstituée avec lait	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	42500	petit déjeuner pour bébé à base de lait + céréales ou farine type blédi dej	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	42600	petit pot pour bébés type viande ou poisson + légumes	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	81064	édulcorant ajouté au service	special food	special food	4499
+44	aliments destinés à une alimentation particulière	99	sans	81073	huile de paraffine ajoutée au service	special food	special food	4499
+45	-	99	sans	1	aliment non codifié	no code	no code	4599

@@ -1,0 +1,1344 @@
+,Unnamed: 0,codgr,libgr,sougr,libsougr,codal,libal,libgren,libsougren,codsougr,codgr_,sougr_,codal_,codsougr_
+0,0,1,pain et panification sèche,1,pain,7001,pain baguette,breads,bread,11,1,1121,12137001,121
+1,1,1,pain et panification sèche,1,pain,7004,pain grillé maison,breads,bread,11,1,1121,12137004,121
+2,2,1,pain et panification sèche,1,pain,7012,pain courant français boule à la levure,breads,bread,11,1,1121,12137012,121
+3,3,1,pain et panification sèche,1,pain,7100,pain de campagne ou bis,breads,bread,11,1,1121,12137100,121
+4,4,1,pain et panification sèche,1,pain,7110,pain complet ou intégral artisanal,breads,bread,11,1,1121,12137110,121
+5,5,1,pain et panification sèche,1,pain,7125,pain de seigle et froment,breads,bread,11,1,1121,12137125,121
+6,6,1,pain et panification sèche,1,pain,7126,pain de seigle aux raisins,breads,bread,11,1,1121,12137126,121
+7,7,1,pain et panification sèche,1,pain,7160,pain baguette sans sel,breads,bread,11,1,1121,12137160,121
+8,8,1,pain et panification sèche,1,pain,7200,pain de mie,breads,bread,11,1,1121,12137200,121
+9,9,1,pain et panification sèche,1,pain,7225,pain brioché ou viennois,breads,bread,11,1,1121,12137225,121
+10,10,1,pain et panification sèche,1,pain,7255,pain aux céréales artisanal,breads,bread,11,1,1121,12137255,121
+11,11,1,pain et panification sèche,1,pain,90003,pain type poilâne,breads,bread,11,1,1121,121390003,121
+12,12,1,pain et panification sèche,1,pain,91123,pain sans précision,breads,bread,11,1,1121,121391123,121
+13,13,1,pain et panification sèche,1,pain,92031,autre pain,breads,bread,11,1,1121,121392031,121
+14,14,1,pain et panification sèche,2,biscottes et panification sèche,7300,biscotte classique type heudebert lu,breads,rusk,12,1,1122,12237300,122
+15,15,1,pain et panification sèche,2,biscottes et panification sèche,7310,biscotte sans adjonction de sel,breads,rusk,12,1,1122,12237310,122
+16,16,1,pain et panification sèche,2,biscottes et panification sèche,7330,biscotte multicéréales type heudebert aux six céréales,breads,rusk,12,1,1122,12237330,122
+17,17,1,pain et panification sèche,2,biscottes et panification sèche,7340,biscotte complète ou riche en fibres,breads,rusk,12,1,1122,12237340,122
+18,18,1,pain et panification sèche,2,biscottes et panification sèche,7400,pain grillé au froment type tranches pain grillé pelletier lu braisotte jacquet,breads,rusk,12,1,1122,12237400,122
+19,19,1,pain et panification sèche,2,biscottes et panification sèche,7411,tartine extrudée fourrée au chocolat ou aux fruits type craquinette de lu,breads,rusk,12,1,1122,12237411,122
+20,20,1,pain et panification sèche,2,biscottes et panification sèche,7425,pain grillé multicéréales type pain grillé multicéréales heudebert lu,breads,rusk,12,1,1122,12237425,122
+21,21,1,pain et panification sèche,2,biscottes et panification sèche,92030,autre biscotte,breads,rusk,12,1,1122,122392030,122
+22,22,1,pain et panification sèche,3,autres produits de panification,7430,croûtons,breads,other product of panification,13,1,1123,12337430,123
+23,23,1,pain et panification sèche,3,autres produits de panification,7500,chapelure ou panure,breads,other product of panification,13,1,1123,12337500,123
+24,24,1,pain et panification sèche,3,autres produits de panification,7812,fougasse garnie,breads,other product of panification,13,1,1123,12337812,123
+25,25,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32000,grains de blé soufflés au miel ou au caramel enrichis en vitamines et minéraux t,breakfast cereals,cereal breakfast,21,2,1221,221332000,221
+26,26,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32002,céréales riches en fibres enrichies en vitamines et minéraux type all-bran,breakfast cereals,sweetened cereals,21,2,1221,221332002,221
+27,27,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32003,céréales sucrées sans précision,breakfast cereals,sweetened cereals,21,2,1221,221332003,221
+28,28,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32005,pétales de maïs ou corn-flakes nature sucrés enrichis en vitamines et minéraux t,breakfast cereals,sweetened cereals,21,2,1221,221332005,221
+29,29,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32006,riz soufflé nature sucré enrichi en vitamines et minéraux type rice krispies kel,breakfast cereals,sweetened cereals,21,2,1221,221332006,221
+30,30,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32021,céréales nature enrichies en vitamines et minéraux type kellogg's spécial k ou n,breakfast cereals,sweetened cereals,21,2,1221,221332021,221
+31,31,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32121,pétales de maïs glacés au sucre enrichis en vitamines et minéraux type kellogg's,breakfast cereals,sweetened cereals,21,2,1221,221332121,221
+32,32,2,céréales pour petit déjeuner,1,"céréales sucrées, glacées ou au miel",32133,boules de maïs soufflé au miel enrichies en vitamines et minéraux type miel pops,breakfast cereals,sweetened cereals,21,2,1221,221332133,221
+33,33,2,céréales pour petit déjeuner,2,céréales chocolatées,32001,céréales chocolatées sucrées non fourrées enrichies en vitamines et minéraux,breakfast cereals,chocolate cereals,22,2,1222,222332001,222
+34,34,2,céréales pour petit déjeuner,2,céréales chocolatées,32009,pétales de blé chocolatés enrichis en vitamines et minéraux type chocos kellogg',breakfast cereals,chocolate cereals,22,2,1222,222332009,222
+35,35,2,céréales pour petit déjeuner,2,céréales chocolatées,32016,céréales fourrées au chocolat ou chocolat-noisette enrichies en vitamines et min,breakfast cereals,chocolate cereals,22,2,1222,222332016,222
+36,36,2,céréales pour petit déjeuner,2,céréales chocolatées,32022,céréales chocolatées enrichies en vitamines et minéraux type spécial k au chocol,breakfast cereals,chocolate cereals,22,2,1222,222332022,222
+37,37,2,céréales pour petit déjeuner,2,céréales chocolatées,32112,muesli croustillant au chocolat enrichi en vitamines et minéraux,breakfast cereals,chocolate cereals,22,2,1222,222332112,222
+38,38,2,céréales pour petit déjeuner,2,céréales chocolatées,32115,grains de blé soufflés chocolatés enrichis en vitamines et minéraux,breakfast cereals,chocolate cereals,22,2,1222,222332115,222
+39,39,2,céréales pour petit déjeuner,2,céréales chocolatées,32131,riz soufflé chocolaté enrichi en vitamines et minéraux type choco pops kellogg's,breakfast cereals,chocolate cereals,22,2,1222,222332131,222
+40,40,2,céréales pour petit déjeuner,2,céréales chocolatées,32135,multi-céréales au chocolat soufflées ou extrudées enrichies en vitamines et miné,breakfast cereals,chocolate cereals,22,2,1222,222332135,222
+41,41,2,céréales pour petit déjeuner,3,céréales aux fruits frais ou secs,32023,céréales aux fruits enrichies en vitamines et minéraux type fitness & fruits de,breakfast cereals,cereals with fruit,23,2,1223,223332023,223
+42,42,2,céréales pour petit déjeuner,3,céréales aux fruits frais ou secs,32110,muesli floconneux aux fruits ou aux fruits secs enrichi en vitamines et minéraux,breakfast cereals,cereals with fruit,23,2,1223,223332110,223
+43,43,2,céréales pour petit déjeuner,3,céréales aux fruits frais ou secs,32111,muesli croustillant aux fruits ou aux fruits secs enrichi en vitamines et minéra,breakfast cereals,cereals with fruit,23,2,1223,223332111,223
+44,44,2,céréales pour petit déjeuner,3,céréales aux fruits frais ou secs,32113,muesli floconneux aux fruits ou aux fruits secs sans sucre ajouté type alpen,breakfast cereals,cereals with fruit,23,2,1223,223332113,223
+45,45,2,céréales pour petit déjeuner,3,céréales aux fruits frais ou secs,32123,"pétales de blé avec noix, noisettes ou amandes enrichis en vitamines et minéraux",breakfast cereals,cereals with fruit,23,2,1223,223332123,223
+46,46,2,céréales pour petit déjeuner,4,autres céréales pour petit déjeuner,32004,muesli sans précision,breakfast cereals,other breakfast cereals,24,2,1224,224332004,224
+47,47,2,céréales pour petit déjeuner,4,autres céréales pour petit déjeuner,32018,céréales fourrées fourrage autre que chocolat enrichies en vitamines b1 b2 b6 b9,breakfast cereals,other breakfast cereals,24,2,1224,224332018,224
+48,48,2,céréales pour petit déjeuner,4,autres céréales pour petit déjeuner,90032,autres céréales sucrées pour petit déjeuner,breakfast cereals,other breakfast cereals,24,2,1224,224390032,224
+49,49,3,pâtes,1,pâtes alimentaires,9811,pâtes alimentaires cuites,pasta,pasta,31,3,1321,32139811,321
+50,50,3,pâtes,1,pâtes alimentaires,9822,pâtes alimentaires aux oeufs cuites,pasta,pasta,31,3,1321,32139822,321
+51,51,3,pâtes,1,pâtes alimentaires,9871,pâtes alimentaires au blé complet cuites,pasta,pasta,31,3,1321,32139871,321
+52,52,3,pâtes,2,pâtes pour pâtisserie prêtes à l'emploi,23412,pâte brisée cuite,pasta,tart dough,32,3,1322,322323412,322
+53,53,3,pâtes,2,pâtes pour pâtisserie prêtes à l'emploi,23422,pâte feuilletée cuite,pasta,tart dough,32,3,1322,322323422,322
+54,54,4,riz et blé dur ou concassé,1,blé,9081,blé dur précuit nature type ebly,rice or wheat,wheat,41,4,1421,42139081,421
+55,55,4,riz et blé dur ou concassé,1,blé,9683,couscous (graine seule) semoule cuite,rice or wheat,wheat,41,4,1421,42139683,421
+56,56,4,riz et blé dur ou concassé,2,riz,9103,riz complet cuit,rice or wheat,rice,42,4,1422,42239103,422
+57,57,4,riz et blé dur ou concassé,2,riz,9104,riz blanc cuit,rice or wheat,rice,42,4,1422,42239104,422
+58,58,4,riz et blé dur ou concassé,2,riz,9105,riz blanc étuvé cuit,rice or wheat,rice,42,4,1422,42239105,422
+59,59,5,autres céréales,99,sans,9230,pop corn ou maïs éclaté à l'huile salé,other cereals,other cereals,599,5,15299,529939230,5299
+60,60,5,autres céréales,99,sans,9313,flocons d'avoine cuits à l'eau,other cereals,other cereals,599,5,15299,529939313,5299
+61,61,5,autres céréales,99,sans,9615,polenta ou semoule de maïs cuite,other cereals,other cereals,599,5,15299,529939615,5299
+62,62,5,autres céréales,99,sans,9660,germes de blé,other cereals,other cereals,599,5,15299,529939660,5299
+63,63,6,viennoiserie,99,sans,7601,croissant sans précision,viennoiserie,viennoiserie,699,6,16299,629937601,6299
+64,64,6,viennoiserie,99,sans,7615,croissant ordinaire artisanal,viennoiserie,viennoiserie,699,6,16299,629937615,6299
+65,65,6,viennoiserie,99,sans,7620,croissant au beurre artisanal,viennoiserie,viennoiserie,699,6,16299,629937620,6299
+66,66,6,viennoiserie,99,sans,7650,croissant aux amandes artisanal,viennoiserie,viennoiserie,699,6,16299,629937650,6299
+67,67,6,viennoiserie,99,sans,7710,pain au lait artisanal,viennoiserie,viennoiserie,699,6,16299,629937710,6299
+68,68,6,viennoiserie,99,sans,7720,pain aux raisins,viennoiserie,viennoiserie,699,6,16299,629937720,6299
+69,69,6,viennoiserie,99,sans,7730,pain au chocolat feuilleté artisanal,viennoiserie,viennoiserie,699,6,16299,629937730,6299
+70,70,6,viennoiserie,99,sans,7740,brioche industrielle préemballée,viennoiserie,viennoiserie,699,6,16299,629937740,6299
+71,71,6,viennoiserie,99,sans,7741,brioche sans précision,viennoiserie,viennoiserie,699,6,16299,629937741,6299
+72,72,6,viennoiserie,99,sans,23480,chausson aux pommes,viennoiserie,viennoiserie,699,6,16299,6299323480,6299
+73,73,6,viennoiserie,99,sans,24660,palmier artisanal,viennoiserie,viennoiserie,699,6,16299,6299324660,6299
+74,74,6,viennoiserie,99,sans,92510,autre viennoiserie,viennoiserie,viennoiserie,699,6,16299,6299392510,6299
+75,75,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24000,biscuit sec sans précision,biscuits,sweet biscuits,71,7,1721,721324000,721
+76,76,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24002,biscuit diététique à teneur garantie en vitamines,biscuits,sweet biscuits,71,7,1721,721324002,721
+77,77,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24003,biscuit diététique à teneur garantie en vitamines et minéraux,biscuits,sweet biscuits,71,7,1721,721324003,721
+78,78,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24015,biscuit sec petit beurre,biscuits,sweet biscuits,71,7,1721,721324015,721
+79,79,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24016,biscuit sec petit beurre + tablette de chocolat type lu petit écolier,biscuits,sweet biscuits,71,7,1721,721324016,721
+80,80,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24031,biscuit sec corquant genre tuile sans chocolat allégé en matière grasse,biscuits,sweet biscuits,71,7,1721,721324031,721
+81,81,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24034,biscuit sec pour petit déjeuner type lu ou prince,biscuits,sweet biscuits,71,7,1721,721324034,721
+82,82,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24036,biscuit sec au chocolat sans précision,biscuits,sweet biscuits,71,7,1721,721324036,721
+83,83,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24037,biscuit sec fourré à la pâte de fruit type figolu à la figue,biscuits,sweet biscuits,71,7,1721,721324037,721
+84,84,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24038,biscuit sec nappé de chocolat type pépito ou mikado lu,biscuits,sweet biscuits,71,7,1721,721324038,721
+85,85,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24049,galette ou sablé ou palet type galette du mont saint michel,biscuits,sweet biscuits,71,7,1721,721324049,721
+86,86,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24231,goûter sec fourré au chocolat type prince ou bn au chocolat,biscuits,sweet biscuits,71,7,1721,721324231,721
+87,87,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24310,gaufrette fourrée fourrage autre qu'aux fruits (chocolat vanille noisette…),biscuits,sweet biscuits,71,7,1721,721324310,721
+88,88,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24320,gaufrette fourrée aux fruits type paille d'or aux framboises,biscuits,sweet biscuits,71,7,1721,721324320,721
+89,89,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24430,biscuit sec aux œufs à la cuillère ou boudoir,biscuits,sweet biscuits,71,7,1721,721324430,721
+90,90,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24441,langue de chat,biscuits,sweet biscuits,71,7,1721,721324441,721
+91,91,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24615,tuile aux amandes,biscuits,sweet biscuits,71,7,1721,721324615,721
+92,92,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24659,biscuit sec feuilleté type petits cœurs nature ou palmito,biscuits,sweet biscuits,71,7,1721,721324659,721
+93,93,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24678,barquette à la pulpe de fruit fabrication industrielle,biscuits,sweet biscuits,71,7,1721,721324678,721
+94,94,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,24684,cookie,biscuits,sweet biscuits,71,7,1721,721324684,721
+95,95,7,biscuits sucrés ou salés et barres,1,biscuits sucrés,92033,autre biscuit sucré,biscuits,sweet biscuits,71,7,1721,721392033,721
+96,96,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,4004,chips de pomme de terre salées,biscuits,crackers,72,7,1722,72234004,722
+97,97,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,38105,chips de maïs ou tortilla chips type nacho cheese ou dippas nature doritos,biscuits,crackers,72,7,1722,722338105,722
+98,98,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,38106,biscuit apéritif soufflé à base de pomme de terre type chipster lu,biscuits,crackers,72,7,1722,722338106,722
+99,99,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,38400,biscuit apéritif soufflé à base de maïs sans cacahuète,biscuits,crackers,72,7,1722,722338400,722
+100,100,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,38401,biscuit apéritif type cracker garni ou fourré au fromage type monaco lu,biscuits,crackers,72,7,1722,722338401,722
+101,101,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,38402,biscuit apéritif type cracker nature type tuc ou triangolini,biscuits,crackers,72,7,1722,722338402,722
+102,102,7,biscuits sucrés ou salés et barres,2,biscuits salés pour apéritif,38403,biscuit apéritif type cracker allégé en matière grasse,biscuits,crackers,72,7,1722,722338403,722
+103,103,7,biscuits sucrés ou salés et barres,3,barres céréalières,31100,barre céréalière à base de céréales et de lait pour petit déjeuner avec ou sans,biscuits,cereal bars,73,7,1723,723331100,723
+104,104,7,biscuits sucrés ou salés et barres,3,barres céréalières,31101,barre céréalière aux fruits enrichie en vitamines et minéraux,biscuits,cereal bars,73,7,1723,723331101,723
+105,105,7,biscuits sucrés ou salés et barres,3,barres céréalières,31102,barre céréalière chocolatée enrichie en vitamines et minéraux,biscuits,cereal bars,73,7,1723,723331102,723
+106,106,7,biscuits sucrés ou salés et barres,3,barres céréalières,31106,barre chocolatée céréalière type grany céréales chocolat,biscuits,cereal bars,73,7,1723,723331106,723
+107,107,7,biscuits sucrés ou salés et barres,3,barres céréalières,31113,barre céréalière aux fruits,biscuits,cereal bars,73,7,1723,723331113,723
+108,108,7,biscuits sucrés ou salés et barres,3,barres céréalières,31114,barre céréalière aux amandes ou noisettes,biscuits,cereal bars,73,7,1723,723331114,723
+109,109,8,pâtisseries et gâteaux,1,gâteaux,23000,gâteau sans précision,cake and pastry,cake,81,8,1821,821323000,821
+110,110,8,pâtisseries et gâteaux,1,gâteaux,23007,gâteau mousse aux fruits sur génoise type miroir aux fruits rouges de picard,cake and pastry,cake,81,8,1821,821323007,821
+111,111,8,pâtisseries et gâteaux,1,gâteaux,23021,baba au rhum,cake and pastry,cake,81,8,1821,821323021,821
+112,112,8,pâtisseries et gâteaux,1,gâteaux,23032,brownie au chocolat,cake and pastry,cake,81,8,1821,821323032,821
+113,113,8,pâtisseries et gâteaux,1,gâteaux,23050,gâteau de savoie,cake and pastry,cake,81,8,1821,821323050,821
+114,114,8,pâtisseries et gâteaux,1,gâteaux,23081,quatre-quarts fabrication industrielle,cake and pastry,cake,81,8,1821,821323081,821
+115,115,8,pâtisseries et gâteaux,1,gâteaux,23121,gâteau breton ou far aux pruneau,cake and pastry,cake,81,8,1821,821323121,821
+116,116,8,pâtisseries et gâteaux,1,gâteaux,23200,pain d'épices,cake and pastry,cake,81,8,1821,821323200,821
+117,117,8,pâtisseries et gâteaux,1,gâteaux,23531,charlotte aux fruits artisanale,cake and pastry,cake,81,8,1821,821323531,821
+118,118,8,pâtisseries et gâteaux,1,gâteaux,23585,gâteau au chocolat,cake and pastry,cake,81,8,1821,821323585,821
+119,119,8,pâtisseries et gâteaux,1,gâteaux,23589,gâteau au fromage blanc,cake and pastry,cake,81,8,1821,821323589,821
+120,120,8,pâtisseries et gâteaux,1,gâteaux,23684,galette des rois feuilletée fourrée à la frangipane,cake and pastry,cake,81,8,1821,821323684,821
+121,121,8,pâtisseries et gâteaux,1,gâteaux,23909,cake aux fruits,cake and pastry,cake,81,8,1821,821323909,821
+122,122,8,pâtisseries et gâteaux,1,gâteaux,23939,gâteau moelleux fourré au chocolat ou aux pépites de chocolat noir ou au lait,cake and pastry,cake,81,8,1821,821323939,821
+123,123,8,pâtisseries et gâteaux,1,gâteaux,23940,gâteau moelleux fourré au chocolat multicouches type napolitain lu ou kinder dél,cake and pastry,cake,81,8,1821,821323940,821
+124,124,8,pâtisseries et gâteaux,1,gâteaux,23941,gâteau moelleux fourré aux fruits type mini roulé fraise captain choc,cake and pastry,cake,81,8,1821,821323941,821
+125,125,8,pâtisseries et gâteaux,1,gâteaux,23950,muffin,cake and pastry,cake,81,8,1821,821323950,821
+126,126,8,pâtisseries et gâteaux,1,gâteaux,24630,madeleine,cake and pastry,cake,81,8,1821,821324630,821
+127,127,8,pâtisseries et gâteaux,1,gâteaux,24680,gâteau moelleux génoise fourrée à l'orange type chamonix,cake and pastry,cake,81,8,1821,821324680,821
+128,128,8,pâtisseries et gâteaux,1,gâteaux,24686,gâteau moelleux génoise fourrée à l'orange enrobée de chocolat type pim's,cake and pastry,cake,81,8,1821,821324686,821
+129,129,8,pâtisseries et gâteaux,1,gâteaux,90024,madeleine fourrée aux fruits type coqueline à la fraise,cake and pastry,cake,81,8,1821,821390024,821
+130,130,8,pâtisseries et gâteaux,1,gâteaux,90031,gâteau à la crème,cake and pastry,cake,81,8,1821,821390031,821
+131,131,8,pâtisseries et gâteaux,1,gâteaux,92034,autre gâteau,cake and pastry,cake,81,8,1821,821392034,821
+132,132,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23024,macaron moelleux fourré à la confiture ou à la crème artisanal,cake and pastry,pastry,82,8,1822,822323024,822
+133,133,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23300,pâtisserie orientale aux amandes et au sirop,cake and pastry,pastry,82,8,1822,822323300,822
+134,134,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23455,chou à la crème chantilly ou pâtissière,cake and pastry,pastry,82,8,1822,822323455,822
+135,135,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23467,chouquette artisanale,cake and pastry,pastry,82,8,1822,822323467,822
+136,136,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23477,éclair,cake and pastry,pastry,82,8,1822,822323477,822
+137,137,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23490,tarte ou tartelette aux pommes,cake and pastry,pastry,82,8,1822,822323490,822
+138,138,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23493,crumble aux pommes,cake and pastry,pastry,82,8,1822,822323493,822
+139,139,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23499,tarte ou tartelette aux fruits,cake and pastry,pastry,82,8,1822,822323499,822
+140,140,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23501,tarte à la crème,cake and pastry,pastry,82,8,1822,822323501,822
+141,141,8,pâtisseries et gâteaux,2,pâtisseries et tartes,23900,pâtisserie sans précision,cake and pastry,pastry,82,8,1822,822323900,822
+142,142,8,pâtisseries et gâteaux,2,pâtisseries et tartes,24666,millefeuille,cake and pastry,pastry,82,8,1822,822324666,822
+143,143,8,pâtisseries et gâteaux,2,pâtisseries et tartes,92035,autre pâtisserie,cake and pastry,pastry,82,8,1822,822392035,822
+144,144,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23800,crêpe au froment nature,cake and pastry,doughnut crepe waffle,83,8,1823,823323800,823
+145,145,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23801,crêpe ou galette bretonne au blé noir ou sarrasin,cake and pastry,doughnut crepe waffle,83,8,1823,823323801,823
+146,146,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23805,blinis,cake and pastry,doughnut crepe waffle,83,8,1823,823323805,823
+147,147,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23815,crêpe au froment sucrée non fourrée,cake and pastry,doughnut crepe waffle,83,8,1823,823323815,823
+148,148,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23820,crêpe au froment fourrée à la confiture,cake and pastry,doughnut crepe waffle,83,8,1823,823323820,823
+149,149,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23821,crêpe au froment fourrée au chocolat ou ou à la pâte à tartiner chocolat et nois,cake and pastry,doughnut crepe waffle,83,8,1823,823323821,823
+150,150,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23855,gaufre bruxelloise ou liégeoise avec ou sans chocolat préemballée,cake and pastry,doughnut crepe waffle,83,8,1823,823323855,823
+151,151,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23880,beignet sucré nature,cake and pastry,doughnut crepe waffle,83,8,1823,823323880,823
+152,152,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23881,beignet fourré à la confiture,cake and pastry,doughnut crepe waffle,83,8,1823,823323881,823
+153,153,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",23883,beignet fourré aux fruits,cake and pastry,doughnut crepe waffle,83,8,1823,823323883,823
+154,154,8,pâtisseries et gâteaux,3,"beignets, crêpes et gaufres",39236,pain perdu,cake and pastry,doughnut crepe waffle,83,8,1823,823339236,823
+155,155,9,lait,1,lait en bouteille ou en brique,19011,lait de croissance infantile,milk,bottled milk,91,9,1921,921319011,921
+156,156,9,lait,1,lait en bouteille ou en brique,19023,lait entier uht,milk,bottled milk,91,9,1921,921319023,921
+157,157,9,lait,1,lait en bouteille ou en brique,19024,lait entier pasteurisé,milk,bottled milk,91,9,1921,921319024,921
+158,158,9,lait,1,lait en bouteille ou en brique,19041,lait demi-écrémé uht,milk,bottled milk,91,9,1921,921319041,921
+159,159,9,lait,1,lait en bouteille ou en brique,19042,lait demi-écrémé pasteurisé,milk,bottled milk,91,9,1921,921319042,921
+160,160,9,lait,1,lait en bouteille ou en brique,19044,lait demi-écrémé en poudre,milk,bottled milk,91,9,1921,921319044,921
+161,161,9,lait,1,lait en bouteille ou en brique,19045,lait demi-écrémé uht à teneur garantie en vitamines,milk,bottled milk,91,9,1921,921319045,921
+162,162,9,lait,1,lait en bouteille ou en brique,19046,lait demi-écrémé uht à teneur garantie en protéines et vitamines enrichi en miné,milk,bottled milk,91,9,1921,921319046,921
+163,163,9,lait,1,lait en bouteille ou en brique,19050,lait écrémé uht,milk,bottled milk,91,9,1921,921319050,921
+164,164,9,lait,1,lait en bouteille ou en brique,19055,lait écrémé uht à teneur garantie en vitamines,milk,bottled milk,91,9,1921,921319055,921
+165,165,9,lait,2,lait aromatisé,19110,lait demi-écrémé aromatisé,milk,flavoured milk,92,9,1922,922319110,922
+166,166,9,lait,2,lait aromatisé,19122,lait demi-écrémé aromatisé au chocolat,milk,flavoured milk,92,9,1922,922319122,922
+167,167,9,lait,2,lait aromatisé,19127,lait demi-écrémé aromatisé à la fraise,milk,flavoured milk,92,9,1922,922319127,922
+168,168,9,lait,2,lait aromatisé,39000,milk-shake sans précision,milk,flavoured milk,92,9,1922,922339000,922
+169,169,9,lait,3,lait concentré ou en poudre,19021,lait entier en poudre,milk,condensed milk,93,9,1923,923319021,923
+170,170,9,lait,3,lait concentré ou en poudre,19026,lait entier concentré non sucré,milk,condensed milk,93,9,1923,923319026,923
+171,171,9,lait,3,lait concentré ou en poudre,19027,lait entier concentré sucré,milk,condensed milk,93,9,1923,923319027,923
+172,172,9,lait,3,lait concentré ou en poudre,19054,lait écrémé en poudre,milk,condensed milk,93,9,1923,923319054,923
+173,173,9,lait,4,autre lait,19200,lait de chèvre entier uht,milk,other milk,94,9,1924,924319200,924
+174,174,9,lait,4,autre lait,39400,lait de poule sans alcool,milk,other milk,94,9,1924,924339400,924
+175,175,9,lait,4,autre lait,92511,autre lait,milk,other milk,94,9,1924,924392511,924
+176,176,10,ultra-frais laitier,1,crème fraîche,19401,crème fraîche ou crème de lait fluide au moins 30% m.g. rayon frais,ultra fresh dairy,fresh cream,101,10,11021,1021319401,1021
+177,177,10,ultra-frais laitier,1,crème fraîche,19402,crème fraîche ou crème de lait sans précision,ultra fresh dairy,fresh cream,101,10,11021,1021319402,1021
+178,178,10,ultra-frais laitier,1,crème fraîche,19410,crème fraîche ou crème de lait épaisse au moins 30% m.g. rayon frais,ultra fresh dairy,fresh cream,101,10,11021,1021319410,1021
+179,179,10,ultra-frais laitier,1,crème fraîche,19415,crème fraîche ou crème de lait fluide au moins 30% m.g. uht,ultra fresh dairy,fresh cream,101,10,11021,1021319415,1021
+180,180,10,ultra-frais laitier,1,crème fraîche,19420,crème chantilly sucrée sous pression uht,ultra fresh dairy,fresh cream,101,10,11021,1021319420,1021
+181,181,10,ultra-frais laitier,1,crème fraîche,19430,crème fraîche ou crème de lait fluide allégée 15 à 20% m.g. uht,ultra fresh dairy,fresh cream,101,10,11021,1021319430,1021
+182,182,10,ultra-frais laitier,1,crème fraîche,19431,crème fraîche ou crème de lait épaisse allégée 15 à 20% m.g. rayon frais,ultra fresh dairy,fresh cream,101,10,11021,1021319431,1021
+183,183,10,ultra-frais laitier,1,crème fraîche,19433,spécialité à base de crème légère 8% m.g. type crème fluide ou épaisse,ultra fresh dairy,fresh cream,101,10,11021,1021319433,1021
+184,184,10,ultra-frais laitier,1,crème fraîche,81000,crème fraîche allégée ajoutée au service,ultra fresh dairy,fresh cream,101,10,11021,1021381000,1021
+185,185,10,ultra-frais laitier,1,crème fraîche,81001,crème fraîche allégée ajoutée à la cuisson,ultra fresh dairy,fresh cream,101,10,11021,1021381001,1021
+186,186,10,ultra-frais laitier,1,crème fraîche,81002,crème fraîche non allégée ajoutée au service,ultra fresh dairy,fresh cream,101,10,11021,1021381002,1021
+187,187,10,ultra-frais laitier,1,crème fraîche,81003,crème fraîche non allégée ajoutée à la cuisson,ultra fresh dairy,fresh cream,101,10,11021,1021381003,1021
+188,188,10,ultra-frais laitier,2,yaourts et assimilés,19600,yaourt ou spécialité laitière nature,ultra fresh dairy,yoghurt,102,10,11022,1022319600,1022
+189,189,10,ultra-frais laitier,2,yaourts et assimilés,19601,yaourt nature au lait entier,ultra fresh dairy,yoghurt,102,10,11022,1022319601,1022
+190,190,10,ultra-frais laitier,2,yaourts et assimilés,19602,yaourt brassé nature au lait entier type danone velouté nature,ultra fresh dairy,yoghurt,102,10,11022,1022319602,1022
+191,191,10,ultra-frais laitier,2,yaourts et assimilés,19605,yaourt nature au lait demi-écrémé,ultra fresh dairy,yoghurt,102,10,11022,1022319605,1022
+192,192,10,ultra-frais laitier,2,yaourts et assimilés,19606,yaourt nature 0% m.g. type taillefine nature 0% danone yoplait silhouette,ultra fresh dairy,yoghurt,102,10,11022,1022319606,1022
+193,193,10,ultra-frais laitier,2,yaourts et assimilés,19609,yaourt nature au lait demi-écrémé sucré,ultra fresh dairy,yoghurt,102,10,11022,1022319609,1022
+194,194,10,ultra-frais laitier,2,yaourts et assimilés,19611,yaourt aromatisé au lait entier sucré,ultra fresh dairy,yoghurt,102,10,11022,1022319611,1022
+195,195,10,ultra-frais laitier,2,yaourts et assimilés,19615,spécialité laitière type yaourt au bifidus aromatisé au lait entier sucrée type,ultra fresh dairy,yoghurt,102,10,11022,1022319615,1022
+196,196,10,ultra-frais laitier,2,yaourts et assimilés,19617,yaourt nature au lait entier sucré,ultra fresh dairy,yoghurt,102,10,11022,1022319617,1022
+197,197,10,ultra-frais laitier,2,yaourts et assimilés,19619,lait fermenté à boire au lait demi-écrémé nature type actimel,ultra fresh dairy,yoghurt,102,10,11022,1022319619,1022
+198,198,10,ultra-frais laitier,2,yaourts et assimilés,19621,yaourt aux céréales ou au muesli au lait entier,ultra fresh dairy,yoghurt,102,10,11022,1022319621,1022
+199,199,10,ultra-frais laitier,2,yaourts et assimilés,19624,yaourt ou spécialité laitière sans précision,ultra fresh dairy,yoghurt,102,10,11022,1022319624,1022
+200,200,10,ultra-frais laitier,2,yaourts et assimilés,19628,yaourt ou spécialité laitière aux fruits sans précision,ultra fresh dairy,yoghurt,102,10,11022,1022319628,1022
+201,201,10,ultra-frais laitier,2,yaourts et assimilés,19630,spécialité laitière au lait entier enrichie en crème au chocolat type stracciate,ultra fresh dairy,yoghurt,102,10,11022,1022319630,1022
+202,202,10,ultra-frais laitier,2,yaourts et assimilés,19640,yaourt aromatisé au lait demi-écrémé sucré,ultra fresh dairy,yoghurt,102,10,11022,1022319640,1022
+203,203,10,ultra-frais laitier,2,yaourts et assimilés,19670,spécialité laitière type yaourt 0% aromatisée sucrée type weight watcher,ultra fresh dairy,yoghurt,102,10,11022,1022319670,1022
+204,204,10,ultra-frais laitier,2,yaourts et assimilés,19700,yaourt aux fruits au lait entier sucré type danone recette crémeuse aux fruits o,ultra fresh dairy,yoghurt,102,10,11022,1022319700,1022
+205,205,10,ultra-frais laitier,2,yaourts et assimilés,19730,yaourt aux fruits au lait demi-écrémé sucré type panier de yoplait,ultra fresh dairy,yoghurt,102,10,11022,1022319730,1022
+206,206,10,ultra-frais laitier,2,yaourts et assimilés,19740,spécialité laitière type yaourt au lait entier au bifidus et aux fruits sucrée,ultra fresh dairy,yoghurt,102,10,11022,1022319740,1022
+207,207,10,ultra-frais laitier,2,yaourts et assimilés,19760,spécialité laitière type yaourt 0% aux fruits sucrée type sveltesse aux fruits p,ultra fresh dairy,yoghurt,102,10,11022,1022319760,1022
+208,208,10,ultra-frais laitier,2,yaourts et assimilés,19765,spécialité laitière type yaourt 0% aux fruits aux édulcorants type panier de yop,ultra fresh dairy,yoghurt,102,10,11022,1022319765,1022
+209,209,10,ultra-frais laitier,2,yaourts et assimilés,19771,yaourt à boire aromatisé au lait demi-écrémé sucré type yopi,ultra fresh dairy,yoghurt,102,10,11022,1022319771,1022
+210,210,10,ultra-frais laitier,2,yaourts et assimilés,19772,yaourt à boire au lait demi-écrémé aux édulcorants,ultra fresh dairy,yoghurt,102,10,11022,1022319772,1022
+211,211,10,ultra-frais laitier,2,yaourts et assimilés,19773,yaourt à boire aux fruits au lait demi-écrémé sucré type danone velouté ou fruix,ultra fresh dairy,yoghurt,102,10,11022,1022319773,1022
+212,212,10,ultra-frais laitier,2,yaourts et assimilés,19780,lait fermenté à boire au bifidus et aux fruits genre yaourt à boire,ultra fresh dairy,yoghurt,102,10,11022,1022319780,1022
+213,213,10,ultra-frais laitier,2,yaourts et assimilés,19800,lait fermenté au bifidus nature au lait entier type danone activa,ultra fresh dairy,yoghurt,102,10,11022,1022319800,1022
+214,214,10,ultra-frais laitier,2,yaourts et assimilés,19801,lait fermenté à boire maigre nature type lait ribot ou lactéor l'ben,ultra fresh dairy,yoghurt,102,10,11022,1022319801,1022
+215,215,10,ultra-frais laitier,2,yaourts et assimilés,19850,spécialité laitière nature à base de fromage blanc enrichie en crème type fjord,ultra fresh dairy,yoghurt,102,10,11022,1022319850,1022
+216,216,10,ultra-frais laitier,2,yaourts et assimilés,19851,spécialité laitière aux fruits à base de fromage blanc enrichie en crème type ge,ultra fresh dairy,yoghurt,102,10,11022,1022319851,1022
+217,217,10,ultra-frais laitier,2,yaourts et assimilés,19855,spécialité laitière type yaourt 0% aux céréales aux édulcorants type panier mues,ultra fresh dairy,yoghurt,102,10,11022,1022319855,1022
+218,218,10,ultra-frais laitier,2,yaourts et assimilés,19880,yaourt nature au lait de chèvre demi-écrémé,ultra fresh dairy,yoghurt,102,10,11022,1022319880,1022
+219,219,10,ultra-frais laitier,2,yaourts et assimilés,81071,yaourt ajouté au service,ultra fresh dairy,yoghurt,102,10,11022,1022381071,1022
+220,220,10,ultra-frais laitier,2,yaourts et assimilés,90057,yaourt bulgare ou velouté à la pulpe de fruits au lait entier,ultra fresh dairy,yoghurt,102,10,11022,1022390057,1022
+221,221,10,ultra-frais laitier,2,yaourts et assimilés,92036,autre yaourt ou spécialité laitière nature ou aux fruit,ultra fresh dairy,yoghurt,102,10,11022,1022392036,1022
+222,222,10,ultra-frais laitier,3,fromage blanc et petits suisses,19501,fromage blanc sans précision,ultra fresh dairy,fromage blanc,103,10,11023,1023319501,1023
+223,223,10,ultra-frais laitier,3,fromage blanc et petits suisses,19502,fromage blanc sucré aromatisé ou aux fruits sans précision,ultra fresh dairy,fromage blanc,103,10,11023,1023319502,1023
+224,224,10,ultra-frais laitier,3,fromage blanc et petits suisses,19505,fromage blanc battu nature 0% m.g.,ultra fresh dairy,fromage blanc,103,10,11023,1023319505,1023
+225,225,10,ultra-frais laitier,3,fromage blanc et petits suisses,19506,fromage blanc de campagne nature 0% m.g.,ultra fresh dairy,fromage blanc,103,10,11023,1023319506,1023
+226,226,10,ultra-frais laitier,3,fromage blanc et petits suisses,19510,fromage blanc battu 20% m.g. nature,ultra fresh dairy,fromage blanc,103,10,11023,1023319510,1023
+227,227,10,ultra-frais laitier,3,fromage blanc et petits suisses,19515,fromage blanc battu nature 30% m.g.,ultra fresh dairy,fromage blanc,103,10,11023,1023319515,1023
+228,228,10,ultra-frais laitier,3,fromage blanc et petits suisses,19518,fromage blanc battu aux fruits 0% m.g. aux édulcorants type yoplait câlin 0% sur,ultra fresh dairy,fromage blanc,103,10,11023,1023319518,1023
+229,229,10,ultra-frais laitier,3,fromage blanc et petits suisses,19521,fromage blanc de campagne nature 40% m.g. type senoble fromage frais 43% campagn,ultra fresh dairy,fromage blanc,103,10,11023,1023319521,1023
+230,230,10,ultra-frais laitier,3,fromage blanc et petits suisses,19522,fromage blanc battu nature 40% m.g. type danone jockey 40% ou yoplait calin 40%,ultra fresh dairy,fromage blanc,103,10,11023,1023319522,1023
+231,231,10,ultra-frais laitier,3,fromage blanc et petits suisses,19562,petit-suisse nature 20% m.g. type gervais petit vitalité,ultra fresh dairy,fromage blanc,103,10,11023,1023319562,1023
+232,232,10,ultra-frais laitier,3,fromage blanc et petits suisses,19565,petit-suisse nature 40% m.g.,ultra fresh dairy,fromage blanc,103,10,11023,1023319565,1023
+233,233,10,ultra-frais laitier,3,fromage blanc et petits suisses,19566,fromage blanc aux fruits sucré 30-40% m.g.,ultra fresh dairy,fromage blanc,103,10,11023,1023319566,1023
+234,234,10,ultra-frais laitier,3,fromage blanc et petits suisses,19569,petit suisse aux fruits au lait demi-écrémé type petits filous,ultra fresh dairy,fromage blanc,103,10,11023,1023319569,1023
+235,235,10,ultra-frais laitier,3,fromage blanc et petits suisses,19572,"fromage blanc type petit suisse 20% mg/ms, aromatisé vanille ou chocolat",ultra fresh dairy,fromage blanc,103,10,11023,1023319572,1023
+236,236,10,ultra-frais laitier,3,fromage blanc et petits suisses,92039,autre fromage blanc,ultra fresh dairy,fromage blanc,103,10,11023,1023392039,1023
+237,237,11,fromages,1,fromages affinés,12001,camembert fromage à pâte molle à croûte fleurie 45% m.g.,cheese,ripe cheese,111,11,11121,1121312001,1121
+238,238,11,fromages,1,fromages affinés,12002,camembert et apparentés 50% m.g.,cheese,ripe cheese,111,11,11121,1121312002,1121
+239,239,11,fromages,1,fromages affinés,12009,fromage à pâte molle à croûte fleurie genre camembert allégé 20-30% m.g.,cheese,ripe cheese,111,11,11121,1121312009,1121
+240,240,11,fromages,1,fromages affinés,12010,coulommiers fromage à pâte molle à croûte fleurie 40-45% m.g.,cheese,ripe cheese,111,11,11121,1121312010,1121
+241,241,11,fromages,1,fromages affinés,12020,brie fromage à pâte molle à croûte fleurie 45% m.g.,cheese,ripe cheese,111,11,11121,1121312020,1121
+242,242,11,fromages,1,fromages affinés,12025,carré de l'est fromage à pâte molle à croûte fleurie 45-50% m.g.,cheese,ripe cheese,111,11,11121,1121312025,1121
+243,243,11,fromages,1,fromages affinés,12028,chaource fromage à pâte molle à croûte fleurie 50% m.g.,cheese,ripe cheese,111,11,11121,1121312028,1121
+244,244,11,fromages,1,fromages affinés,12031,neufchâtel fromage à pâte molle à croûte fleurie 45% m.g.,cheese,ripe cheese,111,11,11121,1121312031,1121
+245,245,11,fromages,1,fromages affinés,12033,fromage triple crème plus de 75% m.g. type brillat savarin,cheese,ripe cheese,111,11,11121,1121312033,1121
+246,246,11,fromages,1,fromages affinés,12034,autre fromage à pâte molle à croûte lavée,cheese,ripe cheese,111,11,11121,1121312034,1121
+247,247,11,fromages,1,fromages affinés,12036,maroilles fromage à pâte molle à croûte lavée 45% m.g.,cheese,ripe cheese,111,11,11121,1121312036,1121
+248,248,11,fromages,1,fromages affinés,12037,livarot fromage à pâte molle à croûte lavée 40% m.g.,cheese,ripe cheese,111,11,11121,1121312037,1121
+249,249,11,fromages,1,fromages affinés,12039,munster fromage à pâte molle à croûte lavée 45-50% m.g.,cheese,ripe cheese,111,11,11121,1121312039,1121
+250,250,11,fromages,1,fromages affinés,12040,langres fromage à pâte molle à croûte lavée 50% m.g.,cheese,ripe cheese,111,11,11121,1121312040,1121
+251,251,11,fromages,1,fromages affinés,12042,pont l'évêque fromage à pâte molle à croûte lavée 45% m.g.,cheese,ripe cheese,111,11,11121,1121312042,1121
+252,252,11,fromages,1,fromages affinés,12045,reblochon fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312045,1121
+253,253,11,fromages,1,fromages affinés,12048,rouy fromage à pâte molle à croûte lavée 40% m.g.,cheese,ripe cheese,111,11,11121,1121312048,1121
+254,254,11,fromages,1,fromages affinés,12049,saint-marcellin fromage à pâte molle à croûte naturelle 40-50% m.g.,cheese,ripe cheese,111,11,11121,1121312049,1121
+255,255,11,fromages,1,fromages affinés,12051,vacherin mont d'or fromage à pâte molle à croûte lavée au moins 45% m.g,cheese,ripe cheese,111,11,11121,1121312051,1121
+256,256,11,fromages,1,fromages affinés,12100,autre fromage à pâte pressée cuite,cheese,ripe cheese,111,11,11121,1121312100,1121
+257,257,11,fromages,1,fromages affinés,12105,beaufort fromage à pâte pressée cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312105,1121
+258,258,11,fromages,1,fromages affinés,12110,comté fromage à pâte pressée cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312110,1121
+259,259,11,fromages,1,fromages affinés,12114,gruyère fromage à pâte pressée cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312114,1121
+260,260,11,fromages,1,fromages affinés,12115,emmental fromage à pâte pressée cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312115,1121
+261,261,11,fromages,1,fromages affinés,12116,emmental allégé,cheese,ripe cheese,111,11,11121,1121312116,1121
+262,262,11,fromages,1,fromages affinés,12120,parmesan fromage à pâte pressée cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312120,1121
+263,263,11,fromages,1,fromages affinés,12500,roquefort fromage de brebis à pâte persillée 52% m.g.,cheese,ripe cheese,111,11,11121,1121312500,1121
+264,264,11,fromages,1,fromages affinés,12520,bleu au lait de vache fromage à pâte persillée sans précision,cheese,ripe cheese,111,11,11121,1121312520,1121
+265,265,11,fromages,1,fromages affinés,12521,bleu d'auvergne fromage à pâte persillée 50% m.g.,cheese,ripe cheese,111,11,11121,1121312521,1121
+266,266,11,fromages,1,fromages affinés,12522,fourme d'ambert fromage à pâte persillée 50% m.g.,cheese,ripe cheese,111,11,11121,1121312522,1121
+267,267,11,fromages,1,fromages affinés,12523,bleu des causses fromage à pâte persillée 45% m.g.,cheese,ripe cheese,111,11,11121,1121312523,1121
+268,268,11,fromages,1,fromages affinés,12524,gorgonzola fromage à pâte molle persillée 45% m.g.,cheese,ripe cheese,111,11,11121,1121312524,1121
+269,269,11,fromages,1,fromages affinés,12527,bleu et mini bleu de bresse fromage à pâte persillée 45% m.g.,cheese,ripe cheese,111,11,11121,1121312527,1121
+270,270,11,fromages,1,fromages affinés,12705,fromage à pâte pressée non cuite allégé 20-30% m.g.,cheese,ripe cheese,111,11,11121,1121312705,1121
+271,271,11,fromages,1,fromages affinés,12708,fromage à pâte pressée non cuite 40-50% m.g.,cheese,ripe cheese,111,11,11121,1121312708,1121
+272,272,11,fromages,1,fromages affinés,12720,fromage et mini fromage type bonbel-babybel,cheese,ripe cheese,111,11,11121,1121312720,1121
+273,273,11,fromages,1,fromages affinés,12723,cantal salers ou laguiole fromages à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312723,1121
+274,274,11,fromages,1,fromages affinés,12726,cheddar fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312726,1121
+275,275,11,fromages,1,fromages affinés,12729,édam fromage à pâte pressée non cuite 40-45% m.g.,cheese,ripe cheese,111,11,11121,1121312729,1121
+276,276,11,fromages,1,fromages affinés,12736,gouda fromage à pâte pressée non cuite 30-40% m.g.,cheese,ripe cheese,111,11,11121,1121312736,1121
+277,277,11,fromages,1,fromages affinés,12740,mimolette fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312740,1121
+278,278,11,fromages,1,fromages affinés,12743,morbier fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312743,1121
+279,279,11,fromages,1,fromages affinés,12746,fromage des pyrénées au lait de vache,cheese,ripe cheese,111,11,11121,1121312746,1121
+280,280,11,fromages,1,fromages affinés,12747,fromage des pyrénées au lait de brebis,cheese,ripe cheese,111,11,11121,1121312747,1121
+281,281,11,fromages,1,fromages affinés,12749,raclette fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312749,1121
+282,282,11,fromages,1,fromages affinés,12752,saint-nectaire fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312752,1121
+283,283,11,fromages,1,fromages affinés,12754,port salut fromage à pâte pressée non cuite à croûte lavée 50% m.g.,cheese,ripe cheese,111,11,11121,1121312754,1121
+284,284,11,fromages,1,fromages affinés,12755,saint-paulin fromage à pâte pressée non cuite 45-50% m.g.,cheese,ripe cheese,111,11,11121,1121312755,1121
+285,285,11,fromages,1,fromages affinés,12758,tome ou tomme fromage à pâte pressée non cuite 45% m.g.,cheese,ripe cheese,111,11,11121,1121312758,1121
+286,286,11,fromages,1,fromages affinés,12759,tomme de montagne ou tomme de savoie,cheese,ripe cheese,111,11,11121,1121312759,1121
+287,287,11,fromages,1,fromages affinés,12801,fromage de chèvre affiné au lait cru,cheese,ripe cheese,111,11,11121,1121312801,1121
+288,288,11,fromages,1,fromages affinés,12803,fromage de chèvre affiné au lait pasteurisé ou cru,cheese,ripe cheese,111,11,11121,1121312803,1121
+289,289,11,fromages,1,fromages affinés,12820,fromage de chèvre pâte molle,cheese,ripe cheese,111,11,11121,1121312820,1121
+290,290,11,fromages,1,fromages affinés,12999,fromage sans précision,cheese,ripe cheese,111,11,11121,1121312999,1121
+291,291,11,fromages,1,fromages affinés,25545,fromage à cuire pané nature type crousti'cho de président,cheese,ripe cheese,111,11,11121,1121325545,1121
+292,292,11,fromages,1,fromages affinés,25546,fromage à cuire pané au jambon type menu fromage,cheese,ripe cheese,111,11,11121,1121325546,1121
+293,293,11,fromages,1,fromages affinés,81005,gruyère râpé ajouté au service,cheese,ripe cheese,111,11,11121,1121381005,1121
+294,294,11,fromages,1,fromages affinés,90068,camembert sans précision,cheese,ripe cheese,111,11,11121,1121390068,1121
+295,295,11,fromages,1,fromages affinés,90069,caprice des dieux fromage à pâte molle 60% m.g.,cheese,ripe cheese,111,11,11121,1121390069,1121
+296,296,11,fromages,1,fromages affinés,90071,chamois d'or fromage à pâte molle 60% m.g.,cheese,ripe cheese,111,11,11121,1121390071,1121
+297,297,11,fromages,1,fromages affinés,90072,chaumes fromage à pâte molle à croûte lavée 50% m.g.,cheese,ripe cheese,111,11,11121,1121390072,1121
+298,298,11,fromages,1,fromages affinés,90075,époisses fromage à pâte molle à croûte lavée 45% m.g.,cheese,ripe cheese,111,11,11121,1121390075,1121
+299,299,11,fromages,1,fromages affinés,90076,fol épi fromage à pâte pressée cuite à trous 50% m.g.,cheese,ripe cheese,111,11,11121,1121390076,1121
+300,300,11,fromages,1,fromages affinés,90083,hollande fromage à pâte pressée non cuite 30-40% m.g.,cheese,ripe cheese,111,11,11121,1121390083,1121
+301,301,11,fromages,1,fromages affinés,90086,leerdammer fromage à pâte pressée demi-cuite à trous 45% m.g.,cheese,ripe cheese,111,11,11121,1121390086,1121
+302,302,11,fromages,1,fromages affinés,90095,pavé d'affinois fromage à pâte molle 45% m.g.,cheese,ripe cheese,111,11,11121,1121390095,1121
+303,303,11,fromages,1,fromages affinés,90102,saint albray fromage à pâte molle 50% m.g.,cheese,ripe cheese,111,11,11121,1121390102,1121
+304,304,11,fromages,1,fromages affinés,90112,vieux pané fromage à pâte molle 50% m.g.,cheese,ripe cheese,111,11,11121,1121390112,1121
+305,305,11,fromages,1,fromages affinés,92018,saint-félicien fromage à pâte molle 60% m.g.,cheese,ripe cheese,111,11,11121,1121392018,1121
+306,306,11,fromages,1,fromages affinés,92019,boursault fromage à pâte molle double crème,cheese,ripe cheese,111,11,11121,1121392019,1121
+307,307,11,fromages,1,fromages affinés,92020,maasdam fromage à pâte pressée non cuite à trous 45% m.g.,cheese,ripe cheese,111,11,11121,1121392020,1121
+308,308,11,fromages,1,fromages affinés,92021,pouligny saint-pierre fromage de chèvre,cheese,ripe cheese,111,11,11121,1121392021,1121
+309,309,11,fromages,1,fromages affinés,92022,selles-sur-cher fromage de chèvre,cheese,ripe cheese,111,11,11121,1121392022,1121
+310,310,11,fromages,1,fromages affinés,92023,chabichou fromage de chèvre,cheese,ripe cheese,111,11,11121,1121392023,1121
+311,311,11,fromages,1,fromages affinés,92024,fromage de chèvre mi-sec,cheese,ripe cheese,111,11,11121,1121392024,1121
+312,312,11,fromages,1,fromages affinés,92025,fromage de chèvre sec,cheese,ripe cheese,111,11,11121,1121392025,1121
+313,313,11,fromages,1,fromages affinés,92026,crottin fromage de chèvre,cheese,ripe cheese,111,11,11121,1121392026,1121
+314,314,11,fromages,1,fromages affinés,92027,picodon fromage de chèvre,cheese,ripe cheese,111,11,11121,1121392027,1121
+315,315,11,fromages,1,fromages affinés,92028,sainte-maure fromage de chèvre,cheese,ripe cheese,111,11,11121,1121392028,1121
+316,316,11,fromages,2,fromages fondus,12305,fromage fondu 25% m.g. type sylphide ou vache qui rit équilibre et ligne,cheese,processed cheese,112,11,11122,1122312305,1122
+317,317,11,fromages,2,fromages fondus,12310,fromage fondu en portions ou en cubes 45-50% m.g.,cheese,processed cheese,112,11,11122,1122312310,1122
+318,318,11,fromages,2,fromages fondus,12315,fromage fondu 60-65% m.g. type six de savoie,cheese,processed cheese,112,11,11122,1122312315,1122
+319,319,11,fromages,2,fromages fondus,12325,cancoillotte spécialité fromagère fondue 40% m.g.,cheese,processed cheese,112,11,11122,1122312325,1122
+320,320,11,fromages,2,fromages fondus,12355,fromage fondu aux noix type rambol,cheese,processed cheese,112,11,11122,1122312355,1122
+321,321,11,fromages,2,fromages fondus,12356,snack pour enfants à base de fromage fondu et gressins type pik et croq ou kiri,cheese,processed cheese,112,11,11122,1122312356,1122
+322,322,11,fromages,2,fromages fondus,12819,fromage de chèvre fondu à tartiner nature type cabrette ou chavroux,cheese,processed cheese,112,11,11122,1122312819,1122
+323,323,11,fromages,2,fromages fondus,90061,apéricube fromage fondu 50% m.g.,cheese,processed cheese,112,11,11122,1122390061,1122
+324,324,11,fromages,2,fromages fondus,90084,kiri crème fromage fondu double crème 70% m.g.,cheese,processed cheese,112,11,11122,1122390084,1122
+325,325,11,fromages,2,fromages fondus,90098,p'tit louis fromage fondu 65% m.g.,cheese,processed cheese,112,11,11122,1122390098,1122
+326,326,11,fromages,2,fromages fondus,90103,saint-moret fromage fondu demi-sel 30% m.g.,cheese,processed cheese,112,11,11122,1122390103,1122
+327,327,11,fromages,2,fromages fondus,90104,saint-moret allégé fromage fondu demi-sel 20% m.g.,cheese,processed cheese,112,11,11122,1122390104,1122
+328,328,11,fromages,2,fromages fondus,90106,samos 99 fromage fondu double crème 70% m.g.,cheese,processed cheese,112,11,11122,1122390106,1122
+329,329,11,fromages,2,fromages fondus,90110,vache qui rit fromage fondu 50% m.g.,cheese,processed cheese,112,11,11122,1122390110,1122
+330,330,11,fromages,3,fromages frais non affinés,12061,féta de brebis,cheese,fresh cheese,113,11,11123,1123312061,1123
+331,331,11,fromages,3,fromages frais non affinés,12320,spécialité fromagère non affinée double crème 70% m.g.,cheese,fresh cheese,113,11,11123,1123312320,1123
+332,332,11,fromages,3,fromages frais non affinés,12805,fromage de chèvre frais,cheese,fresh cheese,113,11,11123,1123312805,1123
+333,333,11,fromages,3,fromages frais non affinés,19524,fromage frais à tartiner 40-60% m.g,cheese,fresh cheese,113,11,11123,1123319524,1123
+334,334,11,fromages,3,fromages frais non affinés,19525,fromage frais à tartiner nature à plus de 60% m.g.,cheese,fresh cheese,113,11,11123,1123319525,1123
+335,335,11,fromages,3,fromages frais non affinés,19530,fromage frais à tartiner à plus de 60% m.g.,cheese,fresh cheese,113,11,11123,1123319530,1123
+336,336,11,fromages,3,fromages frais non affinés,19585,ricotta,cheese,fresh cheese,113,11,11123,1123319585,1123
+337,337,11,fromages,3,fromages frais non affinés,19590,mozzarella,cheese,fresh cheese,113,11,11123,1123319590,1123
+338,338,11,fromages,3,fromages frais non affinés,90067,boursin fromage frais salé aromatisé 70% m.g.,cheese,fresh cheese,113,11,11123,1123390067,1123
+339,339,11,fromages,3,fromages frais non affinés,90070,carré frais fromage à tartiner 40% m.g.,cheese,fresh cheese,113,11,11123,1123390070,1123
+340,340,11,fromages,3,fromages frais non affinés,90109,tartare fromage frais aromatisé salé 70% m.g.,cheese,fresh cheese,113,11,11123,1123390109,1123
+341,341,11,fromages,4,autres fromages ou fromage sans précision,92037,autre fromage,cheese,other cheese,114,11,11124,1124392037,1124
+342,342,12,oeufs et dérivés,99,sans,22000,oeuf entier cru,egg ,egg,1299,12,112299,12299322000,12299
+343,343,12,oeufs et dérivés,99,sans,22008,blanc d'œuf dur,egg ,egg,1299,12,112299,12299322008,12299
+344,344,12,oeufs et dérivés,99,sans,22009,jaune d'œuf cuit,egg ,egg,1299,12,112299,12299322009,12299
+345,345,12,oeufs et dérivés,99,sans,22010,oeuf dur,egg ,egg,1299,12,112299,12299322010,12299
+346,346,12,oeufs et dérivés,99,sans,22011,oeuf poché,egg ,egg,1299,12,112299,12299322011,12299
+347,347,12,oeufs et dérivés,99,sans,22014,oeuf à la coque,egg ,egg,1299,12,112299,12299322014,12299
+348,348,12,oeufs et dérivés,99,sans,22500,omelette nature cuite au beurre,egg ,egg,1299,12,112299,12299322500,12299
+349,349,12,oeufs et dérivés,99,sans,22501,oeuf au plat salé,egg ,egg,1299,12,112299,12299322501,12299
+350,350,12,oeufs et dérivés,99,sans,22502,oeufs brouillés au beurre,egg ,egg,1299,12,112299,12299322502,12299
+351,351,12,oeufs et dérivés,99,sans,22506,omelette au fromage,egg ,egg,1299,12,112299,12299322506,12299
+352,352,12,oeufs et dérivés,99,sans,22507,omelette aux lardons,egg ,egg,1299,12,112299,12299322507,12299
+353,353,12,oeufs et dérivés,99,sans,22508,omelette aux champignons,egg ,egg,1299,12,112299,12299322508,12299
+354,354,12,oeufs et dérivés,99,sans,22509,omelette aux fines herbes,egg ,egg,1299,12,112299,12299322509,12299
+355,355,13,beurre,99,sans,16400,beurre doux,butter,butter,1399,13,113299,13299316400,13299
+356,356,13,beurre,99,sans,16402,beurre demi-sel sel maxi 3%,butter,butter,1399,13,113299,13299316402,13299
+357,357,13,beurre,99,sans,16403,beurre salé sel > 3%,butter,butter,1399,13,113299,13299316403,13299
+358,358,13,beurre,99,sans,16410,beurre allégé 60-62 % m.g.,butter,butter,1399,13,113299,13299316410,13299
+359,359,13,beurre,99,sans,16411,beurre allégé 60-62 % m.g. demi-sel,butter,butter,1399,13,113299,13299316411,13299
+360,360,13,beurre,99,sans,16412,beurre allégé sans précision,butter,butter,1399,13,113299,13299316412,13299
+361,361,13,beurre,99,sans,16415,beurre doux léger 39-41% m.g.,butter,butter,1399,13,113299,13299316415,13299
+362,362,13,beurre,99,sans,16416,beurre léger 39-41% m.g. demi-sel,butter,butter,1399,13,113299,13299316416,13299
+363,363,13,beurre,99,sans,16712,matière grasse laitière légère 25% m.g. à tartiner type bridelight,butter,butter,1399,13,113299,13299316712,13299
+364,364,13,beurre,99,sans,81006,beurre allégé ajouté au service,butter,butter,1399,13,113299,13299381006,13299
+365,365,13,beurre,99,sans,81007,beurre allégé ajouté à la cuisson,butter,butter,1399,13,113299,13299381007,13299
+366,366,13,beurre,99,sans,81008,beurre doux non allégé ajouté à la cuisson,butter,butter,1399,13,113299,13299381008,13299
+367,367,13,beurre,99,sans,81009,beurre doux non allégé ajoutée au service,butter,butter,1399,13,113299,13299381009,13299
+368,368,13,beurre,99,sans,81010,beurre salé non allégé ajoutée au service,butter,butter,1399,13,113299,13299381010,13299
+369,369,13,beurre,99,sans,81011,beurre salé non allégé ajouté à la cuisson,butter,butter,1399,13,113299,13299381011,13299
+370,370,14,huile,99,sans,17001,huile végétale sans précision,oil,oil,1499,14,114299,14299317001,14299
+371,371,14,huile,99,sans,17040,huile d'arachide,oil,oil,1499,14,114299,14299317040,14299
+372,372,14,huile,99,sans,17130,huile de colza,oil,oil,1499,14,114299,14299317130,14299
+373,373,14,huile,99,sans,17190,huile de maïs,oil,oil,1499,14,114299,14299317190,14299
+374,374,14,huile,99,sans,17220,huile de noix,oil,oil,1499,14,114299,14299317220,14299
+375,375,14,huile,99,sans,17270,huile d'olive vierge,oil,oil,1499,14,114299,14299317270,14299
+376,376,14,huile,99,sans,17350,huile de pépins de raisin,oil,oil,1499,14,114299,14299317350,14299
+377,377,14,huile,99,sans,17420,huile de soja,oil,oil,1499,14,114299,14299317420,14299
+378,378,14,huile,99,sans,17440,huile de tournesol,oil,oil,1499,14,114299,14299317440,14299
+379,379,14,huile,99,sans,17700,huile mélangée équilibrée type isio 4,oil,oil,1499,14,114299,14299317700,14299
+380,380,14,huile,99,sans,81012,huile d'arachide ajoutée à la cuisson,oil,oil,1499,14,114299,14299381012,14299
+381,381,14,huile,99,sans,81013,huile d'arachide ajoutée au service,oil,oil,1499,14,114299,14299381013,14299
+382,382,14,huile,99,sans,81014,huile de colza ajoutée au service,oil,oil,1499,14,114299,14299381014,14299
+383,383,14,huile,99,sans,81015,huile de colza ajoutée à la cuisson,oil,oil,1499,14,114299,14299381015,14299
+384,384,14,huile,99,sans,81016,huile de maïs ajoutée à la cuisson,oil,oil,1499,14,114299,14299381016,14299
+385,385,14,huile,99,sans,81017,huile de maïs ajoutée au service,oil,oil,1499,14,114299,14299381017,14299
+386,386,14,huile,99,sans,81018,huile de palme ajoutée à la cuisson,oil,oil,1499,14,114299,14299381018,14299
+387,387,14,huile,99,sans,81020,huile de pépin de raisins ajoutée à la cuisson,oil,oil,1499,14,114299,14299381020,14299
+388,388,14,huile,99,sans,81021,huile de pépin de raisins ajoutée au service,oil,oil,1499,14,114299,14299381021,14299
+389,389,14,huile,99,sans,81022,huile de tournesol ajoutée à la cuisson,oil,oil,1499,14,114299,14299381022,14299
+390,390,14,huile,99,sans,81023,huile de tournesol ajoutée au service,oil,oil,1499,14,114299,14299381023,14299
+391,391,14,huile,99,sans,81024,huile d'olive ajoutée à la cuisson,oil,oil,1499,14,114299,14299381024,14299
+392,392,14,huile,99,sans,81025,huile d'olive ajoutée au service,oil,oil,1499,14,114299,14299381025,14299
+393,393,14,huile,99,sans,81028,huile mélangée (type isio 4) ajoutée au service,oil,oil,1499,14,114299,14299381028,14299
+394,394,14,huile,99,sans,81029,huile mélangée (type isio 4) ajoutée à la cuisson,oil,oil,1499,14,114299,14299381029,14299
+395,395,14,huile,99,sans,81075,huile de noix ajoutée au service,oil,oil,1499,14,114299,14299381075,14299
+396,396,14,huile,99,sans,81081,huile de carthame ajoutée au service,oil,oil,1499,14,114299,14299381081,14299
+397,397,14,huile,99,sans,81086,huile de soja ajoutée au service,oil,oil,1499,14,114299,14299381086,14299
+398,398,14,huile,99,sans,81087,huile primevère oméga 3 ajoutée à la cuisson,oil,oil,1499,14,114299,14299381087,14299
+399,399,14,huile,99,sans,81088,huile primevère oméga 3 ajoutée au service,oil,oil,1499,14,114299,14299381088,14299
+400,400,14,huile,99,sans,92038,autre huile végétale,oil,oil,1499,14,114299,14299392038,14299
+401,401,15,margarine,99,sans,16615,margarine de cuisine 80% m.g.,margarine,margarine,1599,15,115299,15299316615,15299
+402,402,15,margarine,99,sans,16616,matière grasse 70% m.g. en pain type astra,margarine,margarine,1599,15,115299,15299316616,15299
+403,403,15,margarine,99,sans,16632,matière grasse allégée 60% m.g.,margarine,margarine,1599,15,115299,15299316632,15299
+404,404,15,margarine,99,sans,16655,margarine au tournesol en barquette 80% m.g. type fruit d'or,margarine,margarine,1599,15,115299,15299316655,15299
+405,405,15,margarine,99,sans,16701,matière grasse composée allégée 60% m.g. type le fleurier ou tartine et cuisine,margarine,margarine,1599,15,115299,15299316701,15299
+406,406,15,margarine,99,sans,16727,matière grasse allégée 55-60% m.g. riche en oméga 3 et 6,margarine,margarine,1599,15,115299,15299316727,15299
+407,407,15,margarine,99,sans,16728,matière grasse légère 35% m.g. enrichie en stérols/stanols type proactive tartin,margarine,margarine,1599,15,115299,15299316728,15299
+408,408,15,margarine,99,sans,16729,matière grasse légère 38-41% m.g. demi-sel tartiner,margarine,margarine,1599,15,115299,15299316729,15299
+409,409,15,margarine,99,sans,16730,matière grasse légère 38-41% m.g. à tartiner,margarine,margarine,1599,15,115299,15299316730,15299
+410,410,15,margarine,99,sans,81030,margarine à l'huile d'olive 60% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381030,15299
+411,411,15,margarine,99,sans,81031,margarine à l'huile d'olive  60% m.g. ajoutéee à la cuisson,margarine,margarine,1599,15,115299,15299381031,15299
+412,412,15,margarine,99,sans,81032,margarine allégée demi-sel 40% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381032,15299
+413,413,15,margarine,99,sans,81033,margarine allégée demi-sel  40% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381033,15299
+414,414,15,margarine,99,sans,81034,margarine allégée 40% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381034,15299
+415,415,15,margarine,99,sans,81035,margarine allégée  40% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381035,15299
+416,416,15,margarine,99,sans,81036,margarine au tournesol 60% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381036,15299
+417,417,15,margarine,99,sans,81037,margarine au tournesol  60% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381037,15299
+418,418,15,margarine,99,sans,81038,margarine au tournesol  70% ou 80% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381038,15299
+419,419,15,margarine,99,sans,81039,margarine au tournesol 70% ou 80% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381039,15299
+420,420,15,margarine,99,sans,81040,margarine ordinaire  60% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381040,15299
+421,421,15,margarine,99,sans,81041,margarine ordinaire 60% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381041,15299
+422,422,15,margarine,99,sans,81042,margarine ordinaire  70% ou 80% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381042,15299
+423,423,15,margarine,99,sans,81043,margarine ordinaire 70% ou 80% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381043,15299
+424,424,15,margarine,99,sans,81044,margarine proactiv de fruit d'or ajoutée au service,margarine,margarine,1599,15,115299,15299381044,15299
+425,425,15,margarine,99,sans,81045,margarine proactiv de fruit d'or ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381045,15299
+426,426,15,margarine,99,sans,81046,margarine type primevère 60% m.g. ajoutée au service,margarine,margarine,1599,15,115299,15299381046,15299
+427,427,15,margarine,99,sans,81047,margarine type primevère 60% m.g. ajoutée à la cuisson,margarine,margarine,1599,15,115299,15299381047,15299
+428,428,16,autres graisses,99,sans,15202,pâte d'arachide ou beurre de cacahuète,other fat,other fat,1699,16,116299,16299315202,16299
+429,429,16,autres graisses,99,sans,16080,corps gras pour friture 100% m.g. type végétaline,other fat,other fat,1699,16,116299,16299316080,16299
+430,430,16,autres graisses,99,sans,16520,saindoux,other fat,other fat,1699,16,116299,16299316520,16299
+431,431,16,autres graisses,99,sans,16550,graisse de canard,other fat,other fat,1699,16,116299,16299316550,16299
+432,432,16,autres graisses,99,sans,16560,graisse d'oie,other fat,other fat,1699,16,116299,16299316560,16299
+433,433,16,autres graisses,99,sans,81051,gras de bœuf  saindoux ou autre graisse animale ajoutés à la cuisson,other fat,other fat,1699,16,116299,16299381051,16299
+434,434,17,viande,1,agneau,21501,agneau côtelette grillée,meat,lamb,171,17,11721,1721321501,1721
+435,435,17,viande,1,agneau,21503,agneau gigot rôti,meat,lamb,171,17,11721,1721321503,1721
+436,436,17,viande,1,agneau,21506,agneau épaule rôtie,meat,lamb,171,17,11721,1721321506,1721
+437,437,17,viande,1,agneau,25541,brochette d'agneau,meat,lamb,171,17,11721,1721325541,1721
+438,438,17,viande,2,bœuf en pièces ou haché,6100,bœuf entrecôte grillée,meat,beef,172,17,11722,172236100,1722
+439,439,17,viande,2,bœuf en pièces ou haché,6101,bœuf braisé,meat,beef,172,17,11722,172236101,1722
+440,440,17,viande,2,bœuf en pièces ou haché,6110,bœuf faux-filet grillé,meat,beef,172,17,11722,172236110,1722
+441,441,17,viande,2,bœuf en pièces ou haché,6200,boeuf bifteck grillé,meat,beef,172,17,11722,172236200,1722
+442,442,17,viande,2,bœuf en pièces ou haché,6210,bœuf rosbif rôti,meat,beef,172,17,11722,172236210,1722
+443,443,17,viande,2,bœuf en pièces ou haché,6220,bœuf à bourguignon cuit,meat,beef,172,17,11722,172236220,1722
+444,444,17,viande,2,bœuf en pièces ou haché,6230,bœuf à pot-au-feu cuit,meat,beef,172,17,11722,172236230,1722
+445,445,17,viande,2,bœuf en pièces ou haché,6250,steak haché 5% m.g. cru,meat,beef,172,17,11722,172236250,1722
+446,446,17,viande,2,bœuf en pièces ou haché,6251,steak haché 5% m.g. cuit,meat,beef,172,17,11722,172236251,1722
+447,447,17,viande,2,bœuf en pièces ou haché,6253,steak haché 10% m.g. cuit,meat,beef,172,17,11722,172236253,1722
+448,448,17,viande,2,bœuf en pièces ou haché,6255,steak haché 15% m.g. cuit,meat,beef,172,17,11722,172236255,1722
+449,449,17,viande,2,bœuf en pièces ou haché,6257,steak haché 20% m.g. cuit,meat,beef,172,17,11722,172236257,1722
+450,450,17,viande,2,bœuf en pièces ou haché,25163,bœuf boulettes cuites,meat,beef,172,17,11722,1722325163,1722
+451,451,17,viande,2,bœuf en pièces ou haché,25505,brochette de bœuf,meat,beef,172,17,11722,1722325505,1722
+452,452,17,viande,2,bœuf en pièces ou haché,25538,carpaccio de boeuf,meat,beef,172,17,11722,1722325538,1722
+453,453,17,viande,2,bœuf en pièces ou haché,90205,fondue bourguignonne,meat,beef,172,17,11722,1722390205,1722
+454,454,17,viande,3,porc,28101,porc côtelette grillée,meat,pork,173,17,11723,1723328101,1723
+455,455,17,viande,3,porc,28202,porc filet rôti maigre cuit,meat,pork,173,17,11723,1723328202,1723
+456,456,17,viande,3,porc,28301,porc rôti cuit,meat,pork,173,17,11723,1723328301,1723
+457,457,17,viande,3,porc,28401,porc travers braisé,meat,pork,173,17,11723,1723328401,1723
+458,458,17,viande,3,porc,28451,porc échine rôtie,meat,pork,173,17,11723,1723328451,1723
+459,459,17,viande,4,veau,6511,veau côte cuite,meat,veal,174,17,11724,172436511,1724
+460,460,17,viande,4,veau,6520,veau escalope cuite,meat,veal,174,17,11724,172436520,1724
+461,461,17,viande,4,veau,6531,veau filet rôti,meat,veal,174,17,11724,172436531,1724
+462,462,17,viande,4,veau,6550,veau rôti,meat,veal,174,17,11724,172436550,1724
+463,463,17,viande,4,veau,6570,veau mijoté,meat,veal,174,17,11724,172436570,1724
+464,464,17,viande,4,veau,25173,veau escalope panée,meat,veal,174,17,11724,1724325173,1724
+465,465,17,viande,5,autre viande,6902,cheval viande rôtie,meat,other meat,175,17,11725,172536902,1725
+466,466,17,viande,5,autre viande,6999,viande cuite sans précision,meat,other meat,175,17,11725,172536999,1725
+467,467,17,viande,5,autre viande,25506,brochette mixte de viande,meat,other meat,175,17,11725,1725325506,1725
+468,468,17,viande,5,autre viande,92040,autre viande,meat,other meat,175,17,11725,1725392040,1725
+469,469,18,volaille et gibier,1,volailles et lapins,8110,confit de canard,poultry and game,poultry rabbit,181,18,11821,182138110,1821
+470,470,18,volaille et gibier,1,volailles et lapins,25504,brochette de volaille,poultry and game,poultry rabbit,181,18,11821,1821325504,1821
+471,471,18,volaille et gibier,1,volailles et lapins,34000,lapin en ragoût,poultry and game,poultry rabbit,181,18,11821,1821334000,1821
+472,472,18,volaille et gibier,1,volailles et lapins,34002,lapin viande cuite,poultry and game,poultry rabbit,181,18,11821,1821334002,1821
+473,473,18,volaille et gibier,1,volailles et lapins,36004,poulet cuisse rôtie viande et peau,poultry and game,poultry rabbit,181,18,11821,1821336004,1821
+474,474,18,volaille et gibier,1,volailles et lapins,36005,poulet rôti viande et peau,poultry and game,poultry rabbit,181,18,11821,1821336005,1821
+475,475,18,volaille et gibier,1,volailles et lapins,36010,poule bouillie viande et peau,poultry and game,poultry rabbit,181,18,11821,1821336010,1821
+476,476,18,volaille et gibier,1,volailles et lapins,36011,poule viande bouillie,poultry and game,poultry rabbit,181,18,11821,1821336011,1821
+477,477,18,volaille et gibier,1,volailles et lapins,36018,blanc de poulet cuit,poultry and game,poultry rabbit,181,18,11821,1821336018,1821
+478,478,18,volaille et gibier,1,volailles et lapins,36102,caille cuite viande et peau,poultry and game,poultry rabbit,181,18,11821,1821336102,1821
+479,479,18,volaille et gibier,1,volailles et lapins,36202,canard viande rôtie,poultry and game,poultry rabbit,181,18,11821,1821336202,1821
+480,480,18,volaille et gibier,1,volailles et lapins,36205,canard magret cuit à la poêle,poultry and game,poultry rabbit,181,18,11821,1821336205,1821
+481,481,18,volaille et gibier,1,volailles et lapins,36302,dinde viande rôtie,poultry and game,poultry rabbit,181,18,11821,1821336302,1821
+482,482,18,volaille et gibier,1,volailles et lapins,36306,dinde ou autre volaille escalope sautée,poultry and game,poultry rabbit,181,18,11821,1821336306,1821
+483,483,18,volaille et gibier,1,volailles et lapins,36502,oie viande rôtie,poultry and game,poultry rabbit,181,18,11821,1821336502,1821
+484,484,18,volaille et gibier,1,volailles et lapins,36602,pigeon viande rôtie,poultry and game,poultry rabbit,181,18,11821,1821336602,1821
+485,485,18,volaille et gibier,1,volailles et lapins,36900,volaille cuite sans précision,poultry and game,poultry rabbit,181,18,11821,1821336900,1821
+486,486,18,volaille et gibier,1,volailles et lapins,92509,autre volaille cuite,poultry and game,poultry rabbit,181,18,11821,1821392509,1821
+487,487,18,volaille et gibier,2,gibier,14000,chevreuil rôti,poultry and game,game,182,18,11822,1822314000,1822
+488,488,18,volaille et gibier,2,gibier,14001,lièvre en ragoût,poultry and game,game,182,18,11822,1822314001,1822
+489,489,18,volaille et gibier,2,gibier,14003,sanglier rôti,poultry and game,game,182,18,11822,1822314003,1822
+490,490,18,volaille et gibier,2,gibier,36402,faisan viande rôtie,poultry and game,game,182,18,11822,1822336402,1822
+491,491,18,volaille et gibier,2,gibier,92047,autre gibier,poultry and game,game,182,18,11822,1822392047,1822
+492,492,19,abats,99,sans,40003,cervelle d'agneau cuite,offal,offal,1999,19,119299,19299340003,19299
+493,493,19,abats,99,sans,40004,cervelle de porc braisée,offal,offal,1999,19,119299,19299340004,19299
+494,494,19,abats,99,sans,40053,cœur de bœuf cuit,offal,offal,1999,19,119299,19299340053,19299
+495,495,19,abats,99,sans,40103,foie d'agneau cuit,offal,offal,1999,19,119299,19299340103,19299
+496,496,19,abats,99,sans,40105,foie de génisse cuit,offal,offal,1999,19,119299,19299340105,19299
+497,497,19,abats,99,sans,40107,foie de veau cuit,offal,offal,1999,19,119299,19299340107,19299
+498,498,19,abats,99,sans,40109,foie de volaille cuit,offal,offal,1999,19,119299,19299340109,19299
+499,499,19,abats,99,sans,40116,foie poulet cuit,offal,offal,1999,19,119299,19299340116,19299
+500,500,19,abats,99,sans,40201,langue de veau cuite,offal,offal,1999,19,119299,19299340201,19299
+501,501,19,abats,99,sans,40203,langue de bœuf cuite,offal,offal,1999,19,119299,19299340203,19299
+502,502,19,abats,99,sans,40305,ris de veau braisé ou poêlé,offal,offal,1999,19,119299,19299340305,19299
+503,503,19,abats,99,sans,40401,rognon cuit sans précision,offal,offal,1999,19,119299,19299340401,19299
+504,504,19,abats,99,sans,40403,rognon de bœuf cuit,offal,offal,1999,19,119299,19299340403,19299
+505,505,19,abats,99,sans,40405,rognon de porc cuit,offal,offal,1999,19,119299,19299340405,19299
+506,506,19,abats,99,sans,40406,rognon d'agneau braisé,offal,offal,1999,19,119299,19299340406,19299
+507,507,19,abats,99,sans,40701,canard gésier confit égoutté et réchauffé,offal,offal,1999,19,119299,19299340701,19299
+508,508,19,abats,99,sans,92003,autre abat,offal,offal,1999,19,119299,19299392003,19299
+509,509,20,charcuterie,1,jambons et charcuteries en pièces,28501,lardon nature cru,charcuterie,ham,201,20,12021,2021328501,2021
+510,510,20,charcuterie,1,jambons et charcuteries en pièces,28504,lardon nature cuit,charcuterie,ham,201,20,12021,2021328504,2021
+511,511,20,charcuterie,1,jambons et charcuteries en pièces,28720,poitrine de porc fumée,charcuterie,ham,201,20,12021,2021328720,2021
+512,512,20,charcuterie,1,jambons et charcuteries en pièces,28725,lardon ou bacon fumé cuit,charcuterie,ham,201,20,12021,2021328725,2021
+513,513,20,charcuterie,1,jambons et charcuteries en pièces,28727,bacon filet cuit,charcuterie,ham,201,20,12021,2021328727,2021
+514,514,20,charcuterie,1,jambons et charcuteries en pièces,28800,jambon cru,charcuterie,ham,201,20,12021,2021328800,2021
+515,515,20,charcuterie,1,jambons et charcuteries en pièces,28801,jambon cru fumé,charcuterie,ham,201,20,12021,2021328801,2021
+516,516,20,charcuterie,1,jambons et charcuteries en pièces,28802,jambon sec dd (découenné dégraissé),charcuterie,ham,201,20,12021,2021328802,2021
+517,517,20,charcuterie,1,jambons et charcuteries en pièces,28803,jambon cuit fumé,charcuterie,ham,201,20,12021,2021328803,2021
+518,518,20,charcuterie,1,jambons et charcuteries en pièces,28850,coppa,charcuterie,ham,201,20,12021,2021328850,2021
+519,519,20,charcuterie,1,jambons et charcuteries en pièces,28858,pancetta ou poitrine roulée sèche,charcuterie,ham,201,20,12021,2021328858,2021
+520,520,20,charcuterie,1,jambons et charcuteries en pièces,28900,jambon cuit supérieur,charcuterie,ham,201,20,12021,2021328900,2021
+521,521,20,charcuterie,1,jambons et charcuteries en pièces,28906,jambon cuit supérieur dd (découenné dégraissé),charcuterie,ham,201,20,12021,2021328906,2021
+522,522,20,charcuterie,1,jambons et charcuteries en pièces,28916,jambon cuit,charcuterie,ham,201,20,12021,2021328916,2021
+523,523,20,charcuterie,1,jambons et charcuteries en pièces,28925,jambon cuit dd (découenné dégraissé),charcuterie,ham,201,20,12021,2021328925,2021
+524,524,20,charcuterie,1,jambons et charcuteries en pièces,28960,jambonneau cuit,charcuterie,ham,201,20,12021,2021328960,2021
+525,525,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",8504,andouille réchauffée,charcuterie,sausage saucisson,202,20,12022,202238504,2022
+526,526,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",8551,andouillette réchauffée,charcuterie,sausage saucisson,202,20,12022,202238551,2022
+527,527,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",8704,boudin noir cuit,charcuterie,sausage saucisson,202,20,12022,202238704,2022
+528,528,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",8800,boudin blanc cuit,charcuterie,sausage saucisson,202,20,12022,202238800,2022
+529,529,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30005,chipolata cuite,charcuterie,sausage saucisson,202,20,12022,2022330005,2022
+530,530,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30011,saucisse de toulouse cuite,charcuterie,sausage saucisson,202,20,12022,2022330011,2022
+531,531,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30105,saucisse de montbéliard,charcuterie,sausage saucisson,202,20,12022,2022330105,2022
+532,532,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30108,saucisse de morteau cuite,charcuterie,sausage saucisson,202,20,12022,2022330108,2022
+533,533,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30125,saucisse alsacienne fumée ou gendarme,charcuterie,sausage saucisson,202,20,12022,2022330125,2022
+534,534,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30134,saucisse de francfort,charcuterie,sausage saucisson,202,20,12022,2022330134,2022
+535,535,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30155,merguez de bœuf et de mouton cuite,charcuterie,sausage saucisson,202,20,12022,2022330155,2022
+536,536,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30300,saucisson sec,charcuterie,sausage saucisson,202,20,12022,2022330300,2022
+537,537,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30301,saucisson sec pur porc,charcuterie,sausage saucisson,202,20,12022,2022330301,2022
+538,538,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30304,rosette ou fuseau,charcuterie,sausage saucisson,202,20,12022,2022330304,2022
+539,539,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30315,chorizo sec,charcuterie,sausage saucisson,202,20,12022,2022330315,2022
+540,540,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30350,salami,charcuterie,sausage saucisson,202,20,12022,2022330350,2022
+541,541,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30700,saucisson à l'ail,charcuterie,sausage saucisson,202,20,12022,2022330700,2022
+542,542,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30730,cervelas,charcuterie,sausage saucisson,202,20,12022,2022330730,2022
+543,543,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30742,saucisse de strasbourg,charcuterie,sausage saucisson,202,20,12022,2022330742,2022
+544,544,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30746,saucisse cocktail,charcuterie,sausage saucisson,202,20,12022,2022330746,2022
+545,545,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30780,saucisse sans précision,charcuterie,sausage saucisson,202,20,12022,2022330780,2022
+546,546,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",30789,mortadelle,charcuterie,sausage saucisson,202,20,12022,2022330789,2022
+547,547,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",90119,saucisse sèche,charcuterie,sausage saucisson,202,20,12022,2022390119,2022
+548,548,20,charcuterie,2,"saucisses, saucissons, andouilles et boudins",91038,chair à saucisse,charcuterie,sausage saucisson,202,20,12022,2022391038,2022
+549,549,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8001,rillettes pur porc,charcuterie,pate terrine rillette foie gras,203,20,12023,202338001,2023
+550,550,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8055,rillettes,charcuterie,pate terrine rillette foie gras,203,20,12023,202338055,2023
+551,551,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8211,pâté de campagne,charcuterie,pate terrine rillette foie gras,203,20,12023,202338211,2023
+552,552,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8232,terrine de canard,charcuterie,pate terrine rillette foie gras,203,20,12023,202338232,2023
+553,553,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8240,pâté de lapin,charcuterie,pate terrine rillette foie gras,203,20,12023,202338240,2023
+554,554,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8305,pâté de foie de porc,charcuterie,pate terrine rillette foie gras,203,20,12023,202338305,2023
+555,555,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8313,mousse de foie,charcuterie,pate terrine rillette foie gras,203,20,12023,202338313,2023
+556,556,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8316,pâté de foie de volaille,charcuterie,pate terrine rillette foie gras,203,20,12023,202338316,2023
+557,557,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8320,foie gras en conserve,charcuterie,pate terrine rillette foie gras,203,20,12023,202338320,2023
+558,558,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8322,foie gras de canard entier en conserve,charcuterie,pate terrine rillette foie gras,203,20,12023,202338322,2023
+559,559,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8350,galantine,charcuterie,pate terrine rillette foie gras,203,20,12023,202338350,2023
+560,560,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8391,pâté en croûte,charcuterie,pate terrine rillette foie gras,203,20,12023,202338391,2023
+561,561,20,charcuterie,3,"pâtés, terrines, rillettes et foie gras",8400,pâté de tête ou fromage de tête,charcuterie,pate terrine rillette foie gras,203,20,12023,202338400,2023
+562,562,20,charcuterie,4,autre charcuterie ou charcuterie  sans précision,30900,charcuterie sans précision,charcuterie,other charcuterie,204,20,12024,2024330900,2024
+563,563,20,charcuterie,4,autre charcuterie ou charcuterie  sans précision,92508,autre charcuterie,charcuterie,other charcuterie,204,20,12024,2024392508,2024
+564,564,21,poissons,1,poissons de mer,25537,carpaccio de saumon,fish,sea fish,211,21,12121,2121325537,2121
+565,565,21,poissons,1,poissons de mer,26000,anchois filets à l'huile semi-conserve,fish,sea fish,211,21,12121,2121326000,2121
+566,566,21,poissons,1,poissons de mer,26003,carrelet ou plie cuit à la vapeur,fish,sea fish,211,21,12121,2121326003,2121
+567,567,21,poissons,1,poissons de mer,26008,églefin cuit à la vapeur,fish,sea fish,211,21,12121,2121326008,2121
+568,568,21,poissons,1,poissons de mer,26009,flétan cru,fish,sea fish,211,21,12121,2121326009,2121
+569,569,21,poissons,1,poissons de mer,26010,hareng mariné,fish,sea fish,211,21,12121,2121326010,2121
+570,570,21,poissons,1,poissons de mer,26012,hareng frit,fish,sea fish,211,21,12121,2121326012,2121
+571,571,21,poissons,1,poissons de mer,26013,hareng fumé,fish,sea fish,211,21,12121,2121326013,2121
+572,572,21,poissons,1,poissons de mer,26014,hareng grillé,fish,sea fish,211,21,12121,2121326014,2121
+573,573,21,poissons,1,poissons de mer,26015,lieu ou colin noir cuit,fish,sea fish,211,21,12121,2121326015,2121
+574,574,21,poissons,1,poissons de mer,26016,limande-sole panée frite,fish,sea fish,211,21,12121,2121326016,2121
+575,575,21,poissons,1,poissons de mer,26017,limande-sole cuite à la vapeur,fish,sea fish,211,21,12121,2121326017,2121
+576,576,21,poissons,1,poissons de mer,26019,maquereau cuit au four,fish,sea fish,211,21,12121,2121326019,2121
+577,577,21,poissons,1,poissons de mer,26020,maquereau frit,fish,sea fish,211,21,12121,2121326020,2121
+578,578,21,poissons,1,poissons de mer,26021,merlan frit,fish,sea fish,211,21,12121,2121326021,2121
+579,579,21,poissons,1,poissons de mer,26022,merlan cuit à la vapeur,fish,sea fish,211,21,12121,2121326022,2121
+580,580,21,poissons,1,poissons de mer,26023,cabillaud cuit au four,fish,sea fish,211,21,12121,2121326023,2121
+581,581,21,poissons,1,poissons de mer,26024,morue salée pochée,fish,sea fish,211,21,12121,2121326024,2121
+582,582,21,poissons,1,poissons de mer,26025,cabillaud cuit à la vapeur,fish,sea fish,211,21,12121,2121326025,2121
+583,583,21,poissons,1,poissons de mer,26026,mulet cuit au four,fish,sea fish,211,21,12121,2121326026,2121
+584,584,21,poissons,1,poissons de mer,26027,pilchard à la sauce tomate en conserve,fish,sea fish,211,21,12121,2121326027,2121
+585,585,21,poissons,1,poissons de mer,26031,raie cuite au four,fish,sea fish,211,21,12121,2121326031,2121
+586,586,21,poissons,1,poissons de mer,26033,roussette ou saumonette braisée,fish,sea fish,211,21,12121,2121326033,2121
+587,587,21,poissons,1,poissons de mer,26034,sardine à l'huile en conserve égouttée,fish,sea fish,211,21,12121,2121326034,2121
+588,588,21,poissons,1,poissons de mer,26035,sardine à la sauce tomate en conserve,fish,sea fish,211,21,12121,2121326035,2121
+589,589,21,poissons,1,poissons de mer,26036,saumon cru d'élevage,fish,sea fish,211,21,12121,2121326036,2121
+590,590,21,poissons,1,poissons de mer,26037,saumon fumé cru,fish,sea fish,211,21,12121,2121326037,2121
+591,591,21,poissons,1,poissons de mer,26038,saumon cuit à la vapeur,fish,sea fish,211,21,12121,2121326038,2121
+592,592,21,poissons,1,poissons de mer,26039,thon au naturel en conserve égoutté,fish,sea fish,211,21,12121,2121326039,2121
+593,593,21,poissons,1,poissons de mer,26041,thon cuit au four,fish,sea fish,211,21,12121,2121326041,2121
+594,594,21,poissons,1,poissons de mer,26053,thon cru,fish,sea fish,211,21,12121,2121326053,2121
+595,595,21,poissons,1,poissons de mer,26059,sole cuite à la vapeur,fish,sea fish,211,21,12121,2121326059,2121
+596,596,21,poissons,1,poissons de mer,26060,sole cuite au four,fish,sea fish,211,21,12121,2121326060,2121
+597,597,21,poissons,1,poissons de mer,26071,thon à l'huile en conserve égoutté,fish,sea fish,211,21,12121,2121326071,2121
+598,598,21,poissons,1,poissons de mer,26072,bar ou loup commun cru,fish,sea fish,211,21,12121,2121326072,2121
+599,599,21,poissons,1,poissons de mer,26073,raie au court-bouillon,fish,sea fish,211,21,12121,2121326073,2121
+600,600,21,poissons,1,poissons de mer,26077,thon germon ou thon blanc cuit à la vapeur,fish,sea fish,211,21,12121,2121326077,2121
+601,601,21,poissons,1,poissons de mer,26079,anchois cru,fish,sea fish,211,21,12121,2121326079,2121
+602,602,21,poissons,1,poissons de mer,26081,lotte ou baudroie grillée,fish,sea fish,211,21,12121,2121326081,2121
+603,603,21,poissons,1,poissons de mer,26086,maquereau filet à la sauce tomate en conserve,fish,sea fish,211,21,12121,2121326086,2121
+604,604,21,poissons,1,poissons de mer,26087,maquereau fumé,fish,sea fish,211,21,12121,2121326087,2121
+605,605,21,poissons,1,poissons de mer,26090,haddock ou églefin fumé,fish,sea fish,211,21,12121,2121326090,2121
+606,606,21,poissons,1,poissons de mer,26093,espadon cuit au four,fish,sea fish,211,21,12121,2121326093,2121
+607,607,21,poissons,1,poissons de mer,26094,turbot cuit au four,fish,sea fish,211,21,12121,2121326094,2121
+608,608,21,poissons,1,poissons de mer,26096,maquereau filet à la sauce moutarde en conserve,fish,sea fish,211,21,12121,2121326096,2121
+609,609,21,poissons,1,poissons de mer,26097,maquereau filet au vin blanc en conserve,fish,sea fish,211,21,12121,2121326097,2121
+610,610,21,poissons,1,poissons de mer,26099,dorade ou daurade grise crue,fish,sea fish,211,21,12121,2121326099,2121
+611,611,21,poissons,1,poissons de mer,26120,merlu cuit à l'étouffée,fish,sea fish,211,21,12121,2121326120,2121
+612,612,21,poissons,1,poissons de mer,26130,julienne ou lingue crue,fish,sea fish,211,21,12121,2121326130,2121
+613,613,21,poissons,1,poissons de mer,26136,sardine grillée,fish,sea fish,211,21,12121,2121326136,2121
+614,614,21,poissons,1,poissons de mer,26187,anchois mariné,fish,sea fish,211,21,12121,2121326187,2121
+615,615,21,poissons,1,poissons de mer,27005,perche cuite au four,fish,sea fish,211,21,12121,2121327005,2121
+616,616,21,poissons,1,poissons de mer,27014,truite arc-en-ciel d'élevage cuite au four,fish,sea fish,211,21,12121,2121327014,2121
+617,617,21,poissons,1,poissons de mer,27015,truite arc-en-ciel d'élevage cuite à la vapeur,fish,sea fish,211,21,12121,2121327015,2121
+618,618,21,poissons,1,poissons de mer,27029,truite fumée,fish,sea fish,211,21,12121,2121327029,2121
+619,619,21,poissons,1,poissons de mer,91047,rouget cuit à l'étouffée,fish,sea fish,211,21,12121,2121391047,2121
+620,620,21,poissons,1,poissons de mer,91049,rascasse crue,fish,sea fish,211,21,12121,2121391049,2121
+621,621,21,poissons,2,poissons d'eau douce,27000,anguille cuite au four,fish,freshwater fish,212,21,12122,2122327000,2122
+622,622,21,poissons,2,poissons d'eau douce,27002,brochet cuit au four,fish,freshwater fish,212,21,12122,2122327002,2122
+623,623,21,poissons,2,poissons d'eau douce,27004,carpe cuite au four,fish,freshwater fish,212,21,12122,2122327004,2122
+624,624,21,poissons,2,poissons d'eau douce,34500,cuisse de grenouille crue,fish,freshwater fish,212,21,12122,2122334500,2122
+625,625,21,poissons,3,produits dérivés des poissons,8081,rillettes de saumon,fish,fish product,213,21,12123,212338081,2123
+626,626,21,poissons,3,produits dérivés des poissons,8082,rillettes de thon,fish,fish product,213,21,12123,212338082,2123
+627,627,21,poissons,3,produits dérivés des poissons,8291,terrine de poisson,fish,fish product,213,21,12123,212338291,2123
+628,628,21,poissons,3,produits dérivés des poissons,8292,pâté à base de poisson ou de crustacé,fish,fish product,213,21,12123,212338292,2123
+629,629,21,poissons,3,produits dérivés des poissons,8293,tarama industriel,fish,fish product,213,21,12123,212338293,2123
+630,630,21,poissons,3,produits dérivés des poissons,8295,mousse de poisson,fish,fish product,213,21,12123,212338295,2123
+631,631,21,poissons,3,produits dérivés des poissons,26004,oeufs de lump ou lompe semi-conserve,fish,fish product,213,21,12123,2123326004,2123
+632,632,21,poissons,3,produits dérivés des poissons,26005,caviar semi-conserve,fish,fish product,213,21,12123,2123326005,2123
+633,633,21,poissons,3,produits dérivés des poissons,26028,croquette ou nugget de poisson frit,fish,fish product,213,21,12123,2123326028,2123
+634,634,21,poissons,3,produits dérivés des poissons,26030,poisson pané frit,fish,fish product,213,21,12123,2123326030,2123
+635,635,21,poissons,3,produits dérivés des poissons,26046,surimi en bâtonnets,fish,fish product,213,21,12123,2123326046,2123
+636,636,21,poissons,3,produits dérivés des poissons,26142,foie de morue en conserve,fish,fish product,213,21,12123,2123326142,2123
+637,637,21,poissons,4,autres poissons ou poissons sans précision,25539,brochette de poisson,fish,other fish,214,21,12124,2124325539,2124
+638,638,21,poissons,4,autres poissons ou poissons sans précision,26140,poisson sans précision,fish,other fish,214,21,12124,2124326140,2124
+639,639,21,poissons,4,autres poissons ou poissons sans précision,92042,autre poisson,fish,other fish,214,21,12124,2124392042,2124
+640,640,22,crustacés et mollusques,1,mollusques et coquillage,10000,bigorneau cuit,shellfish and molluscs,molluscs,221,22,12221,2221310000,2221
+641,641,22,crustacés et mollusques,1,mollusques et coquillage,10002,calmar ou calamar frit,shellfish and molluscs,molluscs,221,22,12221,2221310002,2221
+642,642,22,crustacés et mollusques,1,mollusques et coquillage,10003,coquille saint-jacques noix et corail crue,shellfish and molluscs,molluscs,221,22,12221,2221310003,2221
+643,643,22,crustacés et mollusques,1,mollusques et coquillage,10004,coquille saint-jacques noix et corail cuite,shellfish and molluscs,molluscs,221,22,12221,2221310004,2221
+644,644,22,crustacés et mollusques,1,mollusques et coquillage,10008,escargot cru,shellfish and molluscs,molluscs,221,22,12221,2221310008,2221
+645,645,22,crustacés et mollusques,1,mollusques et coquillage,10013,moule cuite à l'eau,shellfish and molluscs,molluscs,221,22,12221,2221310013,2221
+646,646,22,crustacés et mollusques,1,mollusques et coquillage,10016,seiche crue,shellfish and molluscs,molluscs,221,22,12221,2221310016,2221
+647,647,22,crustacés et mollusques,1,mollusques et coquillage,10020,bulot ou buccin cuit,shellfish and molluscs,molluscs,221,22,12221,2221310020,2221
+648,648,22,crustacés et mollusques,1,mollusques et coquillage,10027,clam praire ou palourde cuits à l'eau,shellfish and molluscs,molluscs,221,22,12221,2221310027,2221
+649,649,22,crustacés et mollusques,1,mollusques et coquillage,10035,huître creuse crue,shellfish and molluscs,molluscs,221,22,12221,2221310035,2221
+650,650,22,crustacés et mollusques,2,crustacés,10005,crabe ou tourteau en conserve,shellfish and molluscs,shellfish,222,22,12222,2222310005,2222
+651,651,22,crustacés et mollusques,2,crustacés,10007,crevette cuite,shellfish and molluscs,shellfish,222,22,12222,2222310007,2222
+652,652,22,crustacés et mollusques,2,crustacés,10009,homard cuit à l'eau,shellfish and molluscs,shellfish,222,22,12222,2222310009,2222
+653,653,22,crustacés et mollusques,2,crustacés,10022,langouste cuite à l'eau,shellfish and molluscs,shellfish,222,22,12222,2222310022,2222
+654,654,22,crustacés et mollusques,2,crustacés,10025,crabe ou tourteau cuit à l'eau,shellfish and molluscs,shellfish,222,22,12222,2222310025,2222
+655,655,22,crustacés et mollusques,2,crustacés,10030,écrevisse crue,shellfish and molluscs,shellfish,222,22,12222,2222310030,2222
+656,656,22,crustacés et mollusques,2,crustacés,25540,brochette de crevettes,shellfish and molluscs,shellfish,222,22,12222,2222325540,2222
+657,657,22,crustacés et mollusques,3,autres fruits de mer ou fruits de mer sans précision,172,plateau de fruits de mer,shellfish and molluscs,other shellfish,223,22,12223,22233172,2223
+658,658,22,crustacés et mollusques,3,autres fruits de mer ou fruits de mer sans précision,10043,fruits de mer sans précision,shellfish and molluscs,other shellfish,223,22,12223,2223310043,2223
+659,659,22,crustacés et mollusques,3,autres fruits de mer ou fruits de mer sans précision,92043,autre fruit de mer,shellfish and molluscs,other shellfish,223,22,12223,2223392043,2223
+660,660,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20003,betterave rouge cuite,vegetable,root vegetable,231,23,12321,2321320003,2321
+661,661,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20007,carotte en conserve,vegetable,root vegetable,231,23,12321,2321320007,2321
+662,662,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20008,carotte cuite,vegetable,root vegetable,231,23,12321,2321320008,2321
+663,663,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20009,carotte crue,vegetable,root vegetable,231,23,12321,2321320009,2321
+664,664,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20025,céleri-rave cuit,vegetable,root vegetable,231,23,12321,2321320025,2321
+665,665,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20033,navet cuit,vegetable,root vegetable,231,23,12321,2321320033,2321
+666,666,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20034,oignon cru,vegetable,root vegetable,231,23,12321,2321320034,2321
+667,667,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20035,oignon cuit,vegetable,root vegetable,231,23,12321,2321320035,2321
+668,668,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20045,radis rouge cru,vegetable,root vegetable,231,23,12321,2321320045,2321
+669,669,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20046,salsifis cuit,vegetable,root vegetable,231,23,12321,2321320046,2321
+670,670,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20050,topinambour cuit,vegetable,root vegetable,231,23,12321,2321320050,2321
+671,671,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20055,céleri-rave cru,vegetable,root vegetable,231,23,12321,2321320055,2321
+672,672,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20064,navet pelé cru,vegetable,root vegetable,231,23,12321,2321320064,2321
+673,673,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20081,salsifis en conserve,vegetable,root vegetable,231,23,12321,2321320081,2321
+674,674,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20089,radis noir cru,vegetable,root vegetable,231,23,12321,2321320089,2321
+675,675,23,légumes (hors pommes de terre),1,"légumes racines, tubercules ou bulbes",20097,échalote crue,vegetable,root vegetable,231,23,12321,2321320097,2321
+676,676,23,légumes (hors pommes de terre),2,légumes feuilles,20005,bette ou blette cuite,vegetable,leaf vegetable,232,23,12322,2322320005,2322
+677,677,23,légumes (hors pommes de terre),2,légumes feuilles,20012,chicorée frisée crue,vegetable,leaf vegetable,232,23,12322,2322320012,2322
+678,678,23,légumes (hors pommes de terre),2,légumes feuilles,20022,cresson,vegetable,leaf vegetable,232,23,12322,2322320022,2322
+679,679,23,légumes (hors pommes de terre),2,légumes feuilles,20026,endive crue,vegetable,leaf vegetable,232,23,12322,2322320026,2322
+680,680,23,légumes (hors pommes de terre),2,légumes feuilles,20027,épinard cuit,vegetable,leaf vegetable,232,23,12322,2322320027,2322
+681,681,23,légumes (hors pommes de terre),2,légumes feuilles,20031,laitue crue,vegetable,leaf vegetable,232,23,12322,2322320031,2322
+682,682,23,légumes (hors pommes de terre),2,légumes feuilles,20032,laitue cuite,vegetable,leaf vegetable,232,23,12322,2322320032,2322
+683,683,23,légumes (hors pommes de terre),2,légumes feuilles,20038,pissenlit cru,vegetable,leaf vegetable,232,23,12322,2322320038,2322
+684,684,23,légumes (hors pommes de terre),2,légumes feuilles,20059,épinard cru,vegetable,leaf vegetable,232,23,12322,2322320059,2322
+685,685,23,légumes (hors pommes de terre),2,légumes feuilles,20090,scarole crue,vegetable,leaf vegetable,232,23,12322,2322320090,2322
+686,686,23,légumes (hors pommes de terre),2,légumes feuilles,20098,endive cuite,vegetable,leaf vegetable,232,23,12322,2322320098,2322
+687,687,23,légumes (hors pommes de terre),2,légumes feuilles,20099,mâche crue,vegetable,leaf vegetable,232,23,12322,2322320099,2322
+688,688,23,légumes (hors pommes de terre),2,légumes feuilles,20111,oseille crue,vegetable,leaf vegetable,232,23,12322,2322320111,2322
+689,689,23,légumes (hors pommes de terre),2,légumes feuilles,20112,oseille cuite à l'eau,vegetable,leaf vegetable,232,23,12322,2322320112,2322
+690,690,23,légumes (hors pommes de terre),2,légumes feuilles,20127,pourpier feuille cru,vegetable,leaf vegetable,232,23,12322,2322320127,2322
+691,691,23,légumes (hors pommes de terre),2,légumes feuilles,20171,laitue romaine crue,vegetable,leaf vegetable,232,23,12322,2322320171,2322
+692,692,23,légumes (hors pommes de terre),2,légumes feuilles,25604,salade verte sans assaisonnement sans précision,vegetable,leaf vegetable,232,23,12322,2322325604,2322
+693,693,23,légumes (hors pommes de terre),2,légumes feuilles,92044,autre salade sans assaisonnement,vegetable,leaf vegetable,232,23,12322,2322392044,2322
+694,694,23,légumes (hors pommes de terre),3,légumes fruits,13004,avocat frais,vegetable,fruit vegetable,233,23,12323,2323313004,2323
+695,695,23,légumes (hors pommes de terre),3,légumes fruits,20002,aubergine cuite,vegetable,fruit vegetable,233,23,12323,2323320002,2323
+696,696,23,légumes (hors pommes de terre),3,légumes fruits,20020,courgette crue,vegetable,fruit vegetable,233,23,12323,2323320020,2323
+697,697,23,légumes (hors pommes de terre),3,légumes fruits,20021,courgette cuite,vegetable,fruit vegetable,233,23,12323,2323320021,2323
+698,698,23,légumes (hors pommes de terre),3,légumes fruits,20041,poivron vert jaune ou rouge cru,vegetable,fruit vegetable,233,23,12323,2323320041,2323
+699,699,23,légumes (hors pommes de terre),3,légumes fruits,20042,poivron vert jaune ou rouge cuit,vegetable,fruit vegetable,233,23,12323,2323320042,2323
+700,700,23,légumes (hors pommes de terre),3,légumes fruits,20047,tomate crue,vegetable,fruit vegetable,233,23,12323,2323320047,2323
+701,701,23,légumes (hors pommes de terre),3,légumes fruits,20048,tomate pelée en conserve,vegetable,fruit vegetable,233,23,12323,2323320048,2323
+702,702,23,légumes (hors pommes de terre),3,légumes fruits,20049,maïs doux en épis cuit,vegetable,fruit vegetable,233,23,12323,2323320049,2323
+703,703,23,légumes (hors pommes de terre),3,légumes fruits,20066,maïs doux en conserve,vegetable,fruit vegetable,233,23,12323,2323320066,2323
+704,704,23,légumes (hors pommes de terre),3,légumes fruits,20085,poivron vert cru,vegetable,fruit vegetable,233,23,12323,2323320085,2323
+705,705,23,légumes (hors pommes de terre),3,légumes fruits,20086,poivron vert cuit,vegetable,fruit vegetable,233,23,12323,2323320086,2323
+706,706,23,légumes (hors pommes de terre),3,légumes fruits,20087,poivron rouge cru,vegetable,fruit vegetable,233,23,12323,2323320087,2323
+707,707,23,légumes (hors pommes de terre),3,légumes fruits,20088,poivron rouge cuit,vegetable,fruit vegetable,233,23,12323,2323320088,2323
+708,708,23,légumes (hors pommes de terre),3,légumes fruits,20096,potiron cuit,vegetable,fruit vegetable,233,23,12323,2323320096,2323
+709,709,23,légumes (hors pommes de terre),3,légumes fruits,20172,tomate cerise crue,vegetable,fruit vegetable,233,23,12323,2323320172,2323
+710,710,23,légumes (hors pommes de terre),3,légumes fruits,20210,concombre cru pulpe,vegetable,fruit vegetable,233,23,12323,2323320210,2323
+711,711,23,légumes (hors pommes de terre),4,légumes tiges,20000,artichaut cuit,vegetable,stem vegetable,234,23,12324,2324320000,2324
+712,712,23,légumes (hors pommes de terre),4,légumes tiges,20001,asperge cuite,vegetable,stem vegetable,234,23,12324,2324320001,2324
+713,713,23,légumes (hors pommes de terre),4,légumes tiges,20018,cœur de palmier en conserve,vegetable,stem vegetable,234,23,12324,2324320018,2324
+714,714,23,légumes (hors pommes de terre),4,légumes tiges,20023,céleri branche cru,vegetable,stem vegetable,234,23,12324,2324320023,2324
+715,715,23,légumes (hors pommes de terre),4,légumes tiges,20024,céleri branche cuit,vegetable,stem vegetable,234,23,12324,2324320024,2324
+716,716,23,légumes (hors pommes de terre),4,légumes tiges,20028,fenouil cru,vegetable,stem vegetable,234,23,12324,2324320028,2324
+717,717,23,légumes (hors pommes de terre),4,légumes tiges,20029,germe ou pousse de soja en conserve,vegetable,stem vegetable,234,23,12324,2324320029,2324
+718,718,23,légumes (hors pommes de terre),4,légumes tiges,20039,poireau cru,vegetable,stem vegetable,234,23,12324,2324320039,2324
+719,719,23,légumes (hors pommes de terre),4,légumes tiges,20040,poireau cuit,vegetable,stem vegetable,234,23,12324,2324320040,2324
+720,720,23,légumes (hors pommes de terre),4,légumes tiges,20052,artichaut cru,vegetable,stem vegetable,234,23,12324,2324320052,2324
+721,721,23,légumes (hors pommes de terre),4,légumes tiges,20054,cardon cru,vegetable,stem vegetable,234,23,12324,2324320054,2324
+722,722,23,légumes (hors pommes de terre),4,légumes tiges,20076,asperge en conserve,vegetable,stem vegetable,234,23,12324,2324320076,2324
+723,723,23,légumes (hors pommes de terre),4,légumes tiges,20078,céleri branche en conserve,vegetable,stem vegetable,234,23,12324,2324320078,2324
+724,724,23,légumes (hors pommes de terre),4,légumes tiges,20118,fenouil cuit à l'eau,vegetable,stem vegetable,234,23,12324,2324320118,2324
+725,725,23,légumes (hors pommes de terre),4,légumes tiges,20183,germe ou pousse de soja cru,vegetable,stem vegetable,234,23,12324,2324320183,2324
+726,726,23,légumes (hors pommes de terre),5,choux,20006,brocoli cuit,vegetable,cabbage,235,23,12325,2325320006,2325
+727,727,23,légumes (hors pommes de terre),5,choux,20013,chou de bruxelles cuit,vegetable,cabbage,235,23,12325,2325320013,2325
+728,728,23,légumes (hors pommes de terre),5,choux,20014,chou rouge cru,vegetable,cabbage,235,23,12325,2325320014,2325
+729,729,23,légumes (hors pommes de terre),5,choux,20015,chou vert cuit,vegetable,cabbage,235,23,12325,2325320015,2325
+730,730,23,légumes (hors pommes de terre),5,choux,20016,chou-fleur cru,vegetable,cabbage,235,23,12325,2325320016,2325
+731,731,23,légumes (hors pommes de terre),5,choux,20017,chou-fleur cuit,vegetable,cabbage,235,23,12325,2325320017,2325
+732,732,23,légumes (hors pommes de terre),5,choux,20077,chou de bruxelles en conserve,vegetable,cabbage,235,23,12325,2325320077,2325
+733,733,23,légumes (hors pommes de terre),5,choux,20095,chou rouge cuit à l'eau,vegetable,cabbage,235,23,12325,2325320095,2325
+734,734,23,légumes (hors pommes de terre),5,choux,20116,chou blanc cru,vegetable,cabbage,235,23,12325,2325320116,2325
+735,735,23,légumes (hors pommes de terre),6,champignons,20010,champignon tout type cru sans précision,vegetable,mushroom,236,23,12326,2326320010,2326
+736,736,23,légumes (hors pommes de terre),6,champignons,20011,champignon tout type en conserve,vegetable,mushroom,236,23,12326,2326320011,2326
+737,737,23,légumes (hors pommes de terre),6,champignons,20079,champignon de paris en conserve,vegetable,mushroom,236,23,12326,2326320079,2326
+738,738,23,légumes (hors pommes de terre),6,champignons,20125,champignon de paris sauté,vegetable,mushroom,236,23,12326,2326320125,2326
+739,739,23,légumes (hors pommes de terre),7,haricots verts et petits pois (légumes potagers),20030,haricot vert cuit,vegetable,beans,237,23,12327,2327320030,2327
+740,740,23,légumes (hors pommes de terre),7,haricots verts et petits pois (légumes potagers),20036,petit pois en conserve,vegetable,beans,237,23,12327,2327320036,2327
+741,741,23,légumes (hors pommes de terre),7,haricots verts et petits pois (légumes potagers),20037,petit pois cuit,vegetable,beans,237,23,12327,2327320037,2327
+742,742,23,légumes (hors pommes de terre),7,haricots verts et petits pois (légumes potagers),20062,haricot vert en conserve égoutté,vegetable,beans,237,23,12327,2327320062,2327
+743,743,23,légumes (hors pommes de terre),7,haricots verts et petits pois (légumes potagers),20063,haricot beurre en conserve,vegetable,beans,237,23,12327,2327320063,2327
+744,744,23,légumes (hors pommes de terre),7,haricots verts et petits pois (légumes potagers),20071,haricot vert surgelé cuit,vegetable,beans,237,23,12327,2327320071,2327
+745,745,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",8296,terrine ou mousse de légumes,vegetable,beans,238,23,12328,232838296,2328
+746,746,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20051,macédoine de légumes en conserve,vegetable,vegetable mix,238,23,12328,2328320051,2328
+747,747,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20093,petits pois et carottes en conserve,vegetable,vegetable mix,238,23,12328,2328320093,2328
+748,748,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20101,légumes mélangés surgelés,vegetable,vegetable mix,238,23,12328,2328320101,2328
+749,749,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20169,pulpe de tomate en conserve,vegetable,vegetable mix,238,23,12328,2328320169,2328
+750,750,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20170,purée de tomate,vegetable,vegetable mix,238,23,12328,2328320170,2328
+751,751,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20495,légume en purée hors pomme de terre non salé,vegetable,vegetable mix,238,23,12328,2328320495,2328
+752,752,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",20499,légumes cuits sans précision,vegetable,vegetable mix,238,23,12328,2328320499,2328
+753,753,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25004,choucroute sans garniture,vegetable,vegetable mix,238,23,12328,2328325004,2328
+754,754,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25018,ratatouille niçoise,vegetable,vegetable mix,238,23,12328,2328325018,2328
+755,755,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25600,céleri rémoulade,vegetable,vegetable mix,238,23,12328,2328325600,2328
+756,756,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25605,champignons à la grecque,vegetable,vegetable mix,238,23,12328,2328325605,2328
+757,757,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25616,"autre légume frais ou crudité, sans assaisonnement",vegetable,vegetable mix,238,23,12328,2328325616,2328
+758,758,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25617,crudités vinaigrette sans précision,vegetable,vegetable mix,238,23,12328,2328325617,2328
+759,759,23,légumes (hors pommes de terre),8,"mélanges de légumes, légumes préparés et autres légumes",25620,guacamole industriel,vegetable,vegetable mix,238,23,12328,2328325620,2328
+760,760,24,pommes de terre et apparentés,99,sans,4002,pomme de terre cuite au four,potatoes,potatoes,2499,24,124299,2429934002,24299
+761,761,24,pommes de terre et apparentés,99,sans,4003,pomme de terre cuite à l'eau,potatoes,potatoes,2499,24,124299,2429934003,24299
+762,762,24,pommes de terre et apparentés,99,sans,4005,pomme de terre frite non salée,potatoes,potatoes,2499,24,124299,2429934005,24299
+763,763,24,pommes de terre et apparentés,99,sans,4006,pomme de terre cuite à la vapeur,potatoes,potatoes,2499,24,124299,2429934006,24299
+764,764,24,pommes de terre et apparentés,99,sans,4010,pomme de terre frite surgelée cuite,potatoes,potatoes,2499,24,124299,2429934010,24299
+765,765,24,pommes de terre et apparentés,99,sans,4013,pomme noisette précuite surgelée,potatoes,potatoes,2499,24,124299,2429934013,24299
+766,766,24,pommes de terre et apparentés,99,sans,4018,purée de pomme de terre avec lait et beurre non salée,potatoes,potatoes,2499,24,124299,2429934018,24299
+767,767,24,pommes de terre et apparentés,99,sans,4019,purée de pomme de terre à base de flocons reconstituée au lait demi-écrémé,potatoes,potatoes,2499,24,124299,2429934019,24299
+768,768,24,pommes de terre et apparentés,99,sans,4021,pomme de terre dauphine cuite,potatoes,potatoes,2499,24,124299,2429934021,24299
+769,769,24,pommes de terre et apparentés,99,sans,4027,pomme de terre rissolée surgelée,potatoes,potatoes,2499,24,124299,2429934027,24299
+770,770,24,pommes de terre et apparentés,99,sans,4102,patate douce cuite,potatoes,potatoes,2499,24,124299,2429934102,24299
+771,771,24,pommes de terre et apparentés,99,sans,25510,gnocchis de pommes de terre,potatoes,potatoes,2499,24,124299,24299325510,24299
+772,772,25,légumes secs,1,légumes secs,20500,fève cuite,dried vegetables,dried vegetables,251,25,12521,2521320500,2521
+773,773,25,légumes secs,1,légumes secs,20502,haricot blanc cuit,dried vegetables,dried vegetables,251,25,12521,2521320502,2521
+774,774,25,légumes secs,1,légumes secs,20503,haricot rouge cuit,dried vegetables,dried vegetables,251,25,12521,2521320503,2521
+775,775,25,légumes secs,1,légumes secs,20505,lentille cuite,dried vegetables,dried vegetables,251,25,12521,2521320505,2521
+776,776,25,légumes secs,1,légumes secs,20506,pois cassé cuit,dried vegetables,dried vegetables,251,25,12521,2521320506,2521
+777,777,25,légumes secs,1,légumes secs,20507,pois chiche cuit,dried vegetables,dried vegetables,251,25,12521,2521320507,2521
+778,778,25,légumes secs,1,légumes secs,20508,haricot flageolet en conserve,dried vegetables,dried vegetables,251,25,12521,2521320508,2521
+779,779,25,légumes secs,1,légumes secs,20511,haricot blanc en conserve,dried vegetables,dried vegetables,251,25,12521,2521320511,2521
+780,780,25,légumes secs,1,légumes secs,20700,autre légume sec cuit,dried vegetables,dried vegetables,251,25,12521,2521320700,2521
+781,781,25,légumes secs,2,légumes secs préparés,20510,lentille cuisinée en conserve,dried vegetables,processed dried vegetables,252,25,12522,2522320510,2522
+782,782,25,légumes secs,2,légumes secs préparés,25621,houmous,dried vegetables,processed dried vegetables,252,25,12522,2522325621,2522
+783,783,26,fruits,99,sans,13000,abricot frais,fruits,fruits,2699,26,126299,26299313000,26299
+784,784,26,fruits,99,sans,13002,ananas frais,fruits,fruits,2699,26,126299,26299313002,26299
+785,785,26,fruits,99,sans,13005,banane fraîche,fruits,fruits,2699,26,126299,26299313005,26299
+786,786,26,fruits,99,sans,13008,cerise fraîche,fruits,fruits,2699,26,126299,26299313008,26299
+787,787,26,fruits,99,sans,13009,citron frais,fruits,fruits,2699,26,126299,26299313009,26299
+788,788,26,fruits,99,sans,13010,coing frais,fruits,fruits,2699,26,126299,26299313010,26299
+789,789,26,fruits,99,sans,13012,figue fraîche,fruits,fruits,2699,26,126299,26299313012,26299
+790,790,26,fruits,99,sans,13014,fraise fraîche,fruits,fruits,2699,26,126299,26299313014,26299
+791,791,26,fruits,99,sans,13015,framboise fraîche,fruits,fruits,2699,26,126299,26299313015,26299
+792,792,26,fruits,99,sans,13016,fruit de la passion frais,fruits,fruits,2699,26,126299,26299313016,26299
+793,793,26,fruits,99,sans,13018,grenade fraîche,fruits,fruits,2699,26,126299,26299313018,26299
+794,794,26,fruits,99,sans,13019,groseille fraîche,fruits,fruits,2699,26,126299,26299313019,26299
+795,795,26,fruits,99,sans,13020,groseille à maquereau fraîche,fruits,fruits,2699,26,126299,26299313020,26299
+796,796,26,fruits,99,sans,13021,kiwi frais,fruits,fruits,2699,26,126299,26299313021,26299
+797,797,26,fruits,99,sans,13023,litchi frais,fruits,fruits,2699,26,126299,26299313023,26299
+798,798,26,fruits,99,sans,13024,clémentine ou mandarine fraîche,fruits,fruits,2699,26,126299,26299313024,26299
+799,799,26,fruits,99,sans,13025,mangue fraîche,fruits,fruits,2699,26,126299,26299313025,26299
+800,800,26,fruits,99,sans,13026,melon frais,fruits,fruits,2699,26,126299,26299313026,26299
+801,801,26,fruits,99,sans,13027,mirabelle fraîche,fruits,fruits,2699,26,126299,26299313027,26299
+802,802,26,fruits,99,sans,13028,myrtille fraîche,fruits,fruits,2699,26,126299,26299313028,26299
+803,803,26,fruits,99,sans,13029,mûre de ronce fraîche,fruits,fruits,2699,26,126299,26299313029,26299
+804,804,26,fruits,99,sans,13030,nectarine non pelée fraîche,fruits,fruits,2699,26,126299,26299313030,26299
+805,805,26,fruits,99,sans,13034,orange fraîche,fruits,fruits,2699,26,126299,26299313034,26299
+806,806,26,fruits,99,sans,13035,papaye fraîche,fruits,fruits,2699,26,126299,26299313035,26299
+807,807,26,fruits,99,sans,13036,pastèque fraîche,fruits,fruits,2699,26,126299,26299313036,26299
+808,808,26,fruits,99,sans,13037,poire non pelée fraîche,fruits,fruits,2699,26,126299,26299313037,26299
+809,809,26,fruits,99,sans,13039,pomme non pelée fraîche,fruits,fruits,2699,26,126299,26299313039,26299
+810,810,26,fruits,99,sans,13040,pamplemousse frais,fruits,fruits,2699,26,126299,26299313040,26299
+811,811,26,fruits,99,sans,13041,prune reine-claude fraîche,fruits,fruits,2699,26,126299,26299313041,26299
+812,812,26,fruits,99,sans,13043,pêche non pelée fraîche,fruits,fruits,2699,26,126299,26299313043,26299
+813,813,26,fruits,99,sans,13044,raisin blanc frais,fruits,fruits,2699,26,126299,26299313044,26299
+814,814,26,fruits,99,sans,13045,raisin noir frais,fruits,fruits,2699,26,126299,26299313045,26299
+815,815,26,fruits,99,sans,13063,figue de barbarie,fruits,fruits,2699,26,126299,26299313063,26299
+816,816,26,fruits,99,sans,13066,kaki frais,fruits,fruits,2699,26,126299,26299313066,26299
+817,817,26,fruits,99,sans,13067,lime dit citron vert pulpe,fruits,fruits,2699,26,126299,26299313067,26299
+818,818,26,fruits,99,sans,13071,mûre noire de mûrier fraîche,fruits,fruits,2699,26,126299,26299313071,26299
+819,819,26,fruits,99,sans,13084,pêche pelée fraîche,fruits,fruits,2699,26,126299,26299313084,26299
+820,820,26,fruits,99,sans,13134,salade de fruits frais,fruits,fruits,2699,26,126299,26299313134,26299
+821,821,26,fruits,99,sans,13564,nèfle du japon fraîche,fruits,fruits,2699,26,126299,26299313564,26299
+822,822,26,fruits,99,sans,13997,"fruits rouges frais (framboises, fraises, groseilles, cassis)",fruits,fruits,2699,26,126299,26299313997,26299
+823,823,26,fruits,99,sans,13999,fruit sans précision,fruits,fruits,2699,26,126299,26299313999,26299
+824,824,26,fruits,99,sans,90130,litchi sans précision,fruits,fruits,2699,26,126299,26299390130,26299
+825,825,26,fruits,99,sans,92049,autre fruit,fruits,fruits,2699,26,126299,26299392049,26299
+826,826,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13001,abricot sec,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313001,2721
+827,827,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13006,banane mi-sèche,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313006,2721
+828,828,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13011,datte sèche,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313011,2721
+829,829,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13013,figue sèche,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313013,2721
+830,830,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13042,pruneau sec,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313042,2721
+831,831,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13046,raisin sec,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313046,2721
+832,832,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,13051,mélange pour apéritif de fruits exotiques séchés,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721313051,2721
+833,833,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,15015,purée de marrons en conserve,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721315015,2721
+834,834,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,15020,châtaigne cuite à l'eau,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721315020,2721
+835,835,27,fruits secs et graines oléagineuses,1,fruits secs et châtaignes,15021,châtaigne grillée,dried fruits and oleaginous seeds,dried fruits,271,27,12721,2721315021,2721
+836,836,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15000,amande,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315000,2722
+837,837,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15001,cacahuète ou arachide,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315001,2722
+838,838,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15002,cacahuète grillée salée,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315002,2722
+839,839,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15004,noisette,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315004,2722
+840,840,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15005,noix,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315005,2722
+841,841,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15006,noix de coco amande mûre fraîche,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315006,2722
+842,842,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15007,noix de coco amande sèche,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315007,2722
+843,843,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15008,noix du brésil,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315008,2722
+844,844,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15009,pistache rôtie salée,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315009,2722
+845,845,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15010,graine de sésame et autres,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315010,2722
+846,846,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15011,graine de tournesol,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315011,2722
+847,847,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15019,noix de cajou salée,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315019,2722
+848,848,27,fruits secs et graines oléagineuses,2,oléagineux et graines,15025,pignon de pin,dried fruits and oleaginous seeds,oleaginous fruits,272,27,12722,2722315025,2722
+849,849,27,fruits secs et graines oléagineuses,3,mélanges,15018,mélange pour apéritif de graines salées et raisin sec,,dried fruit mix,273,27,12723,2723315018,2723
+850,850,27,fruits secs et graines oléagineuses,3,mélanges,15040,fruits secs ou séchés et graines oléagineuses sans précision,,dried fruit mix,273,27,12723,2723315040,2723
+851,851,28,glaces et desserts glacés,1,glaces,39500,glace crème glacée sorbet ou glace à l'eau parfums divers,ice cream and frozen desserts,ice cream,281,28,12821,2821339500,2821
+852,852,28,glaces et desserts glacés,1,glaces,39503,glace enrobée de chocolat type esquimau,ice cream and frozen desserts,ice cream,281,28,12821,2821339503,2821
+853,853,28,glaces et desserts glacés,1,glaces,39507,crème glacée au chocolat type carte d'or chocolat,ice cream and frozen desserts,ice cream,281,28,12821,2821339507,2821
+854,854,28,glaces et desserts glacés,1,glaces,39508,glace en cornet,ice cream and frozen desserts,ice cream,281,28,12821,2821339508,2821
+855,855,28,glaces et desserts glacés,1,glaces,39600,crème glacée à la vanille type carte d'or vanille,ice cream and frozen desserts,ice cream,281,28,12821,2821339600,2821
+856,856,28,glaces et desserts glacés,2,desserts glacés,23472,profiteroles glace vanille et sauce chocolat,ice cream and frozen desserts,frozen dessert,282,28,12822,2822323472,2822
+857,857,28,glaces et desserts glacés,2,desserts glacés,31035,barre chocolatée glacée type mars twix snickers,ice cream and frozen desserts,frozen dessert,282,28,12822,2822331035,2822
+858,858,28,glaces et desserts glacés,2,desserts glacés,39401,pêche melba,ice cream and frozen desserts,frozen dessert,282,28,12822,2822339401,2822
+859,859,28,glaces et desserts glacés,2,desserts glacés,39518,omelette norvégienne,ice cream and frozen desserts,frozen dessert,282,28,12822,2822339518,2822
+860,860,28,glaces et desserts glacés,2,desserts glacés,39519,poire belle hélène,ice cream and frozen desserts,frozen dessert,282,28,12822,2822339519,2822
+861,861,28,glaces et desserts glacés,3,sorbets,31025,sorbet tout type,ice cream and frozen desserts,sorbet,283,28,12823,2823331025,2823
+862,862,29,chocolat,1,chocolat en tablettes,673,chocolat au lait fourré au praliné en tablette,chocolate,chocolate,291,29,12921,29213673,2921
+863,863,29,chocolat,1,chocolat en tablettes,677,chocolat noir fourré au praliné en tablette,chocolate,chocolate,291,29,12921,29213677,2921
+864,864,29,chocolat,1,chocolat en tablettes,31004,chocolat au lait en tablette ou en barre type kinder maxi,chocolate,chocolate,291,29,12921,2921331004,2921
+865,865,29,chocolat,1,chocolat en tablettes,31005,chocolat noir 40% de cacao minimum en tablette à pâtisser ou à croquer,chocolate,chocolate,291,29,12921,2921331005,2921
+866,866,29,chocolat,1,chocolat en tablettes,31009,chocolat au lait et aux céréales croustillantes en tablette type crunch,chocolate,chocolate,291,29,12921,2921331009,2921
+867,867,29,chocolat,1,chocolat en tablettes,31010,chocolat blanc en tablette type galak,chocolate,chocolate,291,29,12921,2921331010,2921
+868,868,29,chocolat,1,chocolat en tablettes,31018,chocolat au lait aux fruits secs (amande noisette raisin sec) en tablette ou en,chocolate,chocolate,291,29,12921,2921331018,2921
+869,869,29,chocolat,1,chocolat en tablettes,31030,chocolat extra noir dégustation 70% de cacao sans sucres ajoutés avec édulcorant,chocolate,chocolate,291,29,12921,2921331030,2921
+870,870,29,chocolat,1,chocolat en tablettes,31070,chocolat noir aux fruits secs (amande noisette raisin sec praliné) en tablette,chocolate,chocolate,291,29,12921,2921331070,2921
+871,871,29,chocolat,1,chocolat en tablettes,31074,chocolat noir 70% de cacao minimum en tablette,chocolate,chocolate,291,29,12921,2921331074,2921
+872,872,29,chocolat,2,barres chocolatées,31000,barre chocolatée biscuitée type kit-kat lion ou twix,chocolate,chocolate bars,292,29,12922,2922331000,2922
+873,873,29,chocolat,2,barres chocolatées,31001,barre chocolatée non biscuitée enrobée type mars,chocolate,chocolate bars,292,29,12922,2922331001,2922
+874,874,29,chocolat,2,barres chocolatées,31002,barre à la noix de coco enrobée de chocolat type bounty,chocolate,chocolate bars,292,29,12922,2922331002,2922
+875,875,29,chocolat,2,barres chocolatées,31071,barre chocolatée aux fruits secs type nuts ou snickers,chocolate,chocolate bars,292,29,12922,2922331071,2922
+876,876,29,chocolat,2,barres chocolatées,31073,barre pour enfant au lait et au cacao type pingui,chocolate,chocolate bars,292,29,12922,2922331073,2922
+877,877,29,chocolat,3,pâte chocolatée à tartiner,31032,pâte à tartiner au chocolat et aux noisettes type nutella,chocolate,chocolate spread,293,29,12923,2923331032,2923
+878,878,30,sucres et dérivés,1,sucre et assimilés,31016,sucre blanc,sugar and byproducts,sugar,301,30,13021,3021331016,3021
+879,879,30,sucres et dérivés,1,sucre et assimilés,31017,sucre roux,sugar and byproducts,sugar,301,30,13021,3021331017,3021
+880,880,30,sucres et dérivés,1,sucre et assimilés,31076,sucre allégé type tutti free,sugar and byproducts,sugar,301,30,13021,3021331076,3021
+881,881,30,sucres et dérivés,1,sucre et assimilés,31077,fructose,sugar and byproducts,sugar,301,30,13021,3021331077,3021
+882,882,30,sucres et dérivés,1,sucre et assimilés,81052,sucre blanc ajouté au service,sugar and byproducts,sugar,301,30,13021,3021381052,3021
+883,883,30,sucres et dérivés,2,confiserie,15201,pâte d'amande fabrication industrielle,sugar and byproducts,sweets,302,30,13022,3022315201,3022
+884,884,30,sucres et dérivés,2,confiserie,24520,meringue,sugar and byproducts,sweets,302,30,13022,3022324520,3022
+885,885,30,sucres et dérivés,2,confiserie,31003,bonbons tout type sauf gélifiés,sugar and byproducts,sweets,302,30,13022,3022331003,3022
+886,886,30,sucres et dérivés,2,confiserie,31007,chewing-gum sucré,sugar and byproducts,sweets,302,30,13022,3022331007,3022
+887,887,30,sucres et dérivés,2,confiserie,31014,pâte de fruits,sugar and byproducts,sweets,302,30,13022,3022331014,3022
+888,888,30,sucres et dérivés,2,confiserie,31033,nougat ou touron,sugar and byproducts,sweets,302,30,13022,3022331033,3022
+889,889,30,sucres et dérivés,2,confiserie,31041,confiserie dragéifiée au chocolat type smarties,sugar and byproducts,sweets,302,30,13022,3022331041,3022
+890,890,30,sucres et dérivés,2,confiserie,31042,confiserie à base de cacahuètes dragéifiées enrobées de chocolat type m&ms cacah,sugar and byproducts,sweets,302,30,13022,3022331042,3022
+891,891,30,sucres et dérivés,2,confiserie,31054,chewing-gum sans sucre,sugar and byproducts,sweets,302,30,13022,3022331054,3022
+892,892,30,sucres et dérivés,2,confiserie,31060,bonbons gélifiés,sugar and byproducts,sweets,302,30,13022,3022331060,3022
+893,893,30,sucres et dérivés,3,confiture et miel,31006,confiture ou marmelade tout type,sugar and byproducts,jam honey,303,30,13023,3023331006,3023
+894,894,30,sucres et dérivés,3,confiture et miel,31008,miel,sugar and byproducts,jam honey,303,30,13023,3023331008,3023
+895,895,30,sucres et dérivés,3,confiture et miel,31024,confiture de fraise,sugar and byproducts,jam honey,303,30,13023,3023331024,3023
+896,896,30,sucres et dérivés,3,confiture et miel,31037,confiture d'abricot,sugar and byproducts,jam honey,303,30,13023,3023331037,3023
+897,897,30,sucres et dérivés,3,confiture et miel,31038,confiture de cerise,sugar and byproducts,jam honey,303,30,13023,3023331038,3023
+898,898,30,sucres et dérivés,3,confiture et miel,31039,confiture d'orange,sugar and byproducts,jam honey,303,30,13023,3023331039,3023
+899,899,30,sucres et dérivés,3,confiture et miel,31110,confiture allégée,sugar and byproducts,jam honey,303,30,13023,3023331110,3023
+900,900,30,sucres et dérivés,3,confiture et miel,81067,confiture ajoutée au service,sugar and byproducts,jam honey,303,30,13023,3023381067,3023
+901,901,31,eaux,1,eau minérale plate,18045,eau minérale plate sans précision,water,still mineral water,311,31,13121,3121318045,3121
+902,902,31,eaux,1,eau minérale plate,76000,abatilles eau plate,water,still mineral water,311,31,13121,3121376000,3121
+903,903,31,eaux,1,eau minérale plate,76001,aix les bains eau plate,water,still mineral water,311,31,13121,3121376001,3121
+904,904,31,eaux,1,eau minérale plate,76003,alet eau plate,water,still mineral water,311,31,13121,3121376003,3121
+905,905,31,eaux,1,eau minérale plate,76004,amanda eau plate,water,still mineral water,311,31,13121,3121376004,3121
+906,906,31,eaux,1,eau minérale plate,76010,celtic eau plate,water,still mineral water,311,31,13121,3121376010,3121
+907,907,31,eaux,1,eau minérale plate,76011,chambon eau plate,water,still mineral water,311,31,13121,3121376011,3121
+908,908,31,eaux,1,eau minérale plate,76016,contrex eau plate,water,still mineral water,311,31,13121,3121376016,3121
+909,909,31,eaux,1,eau minérale plate,76017,dax eau plate,water,still mineral water,311,31,13121,3121376017,3121
+910,910,31,eaux,1,eau minérale plate,76020,évian eau plate,water,still mineral water,311,31,13121,3121376020,3121
+911,911,31,eaux,1,eau minérale plate,76022,hépar eau plate,water,still mineral water,311,31,13121,3121376022,3121
+912,912,31,eaux,1,eau minérale plate,76025,luchon eau plate,water,still mineral water,311,31,13121,3121376025,3121
+913,913,31,eaux,1,eau minérale plate,76027,mont roucous eau plate,water,still mineral water,311,31,13121,3121376027,3121
+914,914,31,eaux,1,eau minérale plate,76029,orée du bois eau plate,water,still mineral water,311,31,13121,3121376029,3121
+915,915,31,eaux,1,eau minérale plate,76032,plancoët eau plate,water,still mineral water,311,31,13121,3121376032,3121
+916,916,31,eaux,1,eau minérale plate,76043,saint amand vauban eau plate,water,still mineral water,311,31,13121,3121376043,3121
+917,917,31,eaux,1,eau minérale plate,76044,saint antonin noble val eau plate,water,still mineral water,311,31,13121,3121376044,3121
+918,918,31,eaux,1,eau minérale plate,76050,thonon eau plate,water,still mineral water,311,31,13121,3121376050,3121
+919,919,31,eaux,1,eau minérale plate,76056,vittel eau plate,water,still mineral water,311,31,13121,3121376056,3121
+920,920,31,eaux,1,eau minérale plate,76057,volvic eau plate,water,still mineral water,311,31,13121,3121376057,3121
+921,921,31,eaux,1,eau minérale plate,76059,wattwiller eau plate,water,still mineral water,311,31,13121,3121376059,3121
+922,922,31,eaux,1,eau minérale plate,76063,beckerich eau plate,water,still mineral water,311,31,13121,3121376063,3121
+923,923,31,eaux,1,eau minérale plate,76065,chaudfontaine eau plate,water,still mineral water,311,31,13121,3121376065,3121
+924,924,31,eaux,1,eau minérale plate,76067,courmayeur eau plate,water,still mineral water,311,31,13121,3121376067,3121
+925,925,31,eaux,1,eau minérale plate,76073,san benedetto eau plate,water,still mineral water,311,31,13121,3121376073,3121
+926,926,31,eaux,1,eau minérale plate,76078,valvert eau plate,water,still mineral water,311,31,13121,3121376078,3121
+927,927,31,eaux,2,eau minérale gazeuse,18046,eau gazeuse sans précision,water,sparkling mineral water,312,31,13122,3122318046,3122
+928,928,31,eaux,2,eau minérale gazeuse,76006,arcens eau gazeuse,water,sparkling mineral water,312,31,13122,3122376006,3122
+929,929,31,eaux,2,eau minérale gazeuse,76007,arvie eau gazeuse,water,sparkling mineral water,312,31,13122,3122376007,3122
+930,930,31,eaux,2,eau minérale gazeuse,76008,auvergne eau gazeuse,water,sparkling mineral water,312,31,13122,3122376008,3122
+931,931,31,eaux,2,eau minérale gazeuse,76013,châteauneuf eau gazeuse,water,sparkling mineral water,312,31,13122,3122376013,3122
+932,932,31,eaux,2,eau minérale gazeuse,76021,fonfort eau gazeuse,water,sparkling mineral water,312,31,13122,3122376021,3122
+933,933,31,eaux,2,eau minérale gazeuse,76024,la vernière eau gazeuse,water,sparkling mineral water,312,31,13122,3122376024,3122
+934,934,31,eaux,2,eau minérale gazeuse,76028,ogeu eau gazeuse,water,sparkling mineral water,312,31,13122,3122376028,3122
+935,935,31,eaux,2,eau minérale gazeuse,76031,parot eau gazeuse,water,sparkling mineral water,312,31,13122,3122376031,3122
+936,936,31,eaux,2,eau minérale gazeuse,76034,puits saint georges eau gazeuse,water,sparkling mineral water,312,31,13122,3122376034,3122
+937,937,31,eaux,2,eau minérale gazeuse,76035,quézac eau gazeuse,water,sparkling mineral water,312,31,13122,3122376035,3122
+938,938,31,eaux,2,eau minérale gazeuse,76037,rozana eau gazeuse,water,sparkling mineral water,312,31,13122,3122376037,3122
+939,939,31,eaux,2,eau minérale gazeuse,76039,salvetat eau gazeuse,water,sparkling mineral water,312,31,13122,3122376039,3122
+940,940,31,eaux,2,eau minérale gazeuse,76041,saint alban antonin eau gazeuse,water,sparkling mineral water,312,31,13122,3122376041,3122
+941,941,31,eaux,2,eau minérale gazeuse,76046,saint diéry eau gazeuse,water,sparkling mineral water,312,31,13122,3122376046,3122
+942,942,31,eaux,2,eau minérale gazeuse,76047,sainte marguerite eau gazeuse,water,sparkling mineral water,312,31,13122,3122376047,3122
+943,943,31,eaux,2,eau minérale gazeuse,76049,saint yorre eau gazeuse,water,sparkling mineral water,312,31,13122,3122376049,3122
+944,944,31,eaux,2,eau minérale gazeuse,76051,vals saint jean eau gazeuse,water,sparkling mineral water,312,31,13122,3122376051,3122
+945,945,31,eaux,2,eau minérale gazeuse,76052,vals vivaraise eau gazeuse,water,sparkling mineral water,312,31,13122,3122376052,3122
+946,946,31,eaux,2,eau minérale gazeuse,76054,vernet eau gazeuse,water,sparkling mineral water,312,31,13122,3122376054,3122
+947,947,31,eaux,2,eau minérale gazeuse,76055,vichy célestins eau gazeuse,water,sparkling mineral water,312,31,13122,3122376055,3122
+948,948,31,eaux,2,eau minérale gazeuse,76060,perrier eau gazeuse,water,sparkling mineral water,312,31,13122,3122376060,3122
+949,949,31,eaux,2,eau minérale gazeuse,76061,badoit eau gazeuse,water,sparkling mineral water,312,31,13122,3122376061,3122
+950,950,31,eaux,2,eau minérale gazeuse,76075,san pellegrino eau gazeuse,water,sparkling mineral water,312,31,13122,3122376075,3122
+951,951,31,eaux,2,eau minérale gazeuse,76079,apollinaris eau gazeuse,water,sparkling mineral water,312,31,13122,3122376079,3122
+952,952,31,eaux,3,eau du robinet,18066,eau du robinet,water,tap water,313,31,13123,3123318066,3123
+953,953,31,eaux,4,eau de source,18008,eau de source,water,spring water,314,31,13124,3124318008,3124
+954,954,31,eaux,5,autre eau,18009,eau minérale ou non faiblement minéralisée,water,other water,315,31,13125,3125318009,3125
+955,955,31,eaux,5,autre eau,18044,eau minérale sans précision,water,other water,315,31,13125,3125318044,3125
+956,956,31,eaux,5,autre eau,92053,autre eau minérale,water,other water,315,31,13125,3125392053,3125
+957,957,32,boissons fraîches sans alcool,1,jus de fruits,2000,jus d'ananas à base de concentré pasteurisé,fresh drinks,juice,321,32,13221,322132000,3221
+958,958,32,boissons fraîches sans alcool,1,jus de fruits,2002,cocktail de purs jus de fruits multivitaminé pasteurisé,fresh drinks,juice,321,32,13221,322132002,3221
+959,959,32,boissons fraîches sans alcool,1,jus de fruits,2004,jus de fruits sans précision,fresh drinks,juice,321,32,13221,322132004,3221
+960,960,32,boissons fraîches sans alcool,1,jus de fruits,2006,pur jus de carottes pasteurisé,fresh drinks,juice,321,32,13221,322132006,3221
+961,961,32,boissons fraîches sans alcool,1,jus de fruits,2007,jus de citron pressé maison,fresh drinks,juice,321,32,13221,322132007,3221
+962,962,32,boissons fraîches sans alcool,1,jus de fruits,2012,jus d'orange à base de concentré pasteurisé,fresh drinks,juice,321,32,13221,322132012,3221
+963,963,32,boissons fraîches sans alcool,1,jus de fruits,2013,jus d'orange pressé maison,fresh drinks,juice,321,32,13221,322132013,3221
+964,964,32,boissons fraîches sans alcool,1,jus de fruits,2014,jus de pomme à base de concentré pasteurisé,fresh drinks,juice,321,32,13221,322132014,3221
+965,965,32,boissons fraîches sans alcool,1,jus de fruits,2015,jus de pamplemousse à base de concentré pasteurisé,fresh drinks,juice,321,32,13221,322132015,3221
+966,966,32,boissons fraîches sans alcool,1,jus de fruits,2016,pur jus de raisin pasteurisé,fresh drinks,juice,321,32,13221,322132016,3221
+967,967,32,boissons fraîches sans alcool,1,jus de fruits,2021,pur jus de tomate pasteurisé,fresh drinks,juice,321,32,13221,322132021,3221
+968,968,32,boissons fraîches sans alcool,1,jus de fruits,2023,pur jus de mangue frais,fresh drinks,juice,321,32,13221,322132023,3221
+969,969,32,boissons fraîches sans alcool,1,jus de fruits,2025,pur jus de pamplemousse frais,fresh drinks,juice,321,32,13221,322132025,3221
+970,970,32,boissons fraîches sans alcool,1,jus de fruits,2027,pur jus de pamplemousse pasteurisé,fresh drinks,juice,321,32,13221,322132027,3221
+971,971,32,boissons fraîches sans alcool,1,jus de fruits,2031,pur jus de lime (citron vert) pasteurisé,fresh drinks,juice,321,32,13221,322132031,3221
+972,972,32,boissons fraîches sans alcool,1,jus de fruits,2034,pur jus de mandarine ou de clémentine pasteurisé,fresh drinks,juice,321,32,13221,322132034,3221
+973,973,32,boissons fraîches sans alcool,1,jus de fruits,2035,cocktail de purs jus de fruits pasteurisé,fresh drinks,juice,321,32,13221,322132035,3221
+974,974,32,boissons fraîches sans alcool,1,jus de fruits,2069,cocktail de jus de fruits à base de concentré pasteurisé,fresh drinks,juice,321,32,13221,322132069,3221
+975,975,32,boissons fraîches sans alcool,1,jus de fruits,2070,pur jus d'orange pasteurisé,fresh drinks,juice,321,32,13221,322132070,3221
+976,976,32,boissons fraîches sans alcool,1,jus de fruits,2073,pur jus d'ananas pasteurisé,fresh drinks,juice,321,32,13221,322132073,3221
+977,977,32,boissons fraîches sans alcool,1,jus de fruits,2074,pur jus de pomme pasteurisé,fresh drinks,juice,321,32,13221,322132074,3221
+978,978,32,boissons fraîches sans alcool,1,jus de fruits,2075,jus de légumes,fresh drinks,juice,321,32,13221,322132075,3221
+979,979,32,boissons fraîches sans alcool,1,jus de fruits,92052,autre jus de fruits,fresh drinks,juice,321,32,13221,3221392052,3221
+980,980,32,boissons fraîches sans alcool,2,nectars,2043,nectar d'abricot pasteurisé,fresh drinks,nectar,322,32,13222,322232043,3222
+981,981,32,boissons fraîches sans alcool,2,nectars,2054,nectar de poire pasteurisé,fresh drinks,nectar,322,32,13222,322232054,3222
+982,982,32,boissons fraîches sans alcool,2,nectars,2060,nectar de cocktail de fruits multivitaminé pasteurisé,fresh drinks,nectar,322,32,13222,322232060,3222
+983,983,32,boissons fraîches sans alcool,2,nectars,2061,nectar de cocktail de fruits pasteurisé,fresh drinks,nectar,322,32,13222,322232061,3222
+984,984,32,boissons fraîches sans alcool,2,nectars,2365,nectar de fruit de la passion pasteurisé,fresh drinks,nectar,322,32,13222,322232365,3222
+985,985,32,boissons fraîches sans alcool,2,nectars,2375,nectar d'orange pasteurisé,fresh drinks,nectar,322,32,13222,322232375,3222
+986,986,32,boissons fraîches sans alcool,3,boissons aux fruits,18304,boisson plate aux fruits 10 à 50% de jus à teneur réduite en sucre type minute m,fresh drinks,fruit drinks,323,32,13223,3223318304,3223
+987,987,32,boissons fraîches sans alcool,3,boissons aux fruits,18330,boisson plate aux fruits exotiques 10 à 50% de jus sucrée type banga exotique ou,fresh drinks,fruit drinks,323,32,13223,3223318330,3223
+988,988,32,boissons fraîches sans alcool,3,boissons aux fruits,18342,boisson plate à l'orange 10 à 50% de jus sucrée type oasis orange,fresh drinks,fruit drinks,323,32,13223,3223318342,3223
+989,989,32,boissons fraîches sans alcool,3,boissons aux fruits,18350,boisson diététique pour le sport type sunny delight powerade orange dunk isotoni,fresh drinks,fruit drinks,323,32,13223,3223318350,3223
+990,990,32,boissons fraîches sans alcool,4,sodas et colas,18001,soda sans jus de fruit light,fresh drinks,sodas colas,324,32,13224,3224318001,3224
+991,991,32,boissons fraîches sans alcool,4,sodas et colas,18010,limonade ou clear lime sucrée type seven'up ou sprite,fresh drinks,sodas colas,324,32,13224,3224318010,3224
+992,992,32,boissons fraîches sans alcool,4,sodas et colas,18018,soda au cola type coca-cola ou pepsi-cola,fresh drinks,sodas colas,324,32,13224,3224318018,3224
+993,993,32,boissons fraîches sans alcool,4,sodas et colas,18019,boisson gazeuse aux fruits 10 à 50% de jus sucrée type fanta orange,fresh drinks,sodas colas,324,32,13224,3224318019,3224
+994,994,32,boissons fraîches sans alcool,4,sodas et colas,18037,soda au cola à teneur réduite en sucre édulcorants + sucre type coca-cola blak,fresh drinks,sodas colas,324,32,13224,3224318037,3224
+995,995,32,boissons fraîches sans alcool,4,sodas et colas,18049,boisson gazeuse sucrée aux fruits moins de 10% de fruits type gini ou schweppes,fresh drinks,sodas colas,324,32,13224,3224318049,3224
+996,996,32,boissons fraîches sans alcool,4,sodas et colas,18060,soda au cola light type coca-cola light ou pepsi-cola light,fresh drinks,sodas colas,324,32,13224,3224318060,3224
+997,997,32,boissons fraîches sans alcool,4,sodas et colas,18301,boisson gazeuse au jus d'orange avec pulpe environ 14% de fruit sucrée type oran,fresh drinks,sodas colas,324,32,13224,3224318301,3224
+998,998,32,boissons fraîches sans alcool,4,sodas et colas,18340,boisson gazeuse aux fruits et aux édulcorants type fanta light orange ou orangin,fresh drinks,sodas colas,324,32,13224,3224318340,3224
+999,999,32,boissons fraîches sans alcool,4,sodas et colas,18344,tonic type schweppes indian tonic,fresh drinks,sodas colas,324,32,13224,3224318344,3224
+1000,1000,32,boissons fraîches sans alcool,5,autres boissons fraîches,1011,boisson ou apéritif anisé sans alcool,fresh drinks,other fresh drinks,325,32,13225,322531011,3225
+1001,1001,32,boissons fraîches sans alcool,5,autres boissons fraîches,2008,cocktail sans alcool à base de jus de fruits et de sirop,fresh drinks,other fresh drinks,325,32,13225,322532008,3225
+1002,1002,32,boissons fraîches sans alcool,5,autres boissons fraîches,5030,bière sans alcool type tourtel,fresh drinks,other fresh drinks,325,32,13225,322535030,3225
+1003,1003,32,boissons fraîches sans alcool,5,autres boissons fraîches,18011,eau de noix de coco,fresh drinks,other fresh drinks,325,32,13225,3225318011,3225
+1004,1004,32,boissons fraîches sans alcool,5,autres boissons fraîches,18017,sirop aux extraits de fruits à diluer type menthe ou fraise,fresh drinks,other fresh drinks,325,32,13225,3225318017,3225
+1005,1005,32,boissons fraîches sans alcool,5,autres boissons fraîches,18027,eau minérale ou de source aromatisée sans précision,fresh drinks,other fresh drinks,325,32,13225,3225318027,3225
+1006,1006,32,boissons fraîches sans alcool,5,autres boissons fraîches,18029,boisson rafraîchissante sans alcool sans précision,fresh drinks,other fresh drinks,325,32,13225,3225318029,3225
+1007,1007,32,boissons fraîches sans alcool,5,autres boissons fraîches,18041,lait de noix de coco,fresh drinks,other fresh drinks,325,32,13225,3225318041,3225
+1008,1008,32,boissons fraîches sans alcool,5,autres boissons fraîches,18047,eau minérale ou de source aromatisée aux agrumes,fresh drinks,other fresh drinks,325,32,13225,3225318047,3225
+1009,1009,32,boissons fraîches sans alcool,5,autres boissons fraîches,18058,sirop aux extraits de fruits dilué,fresh drinks,other fresh drinks,325,32,13225,3225318058,3225
+1010,1010,32,boissons fraîches sans alcool,5,autres boissons fraîches,18065,boisson au thé aromatisée aux édulcorants type nestea pêche blanche light,fresh drinks,other fresh drinks,325,32,13225,3225318065,3225
+1011,1011,32,boissons fraîches sans alcool,5,autres boissons fraîches,18075,boisson au thé aromatisée sucrée type nestea pêche blanche,fresh drinks,other fresh drinks,325,32,13225,3225318075,3225
+1012,1012,32,boissons fraîches sans alcool,5,autres boissons fraîches,18220,citron ou lime préparation à diluer,fresh drinks,other fresh drinks,325,32,13225,3225318220,3225
+1013,1013,32,boissons fraîches sans alcool,5,autres boissons fraîches,18341,boisson gazeuse à la pomme type brut de pomme ou champomy,fresh drinks,other fresh drinks,325,32,13225,3225318341,3225
+1014,1014,32,boissons fraîches sans alcool,5,autres boissons fraîches,18343,boisson au jus de fruits et au lait type danao,fresh drinks,other fresh drinks,325,32,13225,3225318343,3225
+1015,1015,32,boissons fraîches sans alcool,5,autres boissons fraîches,18900,boisson au soja ou tonyu ou lait de soja nature,fresh drinks,other fresh drinks,325,32,13225,3225318900,3225
+1016,1016,32,boissons fraîches sans alcool,5,autres boissons fraîches,92054,autre boisson rafraîchissante sans alcool,fresh drinks,other fresh drinks,325,32,13225,3225392054,3225
+1017,1017,33,boissons alcoolisées,1,vin,5200,vin blanc 11°,alcohol,wine,331,33,13321,332135200,3321
+1018,1018,33,boissons alcoolisées,1,vin,5201,vin blanc mousseux,alcohol,wine,331,33,13321,332135201,3321
+1019,1019,33,boissons alcoolisées,1,vin,5203,vin rouge 10°,alcohol,wine,331,33,13321,332135203,3321
+1020,1020,33,boissons alcoolisées,1,vin,5204,vin rouge 11°,alcohol,wine,331,33,13321,332135204,3321
+1021,1021,33,boissons alcoolisées,1,vin,5205,vin rouge 12°,alcohol,wine,331,33,13321,332135205,3321
+1022,1022,33,boissons alcoolisées,1,vin,5206,vin rosé 11°,alcohol,wine,331,33,13321,332135206,3321
+1023,1023,33,boissons alcoolisées,1,vin,5207,champagne,alcohol,wine,331,33,13321,332135207,3321
+1024,1024,33,boissons alcoolisées,1,vin,5208,vin rouge 13° et plus,alcohol,wine,331,33,13321,332135208,3321
+1025,1025,33,boissons alcoolisées,1,vin,5210,vin sans précision,alcohol,wine,331,33,13321,332135210,3321
+1026,1026,33,boissons alcoolisées,2,bière,5000,bière brune,alcohol,beer,332,33,13322,332235000,3322
+1027,1027,33,boissons alcoolisées,2,bière,5001,bière cœur de marché à 4-5° d'alcool type kronenbourg ou 33 export,alcohol,beer,332,33,13322,332235001,3322
+1028,1028,33,boissons alcoolisées,2,bière,5002,bière forte à plus de 8° d'alcool type duvel bavaria 8.6 ou leffe triple,alcohol,beer,332,33,13322,332235002,3322
+1029,1029,33,boissons alcoolisées,2,bière,5010,bière spéciale à 5-6° d'alcool type 1664 pelforth ambrée ou fischer heineken,alcohol,beer,332,33,13322,332235010,3322
+1030,1030,33,boissons alcoolisées,2,bière,5011,bière de spécialités ou d'abbaye régionales ou de brasserie degré d'alcool varia,alcohol,beer,332,33,13322,332235011,3322
+1031,1031,33,boissons alcoolisées,3,cidre,5003,cidre,alcohol,cider,333,33,13323,332335003,3323
+1032,1032,33,boissons alcoolisées,3,cidre,5006,cidre brut,alcohol,cider,333,33,13323,332335006,3323
+1033,1033,33,boissons alcoolisées,3,cidre,5007,cidre doux,alcohol,cider,333,33,13323,332335007,3323
+1034,1034,33,boissons alcoolisées,3,cidre,5020,cidre traditionnel,alcohol,cider,333,33,13323,332335020,3323
+1035,1035,33,boissons alcoolisées,4,spiritueux et vins cuits,1000,pastis,alcohol,spirits fortified wine,334,33,13324,332431000,3324
+1036,1036,33,boissons alcoolisées,4,spiritueux et vins cuits,1001,eau-de-vie,alcohol,spirits fortified wine,334,33,13324,332431001,3324
+1037,1037,33,boissons alcoolisées,4,spiritueux et vins cuits,1002,gin,alcohol,spirits fortified wine,334,33,13324,332431002,3324
+1038,1038,33,boissons alcoolisées,4,spiritueux et vins cuits,1003,liqueurs,alcohol,spirits fortified wine,334,33,13324,332431003,3324
+1039,1039,33,boissons alcoolisées,4,spiritueux et vins cuits,1004,rhum,alcohol,spirits fortified wine,334,33,13324,332431004,3324
+1040,1040,33,boissons alcoolisées,4,spiritueux et vins cuits,1005,whisky,alcohol,spirits fortified wine,334,33,13324,332431005,3324
+1041,1041,33,boissons alcoolisées,4,spiritueux et vins cuits,1006,vin doux naturel ou vin muté autre que porto type muscat banyuls ou maury,alcohol,spirits fortified wine,334,33,13324,332431006,3324
+1042,1042,33,boissons alcoolisées,4,spiritueux et vins cuits,1007,apéritif à base de vin ou vermouth type martini,alcohol,spirits fortified wine,334,33,13324,332431007,3324
+1043,1043,33,boissons alcoolisées,4,spiritueux et vins cuits,1008,vodka,alcohol,spirits fortified wine,334,33,13324,332431008,3324
+1044,1044,33,boissons alcoolisées,4,spiritueux et vins cuits,1009,apéritif à la gentiane,alcohol,spirits fortified wine,334,33,13324,332431009,3324
+1045,1045,33,boissons alcoolisées,4,spiritueux et vins cuits,90150,cognac armagnac,alcohol,spirits fortified wine,334,33,13324,3324390150,3324
+1046,1046,33,boissons alcoolisées,4,spiritueux et vins cuits,90152,porto,alcohol,spirits fortified wine,334,33,13324,3324390152,3324
+1047,1047,33,boissons alcoolisées,5,cocktails et mélanges,42,cocktail type punch planteur,alcohol,cocktails,335,33,13325,3325342,3325
+1048,1048,33,boissons alcoolisées,5,cocktails et mélanges,43,cocktail alcoolisé,alcohol,cocktails,335,33,13325,3325343,3325
+1049,1049,33,boissons alcoolisées,5,cocktails et mélanges,1010,pastis prêt à boire (1+5),alcohol,cocktails,335,33,13325,332531010,3325
+1050,1050,33,boissons alcoolisées,5,cocktails et mélanges,1017,sangria,alcohol,cocktails,335,33,13325,332531017,3325
+1051,1051,33,boissons alcoolisées,5,cocktails et mélanges,1018,kir,alcohol,cocktails,335,33,13325,332531018,3325
+1052,1052,33,boissons alcoolisées,5,cocktails et mélanges,1019,kir royal,alcohol,cocktails,335,33,13325,332531019,3325
+1053,1053,33,boissons alcoolisées,5,cocktails et mélanges,5004,panaché,alcohol,cocktails,335,33,13325,332535004,3325
+1054,1054,33,boissons alcoolisées,5,cocktails et mélanges,5100,pétillant de fruits,alcohol,cocktails,335,33,13325,332535100,3325
+1055,1055,34,café,99,sans,18004,café noir prêt à boire non sucré,coffee,coffee,3499,34,134299,34299318004,34299
+1056,1056,34,café,99,sans,18005,café soluble en poudre,coffee,coffee,3499,34,134299,34299318005,34299
+1057,1057,34,café,99,sans,18070,café décaféiné prêt à boire non sucré,coffee,coffee,3499,34,134299,34299318070,34299
+1058,1058,34,café,99,sans,18071,café expresso non sucré,coffee,coffee,3499,34,134299,34299318071,34299
+1059,1059,34,café,99,sans,18072,café soluble décaféiné reconstitué prêt à boire non sucré,coffee,coffee,3499,34,134299,34299318072,34299
+1060,1060,34,café,99,sans,18073,café soluble reconstitué prêt à boire non sucré,coffee,coffee,3499,34,134299,34299318073,34299
+1061,1061,34,café,99,sans,18151,café au lait ou café crème ou cappuccino non sucré,coffee,coffee,3499,34,134299,34299318151,34299
+1062,1062,35,autres boissons chaudes,1,"cacao, poudres et boissons cacaotées",18002,boisson cacaotée sucrée au lait type cacolac,other hot drinks,cocoa,351,35,13521,3521318002,3521
+1063,1063,35,autres boissons chaudes,1,"cacao, poudres et boissons cacaotées",18100,cacao en poudre non sucré type van houten,other hot drinks,cocoa,351,35,13521,3521318100,3521
+1064,1064,35,autres boissons chaudes,1,"cacao, poudres et boissons cacaotées",18101,poudre cacaotée et sucrée pour boisson au chocolat,other hot drinks,cocoa,351,35,13521,3521318101,3521
+1065,1065,35,autres boissons chaudes,1,"cacao, poudres et boissons cacaotées",18104,boisson instantanée cacaotée sucrée reconstituée,other hot drinks,cocoa,351,35,13521,3521318104,3521
+1066,1066,35,autres boissons chaudes,1,"cacao, poudres et boissons cacaotées",18105,poudre cacaotée sucrée enrichie pour boisson,other hot drinks,cocoa,351,35,13521,3521318105,3521
+1067,1067,35,autres boissons chaudes,1,"cacao, poudres et boissons cacaotées",18106,boisson instantanée cacaotée enrichie en vitamines reconstituée,other hot drinks,cocoa,351,35,13521,3521318106,3521
+1068,1068,35,autres boissons chaudes,2,chicorée et poudre maltée,18102,poudre maltée et sucrée pour boisson,other hot drinks,chicory,352,35,13522,3522318102,3522
+1069,1069,35,autres boissons chaudes,2,chicorée et poudre maltée,18150,poudre soluble à base de chicorée et de café type ricoré,other hot drinks,chicory,352,35,13522,3522318150,3522
+1070,1070,35,autres boissons chaudes,2,chicorée et poudre maltée,18152,chicorée en poudre soluble type leroux,other hot drinks,chicory,352,35,13522,3522318152,3522
+1071,1071,35,autres boissons chaudes,3,thé et infusions,18020,thé infusé non sucré,other hot drinks,tea infusion,353,35,13523,3523318020,3523
+1072,1072,35,autres boissons chaudes,3,thé et infusions,18022,tisane infusée non sucrée,other hot drinks,tea infusion,353,35,13523,3523318022,3523
+1073,1073,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25404,pizza au fromage,pizzas savoury tarts and pastry,pizza,361,36,13621,3621325404,3621
+1074,1074,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25435,pizza jambon fromage,pizzas savoury tarts and pastry,pizza,361,36,13621,3621325435,3621
+1075,1075,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25472,pizza 4 saisons,pizzas savoury tarts and pastry,pizza,361,36,13621,3621325472,3621
+1076,1076,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25478,pizza 4 fromages,pizzas savoury tarts and pastry,pizza,361,36,13621,3621325478,3621
+1077,1077,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25515,pizza spéciale,pizzas savoury tarts and pastry,pizza,361,36,13621,3621325515,3621
+1078,1078,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25516,pizza sans précision,pizzas savoury tarts and pastry,pizza,361,36,13621,3621325516,3621
+1079,1079,36,"pizzas, quiches et pâtisseries salées",1,pizzas,25548,pizza royale (jambon fromage champignon),pizzas savoury tarts and pastry,pizza,361,36,13621,3621325548,3621
+1080,1080,36,"pizzas, quiches et pâtisseries salées",1,pizzas,92051,autre pizza,pizzas savoury tarts and pastry,pizza,361,36,13621,3621392051,3621
+1081,1081,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,7814,cake salé avec garniture (viande poisson volaille fromage légumes …),pizzas savoury tarts and pastry,savoury tart,362,36,13622,362237814,3622
+1082,1082,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25405,quiche lorraine,pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325405,3622
+1083,1083,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25417,tarte aux légumes,pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325417,3622
+1084,1084,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25444,tarte au fromage ou quiche au fromage,pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325444,3622
+1085,1085,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25550,flamenkueche (tarte salée aux lardons),pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325550,3622
+1086,1086,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25553,tarte aux poireaux,pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325553,3622
+1087,1087,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25554,tarte provençale à la tomate,pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325554,3622
+1088,1088,36,"pizzas, quiches et pâtisseries salées",2,quiches et tartes salées,25555,tarte au saumon et à l'oseille,pizzas savoury tarts and pastry,savoury tart,362,36,13622,3622325555,3622
+1089,1089,36,"pizzas, quiches et pâtisseries salées",3,feuilletés et friands,25151,feuilleté au saumon,pizzas savoury tarts and pastry,puff pastry,363,36,13623,3623325151,3623
+1090,1090,36,"pizzas, quiches et pâtisseries salées",3,feuilletés et friands,25401,friand au fromage artisanal,pizzas savoury tarts and pastry,puff pastry,363,36,13623,3623325401,3623
+1091,1091,36,"pizzas, quiches et pâtisseries salées",3,feuilletés et friands,25402,friand à la viande artisanal,pizzas savoury tarts and pastry,puff pastry,363,36,13623,3623325402,3623
+1092,1092,36,"pizzas, quiches et pâtisseries salées",3,feuilletés et friands,25418,croissant au jambon,pizzas savoury tarts and pastry,puff pastry,363,36,13623,3623325418,3623
+1093,1093,36,"pizzas, quiches et pâtisseries salées",3,feuilletés et friands,25508,feuilleté fourré béchamel jambon fromage,pizzas savoury tarts and pastry,puff pastry,363,36,13623,3623325508,3623
+1094,1094,37,"sandwichs, casse-croûte",1,sandwichs baguette,25431,sandwich baguette thon crudités,sandwich,sandwich baguette,371,37,13721,3721325431,3721
+1095,1095,37,"sandwichs, casse-croûte",1,sandwichs baguette,25475,sandwich baguette jambon œuf dur crudités,sandwich,sandwich baguette,371,37,13721,3721325475,3721
+1096,1096,37,"sandwichs, casse-croûte",1,sandwichs baguette,25476,sandwich baguette poulet crudités,sandwich,sandwich baguette,371,37,13721,3721325476,3721
+1097,1097,37,"sandwichs, casse-croûte",1,sandwichs baguette,25488,sandwich baguette saumon fumé beurre,sandwich,sandwich baguette,371,37,13721,3721325488,3721
+1098,1098,37,"sandwichs, casse-croûte",1,sandwichs baguette,25517,sandwich baguette jambon beurre,sandwich,sandwich baguette,371,37,13721,3721325517,3721
+1099,1099,37,"sandwichs, casse-croûte",1,sandwichs baguette,25518,sandwich baguette camembert ou autre fromage et beurre,sandwich,sandwich baguette,371,37,13721,3721325518,3721
+1100,1100,37,"sandwichs, casse-croûte",1,sandwichs baguette,25519,sandwich baguette pâté cornichons,sandwich,sandwich baguette,371,37,13721,3721325519,3721
+1101,1101,37,"sandwichs, casse-croûte",1,sandwichs baguette,25520,sandwich baguette saucisson sec beurre,sandwich,sandwich baguette,371,37,13721,3721325520,3721
+1102,1102,37,"sandwichs, casse-croûte",1,sandwichs baguette,25521,sandwich baguette jambon emmental beurre,sandwich,sandwich baguette,371,37,13721,3721325521,3721
+1103,1103,37,"sandwichs, casse-croûte",1,sandwichs baguette,25522,sandwich sans précision,sandwich,sandwich baguette,371,37,13721,3721325522,3721
+1104,1104,37,"sandwichs, casse-croûte",1,sandwichs baguette,25530,sandwich baguette crudités diverses mayonnaise,sandwich,sandwich baguette,371,37,13721,3721325530,3721
+1105,1105,37,"sandwichs, casse-croûte",1,sandwichs baguette,25531,sandwich baguette dinde crudités,sandwich,sandwich baguette,371,37,13721,3721325531,3721
+1106,1106,37,"sandwichs, casse-croûte",1,sandwichs baguette,25532,sandwich baguette œuf crudités,sandwich,sandwich baguette,371,37,13721,3721325532,3721
+1107,1107,37,"sandwichs, casse-croûte",1,sandwichs baguette,25533,sandwich baguette porc crudités,sandwich,sandwich baguette,371,37,13721,3721325533,3721
+1108,1108,37,"sandwichs, casse-croûte",1,sandwichs baguette,25535,sandwich baguette merguez ketchup moutarde,sandwich,sandwich baguette,371,37,13721,3721325535,3721
+1109,1109,37,"sandwichs, casse-croûte",1,sandwichs baguette,25536,sandwich baguette salami beurre,sandwich,sandwich baguette,371,37,13721,3721325536,3721
+1110,1110,37,"sandwichs, casse-croûte",1,sandwichs baguette,25543,sandwich baguette sans précision,sandwich,sandwich baguette,371,37,13721,3721325543,3721
+1111,1111,37,"sandwichs, casse-croûte",2,hamburgers et hot-dog,25403,hot-dog,sandwich,hamburger hotdog,372,37,13722,3722325403,3722
+1112,1112,37,"sandwichs, casse-croûte",2,hamburgers et hot-dog,25413,hamburger,sandwich,hamburger hotdog,372,37,13722,3722325413,3722
+1113,1113,37,"sandwichs, casse-croûte",2,hamburgers et hot-dog,25414,cheeseburger,sandwich,hamburger hotdog,372,37,13722,3722325414,3722
+1114,1114,37,"sandwichs, casse-croûte",2,hamburgers et hot-dog,25415,cheeseburger double,sandwich,hamburger hotdog,372,37,13722,3722325415,3722
+1115,1115,37,"sandwichs, casse-croûte",3,autres sandwichs,25400,croque-monsieur,sandwich,other sandwiche,373,37,13723,3723325400,3723
+1116,1116,37,"sandwichs, casse-croûte",3,autres sandwichs,25428,sandwich grec ou kebab pita et crudités,sandwich,other sandwiche,373,37,13723,3723325428,3723
+1117,1117,37,"sandwichs, casse-croûte",3,autres sandwichs,25434,sandwich panini jambon cru mozzarella et tomates,sandwich,other sandwiche,373,37,13723,3723325434,3723
+1118,1118,37,"sandwichs, casse-croûte",3,autres sandwichs,25513,pan bagna,sandwich,other sandwiche,373,37,13723,3723325513,3723
+1119,1119,37,"sandwichs, casse-croûte",3,autres sandwichs,25523,canapés ou toasts salés aux garnitures variées,sandwich,other sandwiche,373,37,13723,3723325523,3723
+1120,1120,37,"sandwichs, casse-croûte",3,autres sandwichs,25542,croque-madame (à l'œuf),sandwich,other sandwiche,373,37,13723,3723325542,3723
+1121,1121,37,"sandwichs, casse-croûte",3,autres sandwichs,25544,sandwich pain de mie garnitures diverses sans précision,sandwich,other sandwiche,373,37,13723,3723325544,3723
+1122,1122,37,"sandwichs, casse-croûte",3,autres sandwichs,92055,autre sandwich,sandwich,other sandwiche,373,37,13723,3723392055,3723
+1123,1123,38,soupes et bouillons,1,potages et soupes,25900,soupe aux lentilles,soups and broths,soup,381,38,13821,3821325900,3821
+1124,1124,38,soupes et bouillons,1,potages et soupes,25902,soupe aux légumes type fait maison,soups and broths,soup,381,38,13821,3821325902,3821
+1125,1125,38,soupes et bouillons,1,potages et soupes,25903,soupe aux légumes préemballée à réchauffer,soups and broths,soup,381,38,13821,3821325903,3821
+1126,1126,38,soupes et bouillons,1,potages et soupes,25904,soupe de poissons et/ou de crustacés préemballée à réchauffer,soups and broths,soup,381,38,13821,3821325904,3821
+1127,1127,38,soupes et bouillons,1,potages et soupes,25905,soupe aux légumes déshydratée reconstituée,soups and broths,soup,381,38,13821,3821325905,3821
+1128,1128,38,soupes et bouillons,1,potages et soupes,25906,soupe poireau pomme de terre type fait maison,soups and broths,soup,381,38,13821,3821325906,3821
+1129,1129,38,soupes et bouillons,1,potages et soupes,25907,soupe poireau pomme de terre préemballée à réchauffer,soups and broths,soup,381,38,13821,3821325907,3821
+1130,1130,38,soupes et bouillons,1,potages et soupes,25908,soupe à la volaille et aux vermicelles préemballée à réchauffer ou déshydratée r,soups and broths,soup,381,38,13821,3821325908,3821
+1131,1131,38,soupes et bouillons,1,potages et soupes,25910,soupe à l'oignon,soups and broths,soup,381,38,13821,3821325910,3821
+1132,1132,38,soupes et bouillons,1,potages et soupes,25912,soupe aux champignons,soups and broths,soup,381,38,13821,3821325912,3821
+1133,1133,38,soupes et bouillons,1,potages et soupes,25914,soupe à la tomate préemballée à réchauffer ou déshydratée reconstituée,soups and broths,soup,381,38,13821,3821325914,3821
+1134,1134,38,soupes et bouillons,1,potages et soupes,25916,minestrone préemballée à réchauffer ou déshydratée reconstituée,soups and broths,soup,381,38,13821,3821325916,3821
+1135,1135,38,soupes et bouillons,1,potages et soupes,25917,soupe au pistou préemballée à réchauffer ou déshydratée reconstituée,soups and broths,soup,381,38,13821,3821325917,3821
+1136,1136,38,soupes et bouillons,1,potages et soupes,25922,soupe chinoise,soups and broths,soup,381,38,13821,3821325922,3821
+1137,1137,38,soupes et bouillons,1,potages et soupes,25945,soupe au potiron,soups and broths,soup,381,38,13821,3821325945,3821
+1138,1138,38,soupes et bouillons,2,bouillons,25909,bouillon de viande et de légumes,soups and broths,broth,382,38,13822,3822325909,3822
+1139,1139,38,soupes et bouillons,2,bouillons,25946,bouillon de viande déshydraté reconstitué type bouillon de bœuf knorr,soups and broths,broth,382,38,13822,3822325946,3822
+1140,1140,38,soupes et bouillons,2,bouillons,25947,bouillon de volaille déshydraté reconstitué type bouillon de poule knorr,soups and broths,broth,382,38,13822,3822325947,3822
+1141,1141,38,soupes et bouillons,2,bouillons,25948,bouillon végétal,soups and broths,broth,382,38,13822,3822325948,3822
+1142,1142,39,plats composés,1,plats garnis à base de viande,25001,blanquette de veau,mixed dishes,meat dish,391,39,13921,3921325001,3921
+1143,1143,39,plats composés,1,plats garnis à base de viande,25002,cassoulet en conserve,mixed dishes,meat dish,391,39,13921,3921325002,3921
+1144,1144,39,plats composés,1,plats garnis à base de viande,25003,choucroute garnie en conserve,mixed dishes,meat dish,391,39,13921,3921325003,3921
+1145,1145,39,plats composés,1,plats garnis à base de viande,25010,petit salé aux lentilles ou saucisse aux lentilles,mixed dishes,meat dish,391,39,13921,3921325010,3921
+1146,1146,39,plats composés,1,plats garnis à base de viande,25013,pot-au-feu,mixed dishes,meat dish,391,39,13921,3921325013,3921
+1147,1147,39,plats composés,1,plats garnis à base de viande,25029,couscous de mouton garni,mixed dishes,meat dish,391,39,13921,3921325029,3921
+1148,1148,39,plats composés,1,plats garnis à base de viande,25031,paella,mixed dishes,meat dish,391,39,13921,3921325031,3921
+1149,1149,39,plats composés,1,plats garnis à base de viande,25033,bœuf bourguignon,mixed dishes,meat dish,391,39,13921,3921325033,3921
+1150,1150,39,plats composés,1,plats garnis à base de viande,25065,bœuf carottes,mixed dishes,meat dish,391,39,13921,3921325065,3921
+1151,1151,39,plats composés,1,plats garnis à base de viande,25067,osso buco à la milanaise,mixed dishes,meat dish,391,39,13921,3921325067,3921
+1152,1152,39,plats composés,1,plats garnis à base de viande,25071,potée auvergnate,mixed dishes,meat dish,391,39,13921,3921325071,3921
+1153,1153,39,plats composés,1,plats garnis à base de viande,25092,poulet basquaise au riz,mixed dishes,meat dish,391,39,13921,3921325092,3921
+1154,1154,39,plats composés,1,plats garnis à base de viande,25093,poulet basquaise aux pâtes,mixed dishes,meat dish,391,39,13921,3921325093,3921
+1155,1155,39,plats composés,1,plats garnis à base de viande,25111,chili con carne,mixed dishes,meat dish,391,39,13921,3921325111,3921
+1156,1156,39,plats composés,1,plats garnis à base de viande,25116,poulet au curry avec riz ou semoule préemballé,mixed dishes,meat dish,391,39,13921,3921325116,3921
+1157,1157,39,plats composés,1,plats garnis à base de viande,25124,navarin d'agneau,mixed dishes,meat dish,391,39,13921,3921325124,3921
+1158,1158,39,plats composés,1,plats garnis à base de viande,25127,couscous royal à la viande,mixed dishes,meat dish,391,39,13921,3921325127,3921
+1159,1159,39,plats composés,1,plats garnis à base de viande,25138,couscous au poulet,mixed dishes,meat dish,391,39,13921,3921325138,3921
+1160,1160,39,plats composés,1,plats garnis à base de viande,25159,tajine de mouton,mixed dishes,meat dish,391,39,13921,3921325159,3921
+1161,1161,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25009,hachis parmentier,mixed dishes,pasta or potatoe dish,392,39,13922,3922325009,3922
+1162,1162,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25019,raviolis à la viande à la sauce tomate en conserve,mixed dishes,pasta or potatoe dish,392,39,13922,3922325019,3922
+1163,1163,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25056,gratin dauphinois,mixed dishes,pasta or potatoe dish,392,39,13922,3922325056,3922
+1164,1164,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25080,cannellonis à la viande,mixed dishes,pasta or potatoe dish,392,39,13922,3922325080,3922
+1165,1165,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25081,lasagnes à la bolognaise,mixed dishes,pasta or potatoe dish,392,39,13922,3922325081,3922
+1166,1166,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25085,pâtes à la bolognaise,mixed dishes,pasta or potatoe dish,392,39,13922,3922325085,3922
+1167,1167,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25109,spaghettis à la sauce tomate,mixed dishes,pasta or potatoe dish,392,39,13922,3922325109,3922
+1168,1168,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25122,gratin de pâtes,mixed dishes,pasta or potatoe dish,392,39,13922,3922325122,3922
+1169,1169,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25135,pâtes à la carbonara,mixed dishes,pasta or potatoe dish,392,39,13922,3922325135,3922
+1170,1170,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25137,tartiflette,mixed dishes,pasta or potatoe dish,392,39,13922,3922325137,3922
+1171,1171,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25156,ravioles ou raviolis au fromage,mixed dishes,pasta or potatoe dish,392,39,13922,3922325156,3922
+1172,1172,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25606,salade de pommes de terre,mixed dishes,pasta or potatoe dish,392,39,13922,3922325606,3922
+1173,1173,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25615,salade de pâtes végétarienne,mixed dishes,pasta or potatoe dish,392,39,13922,3922325615,3922
+1174,1174,39,plats composés,2,plats à base de pâtes ou de pommes de terre,25619,"salade de pâtes au légumes, avec thon ou viande",mixed dishes,pasta or potatoe dish,392,39,13922,3922325619,3922
+1175,1175,39,plats composés,3,"beignets, crêpes et bouchées à la reine",10023,beignet de crevette industriel,mixed dishes,crepe fritter,393,39,13923,3923310023,3923
+1176,1176,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25108,samossas,mixed dishes,crepe fritter,393,39,13923,3923325108,3923
+1177,1177,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25409,crêpe fourrée béchamel jambon,mixed dishes,crepe fritter,393,39,13923,3923325409,3923
+1178,1178,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25410,crêpe fourrée béchamel jambon fromage,mixed dishes,crepe fritter,393,39,13923,3923325410,3923
+1179,1179,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25412,bouchée à la reine au poulet,mixed dishes,crepe fritter,393,39,13923,3923325412,3923
+1180,1180,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25419,rouleau de printemps,mixed dishes,crepe fritter,393,39,13923,3923325419,3923
+1181,1181,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25420,nem ou pâté impérial,mixed dishes,crepe fritter,393,39,13923,3923325420,3923
+1182,1182,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25433,acra de morue,mixed dishes,crepe fritter,393,39,13923,3923325433,3923
+1183,1183,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25438,brick garni (garniture : crevettes légumes volaille viande poisson…),mixed dishes,crepe fritter,393,39,13923,3923325438,3923
+1184,1184,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25503,bouchée à la reine au poisson et fruits de mer,mixed dishes,crepe fritter,393,39,13923,3923325503,3923
+1185,1185,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25512,nugget de volaille,mixed dishes,crepe fritter,393,39,13923,3923325512,3923
+1186,1186,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25549,crêpe fourrée béchamel fromage,mixed dishes,crepe fritter,393,39,13923,3923325549,3923
+1187,1187,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25551,beignet salé fourré de viande volaille ou poisson,mixed dishes,crepe fritter,393,39,13923,3923325551,3923
+1188,1188,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25552,crêpe fourrée béchamel jambon fromage champignon,mixed dishes,crepe fritter,393,39,13923,3923325552,3923
+1189,1189,39,plats composés,3,"beignets, crêpes et bouchées à la reine",25556,beignet de légumes,mixed dishes,crepe fritter,393,39,13923,3923325556,3923
+1190,1190,39,plats composés,4,plats sans garniture,577,brandade de morue recette traditionnelle,mixed dishes,plain dish,394,39,13924,39243577,3924
+1191,1191,39,plats composés,4,plats sans garniture,8395,jambon en croûte,mixed dishes,plain dish,394,39,13924,392438395,3924
+1192,1192,39,plats composés,4,plats sans garniture,8601,tripes à la mode de caen artisanales,mixed dishes,plain dish,394,39,13924,392438601,3924
+1193,1193,39,plats composés,4,plats sans garniture,8913,quenelle de volaille en conserve,mixed dishes,plain dish,394,39,13924,392438913,3924
+1194,1194,39,plats composés,4,plats sans garniture,8934,quenelle de poisson cuite,mixed dishes,plain dish,394,39,13924,392438934,3924
+1195,1195,39,plats composés,4,plats sans garniture,8935,quenelle au naturel en conserve,mixed dishes,plain dish,394,39,13924,392438935,3924
+1196,1196,39,plats composés,4,plats sans garniture,8936,quenelle en sauce en conserve,mixed dishes,plain dish,394,39,13924,392438936,3924
+1197,1197,39,plats composés,4,plats sans garniture,20914,escalopes végétales à base de soja,mixed dishes,plain dish,394,39,13924,3924320914,3924
+1198,1198,39,plats composés,4,plats sans garniture,25089,cordon bleu de volaille type père dodu ou le gaulois,mixed dishes,plain dish,394,39,13924,3924325089,3924
+1199,1199,39,plats composés,4,plats sans garniture,25121,coq au vin,mixed dishes,plain dish,394,39,13924,3924325121,3924
+1200,1200,39,plats composés,4,plats sans garniture,25125,paupiette de veau,mixed dishes,plain dish,394,39,13924,3924325125,3924
+1201,1201,39,plats composés,4,plats sans garniture,25126,paupiette de volaille,mixed dishes,plain dish,394,39,13924,3924325126,3924
+1202,1202,39,plats composés,4,plats sans garniture,25146,poisson sauce oseille type cabillaud à l'oseille marie,mixed dishes,plain dish,394,39,13924,3924325146,3924
+1203,1203,39,plats composés,4,plats sans garniture,25172,viande en sauce sans précision,mixed dishes,plain dish,394,39,13924,3924325172,3924
+1204,1204,39,plats composés,4,plats sans garniture,25174,poulet au curry,mixed dishes,plain dish,394,39,13924,3924325174,3924
+1205,1205,39,plats composés,4,plats sans garniture,26054,poisson en sauce surgelé,mixed dishes,plain dish,394,39,13924,3924326054,3924
+1206,1206,39,plats composés,5,plats à base de fromage,25020,soufflé au fromage,mixed dishes,cheese dish,395,39,13925,3925325020,3925
+1207,1207,39,plats composés,5,plats à base de fromage,25437,gougère,mixed dishes,cheese dish,395,39,13925,3925325437,3925
+1208,1208,39,plats composés,5,plats à base de fromage,25509,fondue savoyarde (fondue au fromage),mixed dishes,cheese dish,395,39,13925,3925325509,3925
+1209,1209,39,plats composés,6,plats à base de légumes,25103,tomate farcie,mixed dishes,vegetable dish,396,39,13926,3926325103,3926
+1210,1210,39,plats composés,6,plats à base de légumes,25123,moussaka,mixed dishes,vegetable dish,396,39,13926,3926325123,3926
+1211,1211,39,plats composés,6,plats à base de légumes,25130,gratin endives jambon,mixed dishes,vegetable dish,396,39,13926,3926325130,3926
+1212,1212,39,plats composés,6,plats à base de légumes,25162,gratin de légumes,mixed dishes,vegetable dish,396,39,13926,3926325162,3926
+1213,1213,39,plats composés,6,plats à base de légumes,25511,légumes divers farcis sauf tomate,mixed dishes,vegetable dish,396,39,13926,3926325511,3926
+1214,1214,39,plats composés,6,plats à base de légumes,25524,tomate à la provençale,mixed dishes,vegetable dish,396,39,13926,3926325524,3926
+1215,1215,39,plats composés,7,garnitures composées,25088,riz cantonais,mixed dishes,mixed garniture,397,39,13927,3927325088,3927
+1216,1216,39,plats composés,7,garnitures composées,25601,salade de thon et légumes en conserve,mixed dishes,mixed garniture,397,39,13927,3927325601,3927
+1217,1217,39,plats composés,7,garnitures composées,25602,salade composée avec viande ou poisson en conserve,mixed dishes,mixed garniture,397,39,13927,3927325602,3927
+1218,1218,39,plats composés,7,garnitures composées,25608,taboulé ou salade de couscous,mixed dishes,mixed garniture,397,39,13927,3927325608,3927
+1219,1219,39,plats composés,7,garnitures composées,25614,salade de riz,mixed dishes,mixed garniture,397,39,13927,3927325614,3927
+1220,1220,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,15016,crème de marrons vanillée en conserve,milky desserts,cream dessert,411,41,14121,4121315016,4121
+1221,1221,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,20905,crème dessert au soja nature rayon frais type sojasun nature,milky desserts,cream dessert,411,41,14121,4121320905,4121
+1222,1222,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,20909,crème dessert au soja aux fruits rayon frais type sojadélice aux pruneaux,milky desserts,cream dessert,411,41,14121,4121320909,4121
+1223,1223,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,20911,crème dessert au soja aromatisée rayon frais type sojasun chocolat,milky desserts,cream dessert,411,41,14121,4121320911,4121
+1224,1224,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39132,dessert au lait gélifié aromatisé au chocolat type dany,milky desserts,cream dessert,411,41,14121,4121339132,4121
+1225,1225,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39200,crème dessert au chocolat industrielle type danette ou petits filous,milky desserts,cream dessert,411,41,14121,4121339200,4121
+1226,1226,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39208,chocolat viennois ou liégeois,milky desserts,cream dessert,411,41,14121,4121339208,4121
+1227,1227,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39214,crème dessert à la vanille en conserve type mont-blanc ou yabon,milky desserts,cream dessert,411,41,14121,4121339214,4121
+1228,1228,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39221,dessert au lait gélifié aromatisé nappé de caramel type flanby,milky desserts,cream dessert,411,41,14121,4121339221,4121
+1229,1229,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39224,crème dessert allégée en matière grasse rayon frais type taillefine chocolat ou,milky desserts,cream dessert,411,41,14121,4121339224,4121
+1230,1230,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39229,crème dessert à la vanille enrichie en crème rayon frais type la laitière de nes,milky desserts,cream dessert,411,41,14121,4121339229,4121
+1231,1231,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39230,crème dessert rayon frais type danette,milky desserts,cream dessert,411,41,14121,4121339230,4121
+1232,1232,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39505,crème dessert appertisée type mont blanc ou yabon,milky desserts,cream dessert,411,41,14121,4121339505,4121
+1233,1233,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39506,crème dessert au chocolat en conserve,milky desserts,cream dessert,411,41,14121,4121339506,4121
+1234,1234,41,"entremets, crèmes desserts et laits gélifiés",1,crème dessert et lait gélifié,39511,crème dessert rayon frais ou appertisée sans précision,milky desserts,cream dessert,411,41,14121,4121339511,4121
+1235,1235,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,23525,flan pâtissier aux œufs ou à la parisienne,milky desserts,dessert,412,41,14122,4122323525,4122
+1236,1236,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,23535,gâteau de semoule en conserve type yabon ou mont-blanc,milky desserts,dessert,412,41,14122,4122323535,4122
+1237,1237,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,23536,gâteau de riz nappé de caramel rayon frais,milky desserts,dessert,412,41,14122,4122323536,4122
+1238,1238,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,24999,entremet sans précision,milky desserts,dessert,412,41,14122,4122324999,4122
+1239,1239,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,25445,tiramisu,milky desserts,dessert,412,41,14122,4122325445,4122
+1240,1240,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39206,mousse au chocolat industrielle rayon frais,milky desserts,dessert,412,41,14122,4122339206,4122
+1241,1241,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39209,crème caramel type charles gervais,milky desserts,dessert,412,41,14122,4122339209,4122
+1242,1242,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39211,crème dessert aux œufs ou crème renversée type senoble crème aux œufs saveur van,milky desserts,dessert,412,41,14122,4122339211,4122
+1243,1243,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39212,riz au lait rayon frais,milky desserts,dessert,412,41,14122,4122339212,4122
+1244,1244,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39213,crème brûlée,milky desserts,dessert,412,41,14122,4122339213,4122
+1245,1245,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39215,île flottante ou œufs à la neige,milky desserts,dessert,412,41,14122,4122339215,4122
+1246,1246,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39216,clafoutis aux fruits,milky desserts,dessert,412,41,14122,4122339216,4122
+1247,1247,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39218,gâteau de semoule au lait rayon frais,milky desserts,dessert,412,41,14122,4122339218,4122
+1248,1248,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39228,mousse aux fruits,milky desserts,dessert,412,41,14122,4122339228,4122
+1249,1249,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39700,crème anglaise,milky desserts,dessert,412,41,14122,4122339700,4122
+1250,1250,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,39710,crème pâtissière,milky desserts,dessert,412,41,14122,4122339710,4122
+1251,1251,41,"entremets, crèmes desserts et laits gélifiés",2,entremets,92056,autre dessert type entremet,milky desserts,dessert,412,41,14122,4122392056,4122
+1252,1252,42,compotes et fruits cuits,1,compotes,13038,compote de pomme en conserve,compotes and cooked fruits,compote,421,42,14221,4221313038,4221
+1253,1253,42,compotes et fruits cuits,1,compotes,13108,compote de fruits divers en conserve,compotes and cooked fruits,compote,421,42,14221,4221313108,4221
+1254,1254,42,compotes et fruits cuits,1,compotes,13109,compote de fruits divers allégée en conserve,compotes and cooked fruits,compote,421,42,14221,4221313109,4221
+1255,1255,42,compotes et fruits cuits,1,compotes,13998,coulis de fruits rouges framboises fraises groseilles cassis,compotes and cooked fruits,compote,421,42,14221,4221313998,4221
+1256,1256,42,compotes et fruits cuits,2,fruits au sirop,13003,ananas au sirop en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313003,4222
+1257,1257,42,compotes et fruits cuits,2,fruits au sirop,13022,litchi en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313022,4222
+1258,1258,42,compotes et fruits cuits,2,fruits au sirop,13049,macédoine de fruits au sirop en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313049,4222
+1259,1259,42,compotes et fruits cuits,2,fruits au sirop,13068,cerise au sirop en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313068,4222
+1260,1260,42,compotes et fruits cuits,2,fruits au sirop,13096,abricot au sirop en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313096,4222
+1261,1261,42,compotes et fruits cuits,2,fruits au sirop,13097,pêche au sirop en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313097,4222
+1262,1262,42,compotes et fruits cuits,2,fruits au sirop,13098,poire au sirop en conserve,compotes and cooked fruits,fruit in syrup,422,42,14222,4222313098,4222
+1263,1263,43,condiments et sauces,1,sauces,11012,mayonnaise allégée,condiment and sauces,sauces,431,43,14321,4321311012,4321
+1264,1264,43,condiments et sauces,1,sauces,11031,mayonnaise à l'huile de tournesol,condiment and sauces,sauces,431,43,14321,4321311031,4321
+1265,1265,43,condiments et sauces,1,sauces,11054,mayonnaise,condiment and sauces,sauces,431,43,14321,4321311054,4321
+1266,1266,43,condiments et sauces,1,sauces,11100,sauce barbecue,condiment and sauces,sauces,431,43,14321,4321311100,4321
+1267,1267,43,condiments et sauces,1,sauces,11102,sauce béarnaise,condiment and sauces,sauces,431,43,14321,4321311102,4321
+1268,1268,43,condiments et sauces,1,sauces,11105,sauce hollandaise,condiment and sauces,sauces,431,43,14321,4321311105,4321
+1269,1269,43,condiments et sauces,1,sauces,11106,sauce mornay,condiment and sauces,sauces,431,43,14321,4321311106,4321
+1270,1270,43,condiments et sauces,1,sauces,11107,sauce tomate sans viande,condiment and sauces,sauces,431,43,14321,4321311107,4321
+1271,1271,43,condiments et sauces,1,sauces,11108,vinaigrette à l'huile d'olive,condiment and sauces,sauces,431,43,14321,4321311108,4321
+1272,1272,43,condiments et sauces,1,sauces,11109,vinaigrette allégée,condiment and sauces,sauces,431,43,14321,4321311109,4321
+1273,1273,43,condiments et sauces,1,sauces,11110,vinaigrette sans précision,condiment and sauces,sauces,431,43,14321,4321311110,4321
+1274,1274,43,condiments et sauces,1,sauces,11113,sauce béchamel en brique,condiment and sauces,sauces,431,43,14321,4321311113,4321
+1275,1275,43,condiments et sauces,1,sauces,11114,sauce tomate à la viande ou bolognaise type panzani ou buitoni,condiment and sauces,sauces,431,43,14321,4321311114,4321
+1276,1276,43,condiments et sauces,1,sauces,11132,sauce au curry,condiment and sauces,sauces,431,43,14321,4321311132,4321
+1277,1277,43,condiments et sauces,1,sauces,11157,sauce moutarde,condiment and sauces,sauces,431,43,14321,4321311157,4321
+1278,1278,43,condiments et sauces,1,sauces,11158,sauce au beurre,condiment and sauces,sauces,431,43,14321,4321311158,4321
+1279,1279,43,condiments et sauces,1,sauces,11159,sauce à la crème,condiment and sauces,sauces,431,43,14321,4321311159,4321
+1280,1280,43,condiments et sauces,1,sauces,11160,sauce aux champignons,condiment and sauces,sauces,431,43,14321,4321311160,4321
+1281,1281,43,condiments et sauces,1,sauces,11161,sauce à la crème aux épices,condiment and sauces,sauces,431,43,14321,4321311161,4321
+1282,1282,43,condiments et sauces,1,sauces,11162,sauce à la crème aux herbes,condiment and sauces,sauces,431,43,14321,4321311162,4321
+1283,1283,43,condiments et sauces,1,sauces,11163,sauce aigre-douce,condiment and sauces,sauces,431,43,14321,4321311163,4321
+1284,1284,43,condiments et sauces,1,sauces,11164,sauce au vin rouge,condiment and sauces,sauces,431,43,14321,4321311164,4321
+1285,1285,43,condiments et sauces,1,sauces,11165,sauce au fromage,condiment and sauces,sauces,431,43,14321,4321311165,4321
+1286,1286,43,condiments et sauces,1,sauces,11166,sauce au yaourt,condiment and sauces,sauces,431,43,14321,4321311166,4321
+1287,1287,43,condiments et sauces,1,sauces,11179,sauce pesto,condiment and sauces,sauces,431,43,14321,4321311179,4321
+1288,1288,43,condiments et sauces,1,sauces,11184,sauce sans précision,condiment and sauces,sauces,431,43,14321,4321311184,4321
+1289,1289,43,condiments et sauces,1,sauces,81055,mayonnaise ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381055,4321
+1290,1290,43,condiments et sauces,1,sauces,81057,sauce blanche ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381057,4321
+1291,1291,43,condiments et sauces,1,sauces,81059,sauce moutarde ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381059,4321
+1292,1292,43,condiments et sauces,1,sauces,81061,vinaigrette ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381061,4321
+1293,1293,43,condiments et sauces,1,sauces,81063,vinaigrette allégée ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381063,4321
+1294,1294,43,condiments et sauces,1,sauces,81066,sauce au fromage blanc ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381066,4321
+1295,1295,43,condiments et sauces,1,sauces,81069,sauce au poivre ajoutée au service,condiment and sauces,sauces,431,43,14321,4321381069,4321
+1296,1296,43,condiments et sauces,1,sauces,92507,autre sauce,condiment and sauces,sauces,431,43,14321,4321392507,4321
+1297,1297,43,condiments et sauces,2,herbes aromatiques,11002,cerfeuil frais,condiment and sauces,aromatic herbs,432,43,14322,4322311002,4322
+1298,1298,43,condiments et sauces,2,herbes aromatiques,11003,ciboule ou ciboulette fraîche,condiment and sauces,aromatic herbs,432,43,14322,4322311003,4322
+1299,1299,43,condiments et sauces,2,herbes aromatiques,11014,persil frais,condiment and sauces,aromatic herbs,432,43,14322,4322311014,4322
+1300,1300,43,condiments et sauces,2,herbes aromatiques,11027,menthe fraîche,condiment and sauces,aromatic herbs,432,43,14322,4322311027,4322
+1301,1301,43,condiments et sauces,2,herbes aromatiques,11033,basilic frais,condiment and sauces,aromatic herbs,432,43,14322,4322311033,4322
+1302,1302,43,condiments et sauces,2,herbes aromatiques,11038,thym sec,condiment and sauces,aromatic herbs,432,43,14322,4322311038,4322
+1303,1303,43,condiments et sauces,2,herbes aromatiques,11080,herbes aromatiques fraîches,condiment and sauces,aromatic herbs,432,43,14322,4322311080,4322
+1304,1304,43,condiments et sauces,3,sel et épices,11005,curry en poudre,condiment and sauces,salt and spices,433,43,14323,4323311005,4323
+1305,1305,43,condiments et sauces,3,sel et épices,11006,gingembre moulu,condiment and sauces,salt and spices,433,43,14323,4323311006,4323
+1306,1306,43,condiments et sauces,3,sel et épices,11015,poivre noir moulu,condiment and sauces,salt and spices,433,43,14323,4323311015,4323
+1307,1307,43,condiments et sauces,3,sel et épices,11017,sel fin ou gros,condiment and sauces,salt and spices,433,43,14323,4323311017,4323
+1308,1308,43,condiments et sauces,3,sel et épices,11025,cannelle,condiment and sauces,salt and spices,433,43,14323,4323311025,4323
+1309,1309,43,condiments et sauces,3,sel et épices,11026,coriandre en graines,condiment and sauces,salt and spices,433,43,14323,4323311026,4323
+1310,1310,43,condiments et sauces,3,sel et épices,11030,sel de mer,condiment and sauces,salt and spices,433,43,14323,4323311030,4323
+1311,1311,43,condiments et sauces,3,sel et épices,11042,cumin en graines,condiment and sauces,salt and spices,433,43,14323,4323311042,4323
+1312,1312,43,condiments et sauces,3,sel et épices,11081,épices sans précision,condiment and sauces,salt and spices,433,43,14323,4323311081,4323
+1313,1313,43,condiments et sauces,4,condiments d'accompagnement,11004,cornichon au vinaigre,condiment and sauces,complement condiment,434,43,14324,4324311004,4324
+1314,1314,43,condiments et sauces,4,condiments d'accompagnement,11008,ketchup,condiment and sauces,complement condiment,434,43,14324,4324311008,4324
+1315,1315,43,condiments et sauces,4,condiments d'accompagnement,11013,moutarde,condiment and sauces,complement condiment,434,43,14324,4324311013,4324
+1316,1316,43,condiments et sauces,4,condiments d'accompagnement,11016,raifort cru,condiment and sauces,complement condiment,434,43,14324,4324311016,4324
+1317,1317,43,condiments et sauces,4,condiments d'accompagnement,11040,câpres,condiment and sauces,complement condiment,434,43,14324,4324311040,4324
+1318,1318,43,condiments et sauces,4,condiments d'accompagnement,11043,tapenade d'olives,condiment and sauces,complement condiment,434,43,14324,4324311043,4324
+1319,1319,43,condiments et sauces,4,condiments d'accompagnement,13032,olive noire en saumure,condiment and sauces,complement condiment,434,43,14324,4324313032,4324
+1320,1320,43,condiments et sauces,4,condiments d'accompagnement,13033,olive verte en saumure,condiment and sauces,complement condiment,434,43,14324,4324313033,4324
+1321,1321,43,condiments et sauces,5,condiments d'assaisonnement,11000,ail frais,condiment and sauces,seasoning condiment,435,43,14325,4325311000,4325
+1322,1322,43,condiments et sauces,5,condiments d'assaisonnement,11001,cube pour bouillon de bœuf,condiment and sauces,seasoning condiment,435,43,14325,4325311001,4325
+1323,1323,43,condiments et sauces,5,condiments d'assaisonnement,11018,vinaigre,condiment and sauces,seasoning condiment,435,43,14325,4325311018,4325
+1324,1324,43,condiments et sauces,5,condiments d'assaisonnement,11104,sauce de soja,condiment and sauces,seasoning condiment,435,43,14325,4325311104,4325
+1325,1325,43,condiments et sauces,5,condiments d'assaisonnement,20068,concentré de tomate,condiment and sauces,seasoning condiment,435,43,14325,4325320068,4325
+1326,1326,44,aliments destinés à une alimentation particulière,99,sans,11007,gélatine,special food,special food,4499,44,144299,44299311007,44299
+1327,1327,44,aliments destinés à une alimentation particulière,99,sans,11009,levure alimentaire,special food,special food,4499,44,144299,44299311009,44299
+1328,1328,44,aliments destinés à une alimentation particulière,99,sans,17610,huile de poisson,special food,special food,4499,44,144299,44299317610,44299
+1329,1329,44,aliments destinés à une alimentation particulière,99,sans,17999,huile de paraffine,special food,special food,4499,44,144299,44299317999,44299
+1330,1330,44,aliments destinés à une alimentation particulière,99,sans,18351,boisson énergisante type drak dog burn energy drink,special food,special food,4499,44,144299,44299318351,44299
+1331,1331,44,aliments destinés à une alimentation particulière,99,sans,20904,tofu,special food,special food,4499,44,144299,44299320904,44299
+1332,1332,44,aliments destinés à une alimentation particulière,99,sans,31019,édulcorant à l'aspartame,special food,special food,4499,44,144299,44299331019,44299
+1333,1333,44,aliments destinés à une alimentation particulière,99,sans,31104,barre céréalière diététique hypocalorique type gerlinéa nesvital nutrition & san,special food,special food,4499,44,144299,44299331104,44299
+1334,1334,44,aliments destinés à une alimentation particulière,99,sans,42000,substitut de repas hypocalorique genre crème dessert ultrafrais en pot tout arôm,special food,special food,4499,44,144299,44299342000,44299
+1335,1335,44,aliments destinés à une alimentation particulière,99,sans,42003,substitut de repas hypocalorique liquide à boire type gerlinéa tout arôme,special food,special food,4499,44,144299,44299342003,44299
+1336,1336,44,aliments destinés à une alimentation particulière,99,sans,42004,substitut de repas hypocalorique à boire poudre reconstituée avec lait écrémé to,special food,special food,4499,44,144299,44299342004,44299
+1337,1337,44,aliments destinés à une alimentation particulière,99,sans,42005,substitut de repas hypocalorique genre milk-shake poudre reconstituée avec lait,special food,special food,4499,44,144299,44299342005,44299
+1338,1338,44,aliments destinés à une alimentation particulière,99,sans,42500,petit déjeuner pour bébé à base de lait + céréales ou farine type blédi dej,special food,special food,4499,44,144299,44299342500,44299
+1339,1339,44,aliments destinés à une alimentation particulière,99,sans,42600,petit pot pour bébés type viande ou poisson + légumes,special food,special food,4499,44,144299,44299342600,44299
+1340,1340,44,aliments destinés à une alimentation particulière,99,sans,81064,édulcorant ajouté au service,special food,special food,4499,44,144299,44299381064,44299
+1341,1341,44,aliments destinés à une alimentation particulière,99,sans,81073,huile de paraffine ajoutée au service,special food,special food,4499,44,144299,44299381073,44299
+1342,1342,45,-,99,sans,1,aliment non codifié,no code,no code,4599,45,145299,4529931,45299

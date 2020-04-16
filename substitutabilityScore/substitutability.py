@@ -43,7 +43,7 @@ def getMeals(df, level, tyrep=[0]):
     return meals
     
 
-# SubstitutabilityScore funct ions
+# SubstitutabilityScore functions
 def isLinked(tuple1, tuple2):
     """
     These two nodes are linked if only one item is changed. 
@@ -245,12 +245,14 @@ def saveToDict(df):
     return R
 
 def results_to_list(res_pd, dico, n):
-    RES = pd.DataFrame()
+    """
+    """
+    res = pd.DataFrame()
     for x in list(res_pd.index):
         X = [dico[y] + ' ' + '{:.4f}'.format(res_pd.loc[x,str(y)]) if res_pd.loc[x,str(y)] < 1 else dico[y] for y in list(res_pd[x].nlargest(n).index)]
         #print([dict_codsougr[y] for y in list(res_pd[x].nlargest(5).index)]) 
-        RES[X[0]] = X[1:]
-    return RES.T
+        res[X[0]] = X[1:]
+    return res.T
 
 def subtitutabilityResultsLatex(df1, df2, k, name1, name2):
     """Generate latex code for printing rankings for the two matrices. 

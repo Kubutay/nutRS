@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/sema/anaconda3/envs/thesisenv/bin/python",
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceRoot}"
+      },
+    "python.pipenvPath" : "thesisenv",
+    "python.dataScience.notebookFileRoot" : "/home/sema/own/nutRS"
+}

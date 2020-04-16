@@ -15,8 +15,6 @@ import os
 import pickle
 import datetime
 import logging
-import numpy as np
-
 
 date = datetime.datetime.now().strftime('%y_%m_%d_%H_%M')
 filename = 'substitutabilityScore/logs/XP_' + date + '.log'
@@ -26,7 +24,8 @@ logging.basicConfig(filename=filename,
                     format = '%(asctime)s %(message)s', 
                     level=logging.INFO)
 
-from substitutabilityScore import jaccardIndex, openPickleFile, saveToDict, main
+from substitutability import jaccardIndex, openPickleFile, saveToDict, main
+print(os.getcwd())
 
 filepath_dico = 'data/dict_cod.p'
 filepath_data = 'data/conso_ad.p'
@@ -39,8 +38,15 @@ dict_cod = openPickleFile(filepath_dico)
 conso = openPickleFile(filepath_data)
 dico = dict_cod[level]
 
+
+logging.info('Data imported...')
+
+logging.info('Computing subScores...')
 res = main(conso, level, dico, max_meal, score)
 res_dict = saveToDict(res)
 
-with open('results/subScoreAllMeals1.p', 'wb') as handle:
+logging.info('Saving the results...')
+with open('substitutabilityScore/results/subScoreAllMeals1.p', 'wb') as handle:
     pickle.dump(res_dict, handle)
+
+logging.info('Generating result table...')
