@@ -4,6 +4,8 @@
 Created on Tue Jan 22 12:37:05 2019
 
 @author: Sema
+
+Penalty feature works fine.
 """
 import os
 import pandas as pd
